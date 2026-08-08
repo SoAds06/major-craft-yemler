@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sipariş Paneli - Major Craft Yemler</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: #f5f7fa;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 1fr;
+            height: 100vh;
+        }
+
+        .products-panel {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            background: white;
+        }
+
+        .products-header {
+            display: none;
+        }
+
+        .header-left {
+            flex: 1;
+            display: none;
+        }
+
+        .products-header h1 {
+            font-size: 1.8em;
+            margin-bottom: 2px;
+            font-weight: 700;
+            display: none;
+        }
+
+        .products-header p {
+            font-size: 0.9em;
+            opacity: 0.95;
+            display: none;
+        }
+
+        .header-buttons {
+            display: none;
+        }
+
+        .header-buttons button {
+            display: none;
+        }
+
+        .icon-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            padding: 25px 12px;
+            background: white;
+            border-left: 1px solid #e2e8f0;
+            order: 2;
+            flex-shrink: 0;
+        }
+
+        .icon-btn {
+            width: 48px;
+            height: 48px;
+            border: none;
+            background: #f0f4f8;
+            color: #475569;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.4em;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .icon-btn:hover {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.25);
+        }
+
+        .icon-btn:active {
+            transform: translateY(0);
+        }
+
+        .icon-btn.save:hover {
+            background: #10b981;
+        }
+
+        .icon-btn.download:hover {
+            background: #3b82f6;
+        }
+
+        .icon-btn.clear:hover {
+            background: #ef4444;
+        }
+
+        .status-msg {
+            margin-top: 8px;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 0.85em;
+            display: none;
+        }
+
+        .status-msg.show {
+            display: block;
+        }
+
+        .status-msg.success {
+            background: rgba(76, 175, 80, 0.3);
+            color: #a5d6a7;
+        }
+
+        .products-content {
+            flex: 1;
+            overflow-y: hidden;
+            padding: 0;
+            display: flex;
+        }
+
+        .product-card {
+            display: grid;
+            grid-template-columns: 50vw 50vw;
+            grid-template-rows: 1fr;
+            gap: 0;
+            padding: 0;
+            background: white;
+            border: none;
+            border-radius: 0;
+            margin-bottom: 0;
+            transition: none;
+            box-shadow: none;
+            height: 100%;
+            width: 100%;
+            min-height: calc(100vh - 80px);
+        }
+
+        .product-card:hover {
+            box-shadow: none;
+            transform: none;
+        }
+
+        .product-image {
+            grid-column: 1;
+            grid-row: 1 / -1;
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            border-radius: 0;
+            background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+            padding: 30px;
+        }
+
+        .product-details {
+            grid-column: 2;
+            grid-row: 1;
+            display: flex;
+            flex-direction: row;
+            padding: 0;
+            overflow: hidden;
+            background: #fafbfc;
+            border-left: none;
+            height: 100%;
+        }
+
+        .product-details > div:not(.icon-buttons) {
+            flex: 1;
+            padding: 25px 30px;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            order: 1;
+            position: relative;
+        }
+
+        .cost-section {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 16px;
+            padding: 12px;
+            background: linear-gradient(135deg, #f0f4f8 0%, #e8ecf1 100%);
+            border-radius: 8px;
+            align-items: flex-end;
+        }
+
+        .cost-display {
+            flex: 1;
+        }
+
+        .cost-label {
+            font-size: 0.7em;
+            font-weight: 700;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 4px;
+        }
+
+        .cost-value {
+            font-size: 1.6em;
+            font-weight: 700;
+            color: #10b981;
+            letter-spacing: -0.5px;
+        }
+
+        .exchange-rate-group {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+
+        .product-name {
+            font-size: 1.4em;
+            font-weight: 700;
+            color: #0f172a;
+            margin-bottom: 16px;
+            word-break: break-word;
+            letter-spacing: -0.5px;
+        }
+
+        .variant-selector {
+            margin-bottom: 12px;
+        }
+
+        .product-search-section {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-bottom: 14px;
+            padding: 10px;
+            background: #f8fafc;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .product-search-input {
+            padding: 7px 10px;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            font-size: 0.85em;
+            background: white;
+            color: #1e293b;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .product-search-input:focus {
+            outline: none;
+            border-color: #667eea;
+            background: #f8fafc;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .product-selector {
+            padding: 7px 10px;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            font-size: 0.85em;
+            background: white;
+            color: #1e293b;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+
+        .product-selector:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .product-selector option {
+            padding: 5px;
+            background: white;
+            color: #1e293b;
+        }
+
+        .product-selector option:checked {
+            background: #667eea;
+            color: white;
+        }
+
+        .variant-label {
+            font-size: 0.7em;
+            font-weight: 700;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 6px;
+        }
+
+        .variant-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .variant-btn {
+            padding: 7px 12px;
+            border: 1px solid #cbd5e1;
+            background: white;
+            color: #475569;
+            border-radius: 7px;
+            cursor: pointer;
+            font-size: 0.8em;
+            font-weight: 600;
+            transition: all 0.3s;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+        }
+
+        .variant-btn:hover {
+            border-color: #667eea;
+            color: #667eea;
+            background: #f0f4f8;
+            box-shadow: 0 2px 4px rgba(102, 126, 234, 0.1);
+        }
+
+        .variant-btn.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        }
+
+        .apply-all-section {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 14px;
+            align-items: flex-end;
+        }
+
+        .apply-all-group {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .apply-all-label {
+            font-size: 0.72em;
+            font-weight: 600;
+            color: #64748b;
+        }
+
+        .apply-all-input {
+            padding: 7px 10px;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 0.85em;
+            background: white;
+            color: #1e293b;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .apply-all-input:focus {
+            outline: none;
+            border-color: #667eea;
+            background: #f8fafc;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .apply-all-btn {
+            padding: 7px 14px;
+            border: 1px solid #cbd5e1;
+            background: white;
+            color: #475569;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.8em;
+            font-weight: 600;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+        }
+
+        .apply-all-btn:hover {
+            border-color: #667eea;
+            background: #667eea;
+            color: white;
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.2);
+        }
+
+        .apply-all-btn:active {
+            transform: scale(0.98);
+        }
+
+        .colors-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            flex: 1;
+        }
+
+        .color-input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .color-label {
+            font-size: 0.72em;
+            font-weight: 600;
+            color: #64748b;
+            line-height: 1.2;
+            word-break: break-word;
+        }
+
+        .quantity-input {
+            padding: 7px 10px;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 0.85em;
+            transition: all 0.2s;
+            background: white;
+            color: #1e293b;
+            font-weight: 500;
+        }
+
+        .quantity-input:focus {
+            outline: none;
+            border-color: #667eea;
+            background: #f8fafc;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #d0d0d0;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="products-panel">
+            <div class="products-header">
+                <div class="header-left">
+                    <h1>📦 Sipariş Paneli</h1>
+                    <p>Major Craft Yemler - Ürün Kataloğu</p>
+                </div>
+                <div class="header-buttons">
+                    <button class="btn-save" onclick="saveAllOrder()">💾 Kaydet</button>
+                    <button class="btn-download" onclick="downloadOrder()">⬇️ JSON</button>
+                    <button class="btn-download" onclick="downloadExcel()" style="background: rgba(76,175,80,0.3); border: 2px solid rgba(76,175,80,0.5);">📊 Excel</button>
+                    <button class="btn-download" onclick="loadOrderFile()">📂 Yükle</button>
+                    <button class="btn-clear" onclick="clearAllOrder()">🗑️ Temizle</button>
+                </div>
+                <div class="status-msg" id="status"></div>
+            </div>
+
+            <div class="products-content" id="productsContent"></div>
+        </div>
+    </div>
+
+    <script>
+        const ITEMS_PER_PAGE = 1;
+        let products = [];
+        let currentPage = 1;
+        let currentVariant = {};
+        
+        // GLOBAL STATE - TÜM AĞ İŞ BURADA
+        let orderData = {};
+
+        function showStatus(msg, type = 'success') {
+            const status = document.getElementById('status');
+            status.textContent = msg;
+            status.className = `status-msg show ${type}`;
+            setTimeout(() => {
+                status.classList.remove('show');
+            }, 3000);
+        }
+
+        async function loadProducts() {
+            try {
+                const response = await fetch('products.json');
+                const data = await response.json();
+                products = data.products;
+
+                // localStorage'dan orderData'yı yükle
+                const saved = localStorage.getItem('majorCraftOrderData');
+                if (saved) {
+                    try {
+                        orderData = JSON.parse(saved);
+                        console.log('📂 Kaydedilmiş sipariş yüklendi:', Object.keys(orderData).length, 'adet');
+                    } catch (e) {
+                        console.log('Yeni sipariş başlanıyor...');
+                        orderData = {};
+                    }
+                }
+
+                renderCurrentPage();
+                setTimeout(calculateTotalCost, 50);
+            } catch (error) {
+                console.error('Ürünler yüklenemedi:', error);
+                showStatus('Ürünler yüklenirken hata oluştu!', 'error');
+            }
+        }
+
+        function renderCurrentPage() {
+            const start = (currentPage - 1) * ITEMS_PER_PAGE;
+            const end = start + ITEMS_PER_PAGE;
+            const pageProducts = products.slice(start, end);
+
+            const content = document.getElementById('productsContent');
+
+            // Eski cost değerini kaydet
+            const oldCostHTML = document.getElementById('costDisplay')?.innerHTML;
+
+            content.innerHTML = '';
+
+            pageProducts.forEach((product) => {
+                const card = document.createElement('div');
+                card.className = 'product-card';
+
+                // Varyasyon butonları
+                let variantHTML = '';
+                if (product.variants && Object.keys(product.variants).length > 0) {
+                    variantHTML = `
+                        <div class="variant-selector">
+                            <div class="variant-label">Seçenek Seçin</div>
+                            <div class="variant-buttons">
+                    `;
+
+                    for (const varKey of Object.keys(product.variants).sort()) {
+                        const isActive = currentVariant[product.id] === varKey ? 'active' : '';
+                        variantHTML += `
+                            <button class="variant-btn ${isActive}" onclick="selectVariant('${product.id}', '${varKey}')">
+                                ${varKey}
+                            </button>
+                        `;
+                    }
+                    variantHTML += `</div></div>`;
+                }
+
+                // Renkleri al
+                let colors = product.colors || [];
+                if (product.variants && currentVariant[product.id]) {
+                    colors = product.variants[currentVariant[product.id]].colors || [];
+                }
+
+                // Ürün arama dropdown'ı oluştur
+                const productOptionsHTML = products.map((p, idx) => {
+                    const isSelected = idx + 1 === currentPage ? 'selected' : '';
+                    return `<option value="${idx + 1}" ${isSelected}>${p.name}</option>`;
+                }).join('');
+
+                const colorsHTML = colors.map(color => {
+                    const key = `${product.id}|${currentVariant[product.id] || 'default'}|${color}`;
+                    const value = orderData[key] || 0;
+
+                    return `
+                        <div class="color-input-group">
+                            <label class="color-label">${color}</label>
+                            <input
+                                type="number"
+                                class="quantity-input"
+                                data-key="${key}"
+                                placeholder="0"
+                                min="0"
+                                value="${value}"
+                                onchange="updateOrderData(this)"
+                                oninput="updateOrderData(this)"
+                            >
+                        </div>
+                    `;
+                }).join('');
+
+                card.innerHTML = `
+                    <img src="${product.image}" alt="${product.name}" class="product-image" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22300%22 height=%22250%22%3E%3Crect fill=%22%23f0f0f0%22 width=%22300%22 height=%22250%22/%3E%3C/svg%3E'">
+                    <div class="product-details">
+                        <div class="icon-buttons">
+                            <button class="icon-btn save" onclick="saveAllOrder()" title="Kaydet">💾</button>
+                            <button class="icon-btn download" onclick="downloadOrder()" title="JSON İndir">⬇️</button>
+                            <button class="icon-btn download" onclick="downloadExcel()" title="Excel İndir">📊</button>
+                            <button class="icon-btn download" onclick="loadOrderFile()" title="Yükle">📂</button>
+                            <button class="icon-btn clear" onclick="clearAllOrder()" title="Temizle">🗑️</button>
+                            <div style="flex: 1;"></div>
+                            <button class="icon-btn" onclick="previousPage()" id="prevBtn" title="Önceki">←</button>
+                            <button class="icon-btn" onclick="nextPage()" id="nextBtn" title="Sonraki">→</button>
+                        </div>
+                        <div>
+                            <div class="cost-section">
+                                <div class="cost-display">
+                                    <div class="cost-label">Toplam Maliyet</div>
+                                    <div class="cost-value" id="costDisplay">${getCostHTML()}</div>
+                                </div>
+                            </div>
+                            <div class="product-name">${product.name}</div>
+                            ${variantHTML}
+                            <div class="apply-all-section">
+                                <div class="apply-all-group">
+                                    <label class="apply-all-label">Hepsine Uygula</label>
+                                    <input
+                                        type="number"
+                                        class="apply-all-input"
+                                        data-product-id="${product.id}"
+                                        placeholder="0"
+                                        min="0"
+                                    >
+                                </div>
+                                <button class="apply-all-btn" onclick="applyToAllColors('${product.id}')">Tümüne Uygula</button>
+                            </div>
+                            <div class="colors-grid">${colorsHTML}</div>
+                            <div class="product-search-section">
+                                <input
+                                    type="text"
+                                    class="product-search-input"
+                                    id="productSearch"
+                                    placeholder="Ürün ara..."
+                                    oninput="filterProducts(this)"
+                                >
+                                <select class="product-selector" id="productSelect" onchange="goToProduct(this)">
+                                    ${productOptionsHTML}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                `;
+
+                content.appendChild(card);
+            });
+
+            updatePagination();
+
+            // Eski cost değerini geri yükle
+            if (oldCostHTML && document.getElementById('costDisplay')) {
+                document.getElementById('costDisplay').innerHTML = oldCostHTML;
+            }
+        }
+
+        function selectVariant(productId, variantKey) {
+            currentVariant[productId] = variantKey;
+            renderCurrentPage();
+        }
+
+        function updateOrderData(input) {
+            const key = input.dataset.key;
+            const value = parseInt(input.value) || 0;
+
+            if (value > 0) {
+                orderData[key] = value;
+            } else {
+                delete orderData[key];
+            }
+
+            // Hemen localStorage'a kaydet
+            localStorage.setItem('majorCraftOrderData', JSON.stringify(orderData));
+            console.log('✅ Otomatik kaydedildi');
+
+            // Maliyeti güncelle
+            calculateTotalCost();
+        }
+
+        function getCostHTML() {
+            const EXCHANGE_RATE = 47.5; // Sabit kur
+            let totalCostTL = 0;
+            let totalCostUSD = 0;
+
+            Object.entries(orderData).forEach(([key, quantity]) => {
+                if (quantity > 0) {
+                    const [productId] = key.split('|');
+                    const product = products.find(p => p.id === productId);
+
+                    if (product && product.price_usd) {
+                        const costUSD = product.price_usd * quantity;
+                        totalCostUSD += costUSD;
+                        const costTL = costUSD * EXCHANGE_RATE;
+                        totalCostTL += costTL;
+                    }
+                }
+            });
+
+            const formattedTL = totalCostTL.toLocaleString('tr-TR', {
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2
+            });
+            const formattedUSD = totalCostUSD.toLocaleString('en-US', {
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2
+            });
+
+            return `₺ ${formattedTL}<br><span style="font-size: 0.75em; color: #64748b;">$${formattedUSD}</span>`;
+        }
+
+        function calculateTotalCost() {
+            const costDisplay = document.getElementById('costDisplay');
+            if (costDisplay) {
+                costDisplay.innerHTML = getCostHTML();
+            }
+        }
+
+
+        function applyToAllColors(productId) {
+            const input = document.querySelector(`.apply-all-input[data-product-id="${productId}"]`);
+            const value = parseInt(input.value) || 0;
+
+            if (value === 0) {
+                showStatus('❌ Lütfen bir değer giriniz!', 'error');
+                return;
+            }
+
+            // Tüm color input'ları bul ve update et
+            const colorInputs = document.querySelectorAll('.quantity-input');
+            let count = 0;
+
+            colorInputs.forEach(colorInput => {
+                const key = colorInput.dataset.key;
+                if (key.startsWith(productId + '|')) {
+                    colorInput.value = value;
+                    updateOrderData(colorInput);
+                    count++;
+                }
+            });
+
+            showStatus(`✅ ${count} renge uygulandı!`, 'success');
+            input.value = '';
+            calculateTotalCost();
+        }
+
+        function previousPage() {
+            if (currentPage > 1) {
+                currentPage--;
+                renderCurrentPage();
+                setTimeout(calculateTotalCost, 50);
+                document.querySelector('.products-content').scrollTop = 0;
+            }
+        }
+
+        function nextPage() {
+            const totalPages = Math.ceil(products.length / ITEMS_PER_PAGE);
+            if (currentPage < totalPages) {
+                currentPage++;
+                renderCurrentPage();
+                setTimeout(calculateTotalCost, 50);
+                document.querySelector('.products-content').scrollTop = 0;
+            }
+        }
+
+        function goToProduct(select) {
+            const page = parseInt(select.value);
+            if (page && page !== currentPage) {
+                currentPage = page;
+                renderCurrentPage();
+                setTimeout(calculateTotalCost, 50);
+                document.querySelector('.products-content').scrollTop = 0;
+            }
+        }
+
+        function filterProducts(input) {
+            const searchTerm = input.value.toLowerCase().trim();
+            const select = document.getElementById('productSelect');
+
+            if (!select) return;
+
+            const options = select.querySelectorAll('option');
+            let visibleCount = 0;
+
+            options.forEach((option, idx) => {
+                const productName = option.textContent.toLowerCase();
+                if (searchTerm === '' || productName.includes(searchTerm)) {
+                    option.style.display = '';
+                    visibleCount++;
+                } else {
+                    option.style.display = 'none';
+                }
+            });
+
+            // Hiç eşleşme yoksa tümünü göster
+            if (visibleCount === 0) {
+                options.forEach(option => option.style.display = '');
+            }
+        }
+
+        function updatePagination() {
+            const totalPages = Math.ceil(products.length / ITEMS_PER_PAGE);
+            document.getElementById('currentPage').textContent = currentPage;
+            document.getElementById('totalPages').textContent = totalPages;
+
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+
+            prevBtn.disabled = currentPage <= 1;
+            nextBtn.disabled = currentPage >= totalPages;
+        }
+
+        function saveAllOrder() {
+            localStorage.setItem('majorCraftOrderData', JSON.stringify(orderData));
+            showStatus('✅ Sipariş başarıyla kaydedildi!', 'success');
+            console.log('💾 Kaydedildi:', Object.keys(orderData).length, 'adet');
+        }
+
+        function downloadOrder() {
+            const items = [];
+            Object.entries(orderData).forEach(([key, value]) => {
+                if (value > 0) {
+                    const [productId, variant, color] = key.split('|');
+                    const product = products.find(p => p.id === productId);
+                    items.push({
+                        productId,
+                        productName: product?.name || productId,
+                        variant: variant !== 'default' ? variant : null,
+                        color,
+                        quantity: value
+                    });
+                }
+            });
+
+            const data = {
+                timestamp: new Date().toISOString(),
+                items: items
+            };
+
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `siparis-${new Date().toISOString().split('T')[0]}.json`;
+            a.click();
+            URL.revokeObjectURL(url);
+            
+            showStatus('⬇️ Sipariş indirildi!', 'success');
+        }
+
+        function loadOrderFile() {
+            const input = document.createElement('input');
+            input.type = 'file';
+            input.accept = '.json';
+            input.onchange = (e) => {
+                const file = e.target.files[0];
+                if (!file) return;
+
+                const reader = new FileReader();
+                reader.onload = (event) => {
+                    try {
+                        const data = JSON.parse(event.target.result);
+                        
+                        // Temizle ve yeni verileri yükle
+                        orderData = {};
+                        data.items.forEach(item => {
+                            const key = `${item.productId}|${item.variant || 'default'}|${item.color}`;
+                            orderData[key] = item.quantity;
+                        });
+                        
+                        // localStorage'a kaydet
+                        localStorage.setItem('majorCraftOrderData', JSON.stringify(orderData));
+                        
+                        // Sayfayı yenile
+                        currentPage = 1;
+                        renderCurrentPage();
+                        calculateTotalCost();
+
+                        showStatus('✅ Sipariş başarıyla yüklendi!', 'success');
+                        console.log('📂 Yüklendi:', Object.keys(orderData).length, 'adet');
+                    } catch (error) {
+                        showStatus('❌ Dosya yüklenirken hata!', 'error');
+                        console.error(error);
+                    }
+                };
+                reader.readAsText(file);
+            };
+            input.click();
+        }
+
+        function clearAllOrder() {
+            if (confirm('Tüm siparişi silmek istediğinizden emin misiniz?')) {
+                orderData = {};
+                localStorage.setItem('majorCraftOrderData', JSON.stringify(orderData));
+                renderCurrentPage();
+                showStatus('🗑️ Sipariş temizlendi!', 'success');
+                console.log('🗑️ Temizlendi');
+                calculateTotalCost();
+            }
+        }
+
+        function downloadExcel() {
+            const items = [];
+            Object.entries(orderData).forEach(([key, value]) => {
+                if (value > 0) {
+                    const [productId, variant, color] = key.split('|');
+                    const product = products.find(p => p.id === productId);
+                    items.push({
+                        'Ürün Adı': product?.name || productId,
+                        'Seçenek': variant !== 'default' ? variant : '-',
+                        'Renk': color,
+                        'Adet': value,
+                        'JAN Kodu': product?.jan || '-'
+                    });
+                }
+            });
+
+            if (items.length === 0) {
+                showStatus('❌ Sipariş yok!', 'error');
+                return;
+            }
+
+            // CSV oluştur (Excel açabilir)
+            let csv = 'Ürün Adı,Seçenek,Renk,Adet,JAN Kodu\n';
+            items.forEach(item => {
+                csv += `"${item['Ürün Adı']}","${item['Seçenek']}","${item['Renk']}",${item['Adet']},"${item['JAN Kodu']}"\n`;
+            });
+
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement('a');
+            const url = URL.createObjectURL(blob);
+            link.setAttribute('href', url);
+            link.setAttribute('download', `siparis-${new Date().toISOString().split('T')[0]}.csv`);
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+
+            showStatus('📊 Excel (CSV) indirildi!', 'success');
+        }
+
+        // Sayfa yüklendiğinde
+        document.addEventListener('DOMContentLoaded', loadProducts);
+    </script>
+</body>
+</html>

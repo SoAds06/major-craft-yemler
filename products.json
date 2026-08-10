@@ -3,7 +3,7 @@
     {
       "id": "aji-do-metail",
       "name": "Aji Do Metail",
-      "image": "aji-do-metail.jpeg",
+      "image": "images/aji-do-metail.jpeg",
       "colors": [
         "#001 IWASHI (UV)",
         "#002 MAMEAJI (UV)",
@@ -134,7 +134,7 @@
     {
       "id": "aji-do-worm-candoll",
       "name": "Aji Do Worm Candoll",
-      "image": "aji-do-worm-candoll.jpeg",
+      "image": "images/aji-do-worm-candoll.jpeg",
       "colors": [
         "#001 IWASHI (DOT GLOW)",
         "#002 GLOW PINK",
@@ -171,7 +171,7 @@
     {
       "id": "aji-do-worm-hachikku",
       "name": "Aji Do Worm Hachikku",
-      "image": "aji-do-worm-hachikku.jpeg",
+      "image": "images/aji-do-worm-hachikku.jpeg",
       "colors": [
         "#001 IWASHI (DOT GLOW)",
         "#002 GLOW PINK",
@@ -208,7 +208,7 @@
     {
       "id": "aji-do-worm-redama",
       "name": "Aji Do Worm Redama",
-      "image": "aji-do-worm-redama.jpeg",
+      "image": "images/aji-do-worm-redama.jpeg",
       "colors": [
         "#001 IWASHI (DOT GLOW)",
         "#002 GLOW PINK",
@@ -245,7 +245,7 @@
     {
       "id": "aji-do-worm-zanby",
       "name": "Aji Do Worm Zanby",
-      "image": "aji-do-worm-zanby.jpeg",
+      "image": "images/aji-do-worm-zanby.jpeg",
       "colors": [
         "#001 IWASHI (DOT GLOW)",
         "#002 GLOW PINK",
@@ -282,7 +282,7 @@
     {
       "id": "big-eye-egi-sutte",
       "name": "Big Eye Egi Sutte",
-      "image": "big-eye-egi-sutte.jpeg",
+      "image": "images/big-eye-egi-sutte.jpeg",
       "colors": [
         "#001 GLOW RED GREEN",
         "#002 GLOW ORANGE BROWN",
@@ -363,7 +363,7 @@
     {
       "id": "big-eye-metal",
       "name": "Big Eye Metal",
-      "image": "big-eye-metal.jpeg",
+      "image": "images/big-eye-metal.jpeg",
       "colors": [
         "#001 GLOW RED GREEN",
         "#002 GLOW RED YELLOW",
@@ -509,7 +509,7 @@
     {
       "id": "big-eye-omorig-egi-slow-fall",
       "name": "Big Eye Omorig Egi Slow Fall",
-      "image": "big-eye-omorig-egi-slow-fall.jpeg",
+      "image": "images/big-eye-omorig-egi-slow-fall.jpeg",
       "colors": [
         "#001 GLOW RED GREEN",
         "#002 GLOW APPEAL RED",
@@ -539,7 +539,7 @@
     {
       "id": "big-eye-omorig-egi",
       "name": "Big Eye Omorig Egi",
-      "image": "big-eye-omorig-egi.jpeg",
+      "image": "images/big-eye-omorig-egi.jpeg",
       "colors": [
         "#001 GLOW RED GREEN",
         "#002 GLOW ORANGE BROWN",
@@ -583,7 +583,7 @@
     {
       "id": "big-eye-sutte",
       "name": "Big Eye Sutte",
-      "image": "big-eye-sutte.jpeg",
+      "image": "images/big-eye-sutte.jpeg",
       "colors": [
         "#001 GLOW RED GREEN",
         "#002 GLOW ORANGE BROWN",
@@ -664,7 +664,7 @@
     {
       "id": "biobait-i-tail",
       "name": "Biobait I Tail",
-      "image": "biobait-i-tail.jpeg",
+      "image": "images/biobait-i-tail.jpeg",
       "colors": [
         "#001 BACHI",
         "#002 AMI-EBI",
@@ -704,7 +704,7 @@
     {
       "id": "black-porgy-blade",
       "name": "Black Porgy Blade",
-      "image": "black-porgy-blade.jpeg",
+      "image": "images/black-porgy-blade.jpeg",
       "colors": [
         "#001 FUNKY COLA",
         "#002 FUNKY ORANGE",
@@ -757,7 +757,7 @@
     {
       "id": "black-porgy-candy",
       "name": "Black Porgy Candy",
-      "image": "black-porgy-candy.jpeg",
+      "image": "images/black-porgy-candy.jpeg",
       "colors": [
         "#001 FUNKY COLA",
         "#002 FUNKY ORANGE",
@@ -810,7 +810,7 @@
     {
       "id": "black-porgy-chinu-claw",
       "name": "Black Porgy Chinu Claw",
-      "image": "black-porgy-chinu-claw.jpeg",
+      "image": "images/black-porgy-chinu-claw.jpeg",
       "colors": [
         "#001 WATER MELON BLUE",
         "#002 GREEN PUMPKIN",
@@ -846,7 +846,7 @@
     {
       "id": "breakback-120",
       "name": "Breakback 120",
-      "image": "breakback-120.jpeg",
+      "image": "images/breakback-120.jpeg",
       "colors": [
         "#001 IWASHI (UV)",
         "#002 BLUE PINK IWASHI (UV)",
@@ -882,7 +882,7 @@
     {
       "id": "ceana-eely-shad-160mm-strong-hook-version",
       "name": "Ceana Eely Shad 160mm Strong Hook Version",
-      "image": "ceana-eely-shad-160mm-strong-hook-version.jpeg",
+      "image": "images/ceana-eely-shad-160mm-strong-hook-version.jpeg",
       "colors": [
         "#002 PEARL WHITE",
         "#003 PINK",
@@ -910,7 +910,7 @@
     {
       "id": "ceana-eely-shad",
       "name": "Ceana Eely Shad",
-      "image": "ceana-eely-shad.jpeg",
+      "image": "images/ceana-eely-shad.jpeg",
       "colors": [
         "#001 SHINY SHAD",
         "#002 PEARL WHITE",
@@ -1010,7 +1010,7 @@
     {
       "id": "ceana-jerkbait-110-middle",
       "name": "Ceana Jerkbait 110 Middle",
-      "image": "ceana-jerkbait-110-middle.jpeg",
+      "image": "images/ceana-jerkbait-110-middle.jpeg",
       "colors": [
         "#001 BLUE BACK SILVER",
         "#002 GREEN BACK SILVER",
@@ -1055,7 +1055,7 @@
     {
       "id": "crosride-jig-heavy-metal",
       "name": "Crosride Jig Heavy Metal",
-      "image": "crosride-jig-heavy-metal.jpeg",
+      "image": "images/crosride-jig-heavy-metal.jpeg",
       "colors": [
         "#001 IWASHI(UV)",
         "#002 RED GOLD(UV)",
@@ -1169,7 +1169,7 @@
     {
       "id": "crossride-blade",
       "name": "Crossride Blade",
-      "image": "crossride-blade.jpeg",
+      "image": "images/crossride-blade.jpeg",
       "colors": [
         "#003 KEIMURA RED GOLD",
         "#015 KEIMURA IWASHI",
@@ -1231,7 +1231,7 @@
     {
       "id": "dangan-sutte",
       "name": "Dangan Sutte",
-      "image": "dangan-sutte.jpeg",
+      "image": "images/dangan-sutte.jpeg",
       "colors": [
         "#001 RED-WHITE (GLOW)",
         "#002 RED-GREEN (GLOW)",
@@ -1284,7 +1284,7 @@
     {
       "id": "egizo-bait-feather-onpa",
       "name": "Egizo Bait Feather Onpa",
-      "image": "egizo-bait-feather-onpa.jpeg",
+      "image": "images/egizo-bait-feather-onpa.jpeg",
       "colors": [
         "#001 GLOW APPEAL ORANGE",
         "#002 GLOW APPEAL RED",
@@ -1373,7 +1373,7 @@
     {
       "id": "egizo-bait-feather-tip-run",
       "name": "Egizo Bait Feather Tip Run",
-      "image": "egizo-bait-feather-tip-run.jpeg",
+      "image": "images/egizo-bait-feather-tip-run.jpeg",
       "colors": [
         "#001 PURPLE PURPLE",
         "#002 GLOW GOLD ORANGE",
@@ -1442,7 +1442,7 @@
     {
       "id": "egizo-bait-feather",
       "name": "Egizo Bait Feather",
-      "image": "egizo-bait-feather.jpeg",
+      "image": "images/egizo-bait-feather.jpeg",
       "colors": [
         "#051 GLOW APPEAL ORANGE",
         "#052 GLOW GOLD BROWN",
@@ -1574,7 +1574,7 @@
     {
       "id": "egizo-shrimp",
       "name": "Egizo Shrimp",
-      "image": "egizo-shrimp.jpeg",
+      "image": "images/egizo-shrimp.jpeg",
       "colors": [
         "#001 GLOW ORANGE",
         "#002 BLUE GLOW BLUE",
@@ -1643,7 +1643,7 @@
     {
       "id": "egizo-tr-smart-fit",
       "name": "Egizo Tr Smart Fit",
-      "image": "egizo-tr-smart-fit.jpeg",
+      "image": "images/egizo-tr-smart-fit.jpeg",
       "colors": [
         "#001 PURPLE PURPLE",
         "#002 PURPLE NAVY",
@@ -1729,7 +1729,7 @@
     {
       "id": "egizo",
       "name": "Egizo",
-      "image": "egizo.jpeg",
+      "image": "images/egizo.jpeg",
       "colors": [
         "#012 GLOW GOLD ORANGE",
         "#013 GLOW APEAL ORANGE",
@@ -1838,7 +1838,7 @@
     {
       "id": "fighting-craw",
       "name": "Fighting Craw",
-      "image": "fighting-craw.jpeg",
+      "image": "images/fighting-craw.jpeg",
       "colors": [
         "#101 GLOW",
         "#107 KEIMURA RED",
@@ -1891,7 +1891,7 @@
     {
       "id": "finetail-eden-sw-custom-color",
       "name": "Finetail Eden Sw Custom Color",
-      "image": "finetail-eden-sw-custom-color.jpeg",
+      "image": "images/finetail-eden-sw-custom-color.jpeg",
       "colors": [
         "#001 CHARTBACK",
         "#002 IWASHI",
@@ -1933,7 +1933,7 @@
     {
       "id": "finetail-eden",
       "name": "Finetail Eden",
-      "image": "finetail-eden.jpeg",
+      "image": "images/finetail-eden.jpeg",
       "colors": [
         "#001 PEARL YAMAME",
         "#002 LASER YAMAME",
@@ -2030,7 +2030,7 @@
     {
       "id": "first-jig-long",
       "name": "First Jig Long",
-      "image": "first-jig-long.jpeg",
+      "image": "images/first-jig-long.jpeg",
       "colors": [
         "#003 RED GOLD (UV)",
         "#004 BLUE PINK (UV)",
@@ -2133,7 +2133,7 @@
     {
       "id": "first-jig-slow",
       "name": "First Jig Slow",
-      "image": "first-jig-slow.jpeg",
+      "image": "images/first-jig-slow.jpeg",
       "colors": [
         "#003 RED GOLD (UV)",
         "#004 BLUE PINK (UV)",
@@ -2229,7 +2229,7 @@
     {
       "id": "first-jig-tachiuo",
       "name": "First Jig Tachiuo",
-      "image": "first-jig-tachiuo.jpeg",
+      "image": "images/first-jig-tachiuo.jpeg",
       "colors": [
         "#003 RED GOLD(UV)",
         "#004 ZEBRA RED GOLD",
@@ -2310,7 +2310,7 @@
     {
       "id": "first-jig",
       "name": "First Jig",
-      "image": "first-jig.jpeg",
+      "image": "images/first-jig.jpeg",
       "colors": [
         "#001 IWASHI",
         "#003 RED GOLD",
@@ -2399,7 +2399,7 @@
     {
       "id": "giant-killin-bomber-spin",
       "name": "Giant Killin Bomber Spin",
-      "image": "giant-killin-bomber-spin.jpeg",
+      "image": "images/giant-killin-bomber-spin.jpeg",
       "colors": [
         "#001 IWASHI (UV)",
         "#002 PINK IWASHI (UV)",
@@ -2517,7 +2517,7 @@
     {
       "id": "giant-killing-pg-set",
       "name": "Giant Killing Pg Set",
-      "image": "giant-killing-pg-set.jpeg",
+      "image": "images/giant-killing-pg-set.jpeg",
       "colors": [
         "# PINK",
         "#020 LIVE IWASHI",
@@ -2568,7 +2568,7 @@
     {
       "id": "ginryu-shore-tachiuo-tenya",
       "name": "Ginryu Shore Tachiuo Tenya",
-      "image": "ginryu-shore-tachiuo-tenya.jpeg",
+      "image": "images/ginryu-shore-tachiuo-tenya.jpeg",
       "colors": [
         "#001 SUPER GLOW",
         "#002 PURPLE GLOW(UV)",
@@ -2644,7 +2644,7 @@
     {
       "id": "hamaoh-head",
       "name": "Hamaoh Head",
-      "image": "hamaoh-head.jpeg",
+      "image": "images/hamaoh-head.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 BLUE PINK IWASHI",
@@ -2691,7 +2691,7 @@
     {
       "id": "hamaoh-set14",
       "name": "Hamaoh Set14",
-      "image": "hamaoh-set14.jpeg",
+      "image": "images/hamaoh-set14.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 BLUE PINK IWASHI",
@@ -2737,7 +2737,7 @@
     {
       "id": "hamaoh-set18",
       "name": "Hamaoh Set18",
-      "image": "hamaoh-set18.jpeg",
+      "image": "images/hamaoh-set18.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 BLUE PINK IWASHI",
@@ -2783,7 +2783,7 @@
     {
       "id": "hamaoh-set21",
       "name": "Hamaoh Set21",
-      "image": "hamaoh-set21.jpeg",
+      "image": "images/hamaoh-set21.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 BLUE PINK IWASHI",
@@ -2841,7 +2841,7 @@
     {
       "id": "hamaoh-set28",
       "name": "Hamaoh Set28",
-      "image": "hamaoh-set28.jpeg",
+      "image": "images/hamaoh-set28.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 BLUE PINK IWASHI",
@@ -2899,7 +2899,7 @@
     {
       "id": "hamaoh-set32",
       "name": "Hamaoh Set32",
-      "image": "hamaoh-set32.jpeg",
+      "image": "images/hamaoh-set32.jpeg",
       "colors": [
         "#002 BLUE PINK IWASHI",
         "#003 PINK IWASHI",
@@ -2935,7 +2935,7 @@
     {
       "id": "hamaoh-shad3-5",
       "name": "Hamaoh Shad3 5",
-      "image": "hamaoh-shad3-5.jpeg",
+      "image": "images/hamaoh-shad3-5.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 BLUE PINK IWASHI",
@@ -2981,7 +2981,7 @@
     {
       "id": "hamaoh-shad4",
       "name": "Hamaoh Shad4",
-      "image": "hamaoh-shad4.jpeg",
+      "image": "images/hamaoh-shad4.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 BLUE PINK IWASHI",
@@ -3033,7 +3033,7 @@
     {
       "id": "jig-rubber-through-offset",
       "name": "Jig Rubber Through Offset",
-      "image": "jig-rubber-through-offset.jpeg",
+      "image": "images/jig-rubber-through-offset.jpeg",
       "colors": [
         "#205 Red",
         "#207 Orange",
@@ -3061,7 +3061,7 @@
     {
       "id": "jig-rubber-through-tie",
       "name": "Jig Rubber Through Tie",
-      "image": "jig-rubber-through-tie.jpeg",
+      "image": "images/jig-rubber-through-tie.jpeg",
       "colors": [
         "#205 RED",
         "#207 ORANGE",
@@ -3089,7 +3089,7 @@
     {
       "id": "jig-rubber-through",
       "name": "Jig Rubber Through",
-      "image": "jig-rubber-through.jpeg",
+      "image": "images/jig-rubber-through.jpeg",
       "colors": [
         "#205 Red",
         "#207 Orange",
@@ -3190,7 +3190,7 @@
     {
       "id": "jigpara-blade-fw",
       "name": "Jigpara Blade Fw",
-      "image": "jigpara-blade-fw.jpeg",
+      "image": "images/jigpara-blade-fw.jpeg",
       "colors": [
         "#001 OIKAWA",
         "#030 G-SHAD",
@@ -3239,7 +3239,7 @@
     {
       "id": "jigpara-ender-tg",
       "name": "Jigpara Ender Tg",
-      "image": "jigpara-ender-tg.jpeg",
+      "image": "images/jigpara-ender-tg.jpeg",
       "colors": [
         "#001 IWASHI (UV)",
         "#002 BLUE PINK (UV)",
@@ -3304,7 +3304,7 @@
     {
       "id": "jigpara-micro-fw",
       "name": "Jigpara Micro Fw",
-      "image": "jigpara-micro-fw.jpeg",
+      "image": "images/jigpara-micro-fw.jpeg",
       "colors": [
         "#001 OIKAWA",
         "#030 G-SHAD",
@@ -3353,7 +3353,7 @@
     {
       "id": "jigpara-micro-livebait",
       "name": "Jigpara Micro Livebait",
-      "image": "jigpara-micro-livebait.jpeg",
+      "image": "images/jigpara-micro-livebait.jpeg",
       "colors": [
         "#080 LIVE IWASHI (UV)",
         "#081 LIVE KIN IWASHI (UV)",
@@ -3437,7 +3437,7 @@
     {
       "id": "jigpara-micro-slim-livebait",
       "name": "Jigpara Micro Slim Livebait",
-      "image": "jigpara-micro-slim-livebait.jpeg",
+      "image": "images/jigpara-micro-slim-livebait.jpeg",
       "colors": [
         "#080 LIVE IWASHI (UV)",
         "#081 LIVE KIN IWASHI (UV)",
@@ -3521,7 +3521,7 @@
     {
       "id": "jigpara-micro-slim",
       "name": "Jigpara Micro Slim",
-      "image": "jigpara-micro-slim.jpeg",
+      "image": "images/jigpara-micro-slim.jpeg",
       "colors": [
         "#003 RED GOLD",
         "#004 BLUE PINK",
@@ -3625,7 +3625,7 @@
     {
       "id": "jigpara-micro",
       "name": "Jigpara Micro",
-      "image": "jigpara-micro.jpeg",
+      "image": "images/jigpara-micro.jpeg",
       "colors": [
         "#003 RED GOLD",
         "#004 BLUE PINK",
@@ -3742,7 +3742,7 @@
     {
       "id": "jigpara-short-livebait",
       "name": "Jigpara Short Livebait",
-      "image": "jigpara-short-livebait.jpeg",
+      "image": "images/jigpara-short-livebait.jpeg",
       "colors": [
         "#080 LIVE IWASHI",
         "#081 LIVE KIN IWASHI",
@@ -3874,7 +3874,7 @@
     {
       "id": "jigpara-short",
       "name": "Jigpara Short",
-      "image": "jigpara-short.jpeg",
+      "image": "images/jigpara-short.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 PINK",
@@ -4106,7 +4106,7 @@
     {
       "id": "jigpara-slow-livebait",
       "name": "Jigpara Slow Livebait",
-      "image": "jigpara-slow-livebait.jpeg",
+      "image": "images/jigpara-slow-livebait.jpeg",
       "colors": [
         "#080 LIVE IWASHI (UV)",
         "#081 LIVE KIN IWASHI (UV)",
@@ -4218,7 +4218,7 @@
     {
       "id": "jigpara-slow",
       "name": "Jigpara Slow",
-      "image": "jigpara-slow.jpeg",
+      "image": "images/jigpara-slow.jpeg",
       "colors": [
         "#001 IWASHI",
         "#004 BLUE PINK",
@@ -4397,7 +4397,7 @@
     {
       "id": "jigpara-spin-fw",
       "name": "Jigpara Spin Fw",
-      "image": "jigpara-spin-fw.jpeg",
+      "image": "images/jigpara-spin-fw.jpeg",
       "colors": [
         "#001 OIKAWA",
         "#030 G-SHAD",
@@ -4446,7 +4446,7 @@
     {
       "id": "jigpara-spin",
       "name": "Jigpara Spin",
-      "image": "jigpara-spin.jpeg",
+      "image": "images/jigpara-spin.jpeg",
       "colors": [
         "#001 IWASHI",
         "#003 RED GOLD",
@@ -4581,7 +4581,7 @@
     {
       "id": "jigpara-surf-livebait",
       "name": "Jigpara Surf Livebait",
-      "image": "jigpara-surf-livebait.jpeg",
+      "image": "images/jigpara-surf-livebait.jpeg",
       "colors": [
         "#080 LIVE IWASHI(UV)",
         "#081 LIVE KIN IWASHI(UV)",
@@ -4631,7 +4631,7 @@
     {
       "id": "jigpara-surf",
       "name": "Jigpara Surf",
-      "image": "jigpara-surf.jpeg",
+      "image": "images/jigpara-surf.jpeg",
       "colors": [
         "#001 IWASHI",
         "#003 RED GOLD",
@@ -4720,7 +4720,7 @@
     {
       "id": "jigpara-tg-livebait",
       "name": "Jigpara Tg Livebait",
-      "image": "jigpara-tg-livebait.jpeg",
+      "image": "images/jigpara-tg-livebait.jpeg",
       "colors": [
         "#080 LIVE IWASHI(UV)",
         "#081 LIVE KIN IWASHI(UV)",
@@ -4825,7 +4825,7 @@
     {
       "id": "jigpara-tg-micro",
       "name": "Jigpara Tg Micro",
-      "image": "jigpara-tg-micro.jpeg",
+      "image": "images/jigpara-tg-micro.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 PINK",
@@ -4882,7 +4882,7 @@
     {
       "id": "jigpara-tg",
       "name": "Jigpara Tg",
-      "image": "jigpara-tg.jpeg",
+      "image": "images/jigpara-tg.jpeg",
       "colors": [
         "#001 IWASHI",
         "#002 PINK",
@@ -5072,7 +5072,7 @@
     {
       "id": "jigpara-vertical-long-slow",
       "name": "Jigpara Vertical Long Slow",
-      "image": "jigpara-vertical-long-slow.jpeg",
+      "image": "images/jigpara-vertical-long-slow.jpeg",
       "colors": [
         "#001 IWASHI",
         "#003 RED GOLD",
@@ -5294,7 +5294,7 @@
     {
       "id": "jigpara-vertical-long",
       "name": "Jigpara Vertical Long",
-      "image": "jigpara-vertical-long.jpeg",
+      "image": "images/jigpara-vertical-long.jpeg",
       "colors": [
         "#002 PINK",
         "#003 RED GOLD",
@@ -5411,7 +5411,7 @@
     {
       "id": "jigpara-vertical-quell",
       "name": "Jigpara Vertical Quell",
-      "image": "jigpara-vertical-quell.jpeg",
+      "image": "images/jigpara-vertical-quell.jpeg",
       "colors": [
         "#001 SILVER/UV",
         "#002 BLACK BACK CHROME/UV",
@@ -5540,7 +5540,7 @@
     {
       "id": "jigpara-vertical-short-livebait",
       "name": "Jigpara Vertical Short Livebait",
-      "image": "jigpara-vertical-short-livebait.jpeg",
+      "image": "images/jigpara-vertical-short-livebait.jpeg",
       "colors": [
         "#080 LIVE IWASHI(UV)",
         "#081 LIVE KIN IWASHI(UV)",
@@ -5654,7 +5654,7 @@
     {
       "id": "jigpara-vertical-short",
       "name": "Jigpara Vertical Short",
-      "image": "jigpara-vertical-short.jpeg",
+      "image": "images/jigpara-vertical-short.jpeg",
       "colors": [
         "#002 PINK",
         "#003 RED GOLD",
@@ -5797,7 +5797,7 @@
     {
       "id": "jigpara-vertical-tg",
       "name": "Jigpara Vertical Tg",
-      "image": "jigpara-vertical-tg.jpeg",
+      "image": "images/jigpara-vertical-tg.jpeg",
       "colors": [
         "#002 PINK",
         "#003 RED GOLD",
@@ -5966,7 +5966,7 @@
     {
       "id": "jigpara-wind-slim-head",
       "name": "Jigpara Wind Slim Head",
-      "image": "jigpara-wind-slim-head.jpeg",
+      "image": "images/jigpara-wind-slim-head.jpeg",
       "colors": [],
       "variants": {
         "Default": {
@@ -5980,7 +5980,7 @@
     {
       "id": "jigpara-wind-slim-start-kit",
       "name": "Jigpara Wind Slim Start Kit",
-      "image": "jigpara-wind-slim-start-kit.jpeg",
+      "image": "images/jigpara-wind-slim-start-kit.jpeg",
       "colors": [],
       "variants": {
         "Default": {
@@ -5994,7 +5994,7 @@
     {
       "id": "jigpara-wind-slim-worm",
       "name": "Jigpara Wind Slim Worm",
-      "image": "jigpara-wind-slim-worm.jpeg",
+      "image": "images/jigpara-wind-slim-worm.jpeg",
       "colors": [],
       "variants": {
         "Default": {
@@ -6008,7 +6008,7 @@
     {
       "id": "live-squid",
       "name": "Live Squid",
-      "image": "live-squid.jpeg",
+      "image": "images/live-squid.jpeg",
       "colors": [
         "#002 NAMA IKA",
         "#002 SURUME IKA",
@@ -6046,7 +6046,7 @@
     {
       "id": "maki-jig-jet",
       "name": "Maki Jig Jet",
-      "image": "maki-jig-jet.jpeg",
+      "image": "images/maki-jig-jet.jpeg",
       "colors": [
         "#003 RED GOLD",
         "#007 ZEBRA GLOW",
@@ -6147,7 +6147,7 @@
     {
       "id": "maki-jig-micro",
       "name": "Maki Jig Micro",
-      "image": "maki-jig-micro.jpeg",
+      "image": "images/maki-jig-micro.jpeg",
       "colors": [
         "#003 RED GOLD (UV)",
         "#007 ZEBRA GLOW",
@@ -6219,7 +6219,7 @@
     {
       "id": "maki-jig-slow",
       "name": "Maki Jig Slow",
-      "image": "maki-jig-slow.jpeg",
+      "image": "images/maki-jig-slow.jpeg",
       "colors": [
         "#003 RED GOLD",
         "#007 ZEBRA GLOW",
@@ -6359,7 +6359,7 @@
     {
       "id": "metal-dragon",
       "name": "Metal Dragon",
-      "image": "metal-dragon.jpeg",
+      "image": "images/metal-dragon.jpeg",
       "colors": [
         "#006 BLUE SILVER",
         "#007 ZEBRA GLOW",
@@ -6420,7 +6420,7 @@
     {
       "id": "nano-rubber-tie",
       "name": "Nano Rubber Tie",
-      "image": "nano-rubber-tie.jpeg",
+      "image": "images/nano-rubber-tie.jpeg",
       "colors": [
         "#002 ORANGE GOLD",
         "#003 RED GOLD",
@@ -6444,7 +6444,7 @@
     {
       "id": "nano-rubber",
       "name": "Nano Rubber",
-      "image": "nano-rubber.jpeg",
+      "image": "images/nano-rubber.jpeg",
       "colors": [
         "#001 KEIMURA GOLD",
         "#002 KEIMURA RED GOLD",
@@ -6533,7 +6533,7 @@
     {
       "id": "paraworm-fall-ika",
       "name": "Paraworm Fall Ika",
-      "image": "paraworm-fall-ika.jpeg",
+      "image": "images/paraworm-fall-ika.jpeg",
       "colors": [
         "#041 KEIMURA CLEAR",
         "#062 KEIMURA CLEAR SILVER",
@@ -6574,7 +6574,7 @@
     {
       "id": "paraworm-fall-mushi",
       "name": "Paraworm Fall Mushi",
-      "image": "paraworm-fall-mushi.jpeg",
+      "image": "images/paraworm-fall-mushi.jpeg",
       "colors": [
         "#041 KEIMURACLEAR",
         "#062 KEIMURACLEAR  SILVER",
@@ -6614,7 +6614,7 @@
     {
       "id": "paraworm-puri-puri-tail",
       "name": "Paraworm Puri Puri Tail",
-      "image": "paraworm-puri-puri-tail.jpeg",
+      "image": "images/paraworm-puri-puri-tail.jpeg",
       "colors": [
         "#041 KEIMURA CLEAR",
         "#062 KEIMURA SILVER",
@@ -6688,7 +6688,7 @@
     {
       "id": "paraworm-stick",
       "name": "Paraworm Stick",
-      "image": "paraworm-stick.jpeg",
+      "image": "images/paraworm-stick.jpeg",
       "colors": [
         "#041 KEIMURA CLEAR",
         "#062 KEIMURA CLEAR SILVER",
@@ -6745,7 +6745,7 @@
     {
       "id": "puri-puri-claw",
       "name": "Puri Puri Claw",
-      "image": "puri-puri-claw.jpeg",
+      "image": "images/puri-puri-claw.jpeg",
       "colors": [
         "#001 RED",
         "#002 ORANGE",
@@ -6775,7 +6775,7 @@
     {
       "id": "puri-puri-taco-crab-worm",
       "name": "Puri Puri Taco Crab Worm",
-      "image": "puri-puri-taco-crab-worm.jpeg",
+      "image": "images/puri-puri-taco-crab-worm.jpeg",
       "colors": [
         "#001 KEIMURA RED",
         "#002 KEIMURA ORANGE",
@@ -6803,7 +6803,7 @@
     {
       "id": "puri-puri-taco-crab",
       "name": "Puri Puri Taco Crab",
-      "image": "puri-puri-taco-crab.jpeg",
+      "image": "images/puri-puri-taco-crab.jpeg",
       "colors": [
         "#001 AKA EBI (GLOW)",
         "#002 MIKAN EBI (GLOW)",
@@ -6835,7 +6835,7 @@
     {
       "id": "puri-puri-taco-ebi",
       "name": "Puri Puri Taco Ebi",
-      "image": "puri-puri-taco-ebi.jpeg",
+      "image": "images/puri-puri-taco-ebi.jpeg",
       "colors": [
         "#001 AKA EBI",
         "#002 MIKAN EBI",
@@ -6879,7 +6879,7 @@
     {
       "id": "redback-custom-hook",
       "name": "Redback Custom Hook",
-      "image": "redback-custom-hook.jpeg",
+      "image": "images/redback-custom-hook.jpeg",
       "colors": [],
       "variants": {
         "Default": {
@@ -6893,7 +6893,7 @@
     {
       "id": "redback-custom-set",
       "name": "Redback Custom Set",
-      "image": "redback-custom-set.jpeg",
+      "image": "images/redback-custom-set.jpeg",
       "colors": [
         "#001 ORANGE (GOLDEN GLITTER)",
         "#002 RED (GOLDEN GLITTER)",
@@ -6921,7 +6921,7 @@
     {
       "id": "redback-custom-tie",
       "name": "Redback Custom Tie",
-      "image": "redback-custom-tie.jpeg",
+      "image": "images/redback-custom-tie.jpeg",
       "colors": [
         "#001 ORANGE(GOLD GLITTER)",
         "#002 RED(GOLD GLITTER)",
@@ -6965,7 +6965,7 @@
     {
       "id": "redback-kemu-kemu-curly-worm",
       "name": "Redback Kemu Kemu Curly Worm",
-      "image": "redback-kemu-kemu-curly-worm.jpeg",
+      "image": "images/redback-kemu-kemu-curly-worm.jpeg",
       "colors": [
         "#001 ORANGE",
         "#002 RED",
@@ -6991,7 +6991,7 @@
     {
       "id": "rockliver-dragon-screw",
       "name": "Rockliver Dragon Screw",
-      "image": "rockliver-dragon-screw.jpeg",
+      "image": "images/rockliver-dragon-screw.jpeg",
       "colors": [
         "#001 SAIKYO ORANGE",
         "#002 WEED PUMPKIN",
@@ -7035,7 +7035,7 @@
     {
       "id": "rockliver-lucky-craw",
       "name": "Rockliver Lucky Craw",
-      "image": "rockliver-lucky-craw.jpeg",
+      "image": "images/rockliver-lucky-craw.jpeg",
       "colors": [
         "#011 WINE RED",
         "#012 UV HIGHBALL",
@@ -7069,7 +7069,7 @@
     {
       "id": "rockliver-magic-shad",
       "name": "Rockliver Magic Shad",
-      "image": "rockliver-magic-shad.jpeg",
+      "image": "images/rockliver-magic-shad.jpeg",
       "colors": [
         "#011 WINE RED",
         "#012 UV HIGHBALL",
@@ -7104,7 +7104,7 @@
     {
       "id": "rockliver-still-pencil",
       "name": "Rockliver Still Pencil",
-      "image": "rockliver-still-pencil.jpeg",
+      "image": "images/rockliver-still-pencil.jpeg",
       "colors": [
         "#001 CLEAR LAME",
         "#002 CLEAR PINK HEAD (GLOW)",
@@ -7139,7 +7139,7 @@
     {
       "id": "rockliver-still-shad",
       "name": "Rockliver Still Shad",
-      "image": "rockliver-still-shad.jpeg",
+      "image": "images/rockliver-still-shad.jpeg",
       "colors": [
         "#001 CLEAR LAME",
         "#002 CLEAR PINK HEAD (GLOW)",
@@ -7174,7 +7174,7 @@
     {
       "id": "stabi-shad-bulk-box-fat-type-8-10",
       "name": "Stabi Shad Bulk Box Fat Type 8 10",
-      "image": "stabi-shad-bulk-box-fat-type-8-10.jpeg",
+      "image": "images/stabi-shad-bulk-box-fat-type-8-10.jpeg",
       "colors": [
         "#006 CLEAR",
         "#F001 AYU",
@@ -7219,7 +7219,7 @@
     {
       "id": "stabi-shad-bulk-box-fat-type-fresh-water-version",
       "name": "Stabi Shad Bulk Box Fat Type Fresh Water Version",
-      "image": "stabi-shad-bulk-box-fat-type-fresh-water-version.jpeg",
+      "image": "images/stabi-shad-bulk-box-fat-type-fresh-water-version.jpeg",
       "colors": [
         "#F001 AYU",
         "#F002 GOLDEN PERCH",
@@ -7315,7 +7315,7 @@
     {
       "id": "stabi-shad-bulk-box-slim-type-fresh-water-version",
       "name": "Stabi Shad Bulk Box Slim Type Fresh Water Version",
-      "image": "stabi-shad-bulk-box-slim-type-fresh-water-version.jpeg",
+      "image": "images/stabi-shad-bulk-box-slim-type-fresh-water-version.jpeg",
       "colors": [
         "#F001 AYU",
         "#F002 GOLDEN PERCH",
@@ -7411,7 +7411,7 @@
     {
       "id": "stabi-shad-fresh-water",
       "name": "Stabi Shad Fresh Water",
-      "image": "stabi-shad-fresh-water.jpeg",
+      "image": "images/stabi-shad-fresh-water.jpeg",
       "colors": [
         "#F001 AYU",
         "#F002 GOLDEN PERCH",
@@ -7507,7 +7507,7 @@
     {
       "id": "stabi-shad-slim-fresh-water",
       "name": "Stabi Shad Slim Fresh Water",
-      "image": "stabi-shad-slim-fresh-water.jpeg",
+      "image": "images/stabi-shad-slim-fresh-water.jpeg",
       "colors": [
         "#F001 AYU",
         "#F002 GOLDEN PERCH",
@@ -7603,7 +7603,7 @@
     {
       "id": "stabi-shad-slim-type-sw-color-bulk-box",
       "name": "Stabi Shad Slim Type Sw Color Bulk Box",
-      "image": "stabi-shad-slim-type-sw-color-bulk-box.jpeg",
+      "image": "images/stabi-shad-slim-type-sw-color-bulk-box.jpeg",
       "colors": [
         "#001 RED GOLD",
         "#002 BLUE SILVER",
@@ -7705,7 +7705,7 @@
     {
       "id": "stabi-shad-slim",
       "name": "Stabi Shad Slim",
-      "image": "stabi-shad-slim.jpeg",
+      "image": "images/stabi-shad-slim.jpeg",
       "colors": [
         "#001 RED GOLD",
         "#002 BLUE SILVER",
@@ -7812,7 +7812,7 @@
     {
       "id": "stabi-shad-sw-color-fat-type-bulk-box",
       "name": "Stabi Shad Sw Color Fat Type Bulk Box",
-      "image": "stabi-shad-sw-color-fat-type-bulk-box.jpeg",
+      "image": "images/stabi-shad-sw-color-fat-type-bulk-box.jpeg",
       "colors": [
         "#001 AKA EBI",
         "#001 BLUE PINK (UV)",
@@ -8765,7 +8765,7 @@
     {
       "id": "stabi-shad",
       "name": "Stabi Shad",
-      "image": "stabi-shad.jpeg",
+      "image": "images/stabi-shad.jpeg",
       "colors": [
         "#001 RED GOLD",
         "#002 BLUE SILVER",

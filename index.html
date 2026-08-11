@@ -681,9 +681,9 @@
         }
 
         function getCostHTML() {
-            const EXCHANGE_RATE = 47.5; // USD/TL kuru (MCEU WHOLESALE)
+            const EXCHANGE_RATE = 55; // EUR/TL kuru (MCEU WHOLESALE)
             let totalCostTL = 0;
-            let totalCostUSD = 0;
+            let totalCostEUR = 0;
 
             Object.entries(orderData).forEach(([key, quantity]) => {
                 if (quantity > 0) {
@@ -691,17 +691,17 @@
                     const product = products.find(p => p.id === productId);
 
                     if (product) {
-                        let price = product.price_usd || 0;
+                        let price = product.price_eur || 0;
 
                         // Variant fiyatı varsa, onu kullan
                         if (variant !== 'default' && product.variants && product.variants[variant]) {
-                            price = product.variants[variant].price_usd || price;
+                            price = product.variants[variant].price_eur || price;
                         }
 
                         if (price > 0) {
-                            const costUSD = price * quantity;
-                            totalCostUSD += costUSD;
-                            const costTL = costUSD * EXCHANGE_RATE;
+                            const costEUR = price * quantity;
+                            totalCostEUR += costEUR;
+                            const costTL = costEUR * EXCHANGE_RATE;
                             totalCostTL += costTL;
                         }
                     }
@@ -712,12 +712,12 @@
                 minimumFractionDigits: 2,
                 maximumFractionDigits: 2
             });
-            const formattedUSD = totalCostUSD.toLocaleString('en-US', {
+            const formattedEUR = totalCostEUR.toLocaleString('en-US', {
                 minimumFractionDigits: 2,
                 maximumFractionDigits: 2
             });
 
-            return `₺ ${formattedTL}<br><span style="font-size: 0.75em; color: #64748b;">$${formattedUSD}</span>`;
+            return `₺ ${formattedTL}<br><span style="font-size: 0.75em; color: #64748b;">€${formattedEUR}</span>`;
         }
 
         function calculateTotalCost() {

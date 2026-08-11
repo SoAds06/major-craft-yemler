@@ -916,12 +916,19 @@
                 if (value > 0) {
                     const [productId, variant, color] = key.split('|');
                     const product = products.find(p => p.id === productId);
+
+                    // Variant JAN'ını kullan, yoksa product JAN'ını kullan
+                    let jan = product?.jan || '-';
+                    if (variant !== 'default' && product?.variants && product.variants[variant]) {
+                        jan = product.variants[variant].jan || jan;
+                    }
+
                     items.push({
                         'Ürün Adı': product?.name || productId,
                         'Seçenek': variant !== 'default' ? variant : '-',
                         'Renk': color,
                         'Adet': value,
-                        'JAN Kodu': product?.jan || '-'
+                        'JAN Kodu': jan
                     });
                 }
             });

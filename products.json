@@ -27,7 +27,8 @@
             "#007 GLOW PINK",
             "#008 GLOW"
           ],
-          "price_usd": 1.76
+          "price_usd": 1.76,
+          "jan": "4573236193328"
         },
         "0.8g": {
           "name": "AJI-DO METAIL 0.8g",
@@ -41,7 +42,8 @@
             "#007 GLOW PINK",
             "#008 GLOW"
           ],
-          "price_usd": 1.76
+          "price_usd": 1.76,
+          "jan": "4573236193403"
         },
         "1.0g": {
           "name": "AJI-DO METAIL 1.0g",
@@ -55,7 +57,8 @@
             "#007 GLOW PINK",
             "#008 GLOW"
           ],
-          "price_usd": 1.76
+          "price_usd": 1.76,
+          "jan": "4573236193489"
         },
         "1.2g": {
           "name": "AJI-DO METAIL 1.2g",
@@ -69,7 +72,8 @@
             "#007 GLOW PINK",
             "#008 GLOW"
           ],
-          "price_usd": 1.85
+          "price_usd": 1.85,
+          "jan": "4573236193564"
         },
         "1.5g": {
           "name": "AJI-DO METAIL 1.5g",
@@ -83,7 +87,8 @@
             "#007 GLOW PINK",
             "#008 GLOW"
           ],
-          "price_usd": 1.85
+          "price_usd": 1.85,
+          "jan": "4573236193649"
         },
         "2.0g": {
           "name": "AJI-DO METAIL 2.0g",
@@ -97,7 +102,8 @@
             "#007 GLOW PINK",
             "#008 GLOW"
           ],
-          "price_usd": 1.85
+          "price_usd": 1.85,
+          "jan": "4573236193724"
         },
         "3.0g": {
           "name": "AJI-DO METAIL 3.0g",
@@ -111,7 +117,8 @@
             "#007 GLOW PINK",
             "#008 GLOW"
           ],
-          "price_usd": 1.85
+          "price_usd": 1.85,
+          "jan": "4573236193809"
         },
         "5.0g": {
           "name": "AJI-DO METAIL 5.0g",
@@ -125,7 +132,8 @@
             "#007 GLOW PINK",
             "#008 GLOW"
           ],
-          "price_usd": 1.85
+          "price_usd": 1.85,
+          "jan": "4573236193885"
         }
       },
       "jan": "4573236193328.0",
@@ -162,7 +170,8 @@
             "#009 OKIAMI (KEIMURA)",
             "#010 GLOW WHITE SILVER LAME"
           ],
-          "price_usd": 1.823076923076923
+          "price_usd": 1.823076923076923,
+          "jan": "4573236290119"
         }
       },
       "jan": "4573236290119.0",
@@ -199,7 +208,8 @@
             "#009 OKIAMI (KEIMURA)",
             "#010 GLOW WHITE SILVER LAME"
           ],
-          "price_usd": 1.823076923076923
+          "price_usd": 1.823076923076923,
+          "jan": "4573236290218"
         }
       },
       "jan": "4573236290218.0",
@@ -236,7 +246,8 @@
             "#009 OKIAMI (KEIMURA)",
             "#010 GLOW WHITE SILVER LAME"
           ],
-          "price_usd": 1.823076923076923
+          "price_usd": 1.823076923076923,
+          "jan": "4573236290317"
         }
       },
       "jan": "4573236290317.0",
@@ -273,7 +284,8 @@
             "#009 OKIAMI (KEIMURA)",
             "#010 GLOW WHITE SILVER LAME"
           ],
-          "price_usd": 1.823076923076923
+          "price_usd": 1.823076923076923,
+          "jan": "4573236290010"
         }
       },
       "jan": "4573236290010.0",
@@ -724,7 +736,8 @@
             "#005 HAWAIIAN LEMON",
             "#006 DARK COLA"
           ],
-          "price_usd": 2.1466666666666665
+          "price_usd": 2.1466666666666665,
+          "jan": "4573236218014"
         },
         "7g": {
           "name": "BLACK PORGY BLADE 7g",
@@ -736,7 +749,8 @@
             "#005 HAWAIIAN LEMON",
             "#006 DARK COLA"
           ],
-          "price_usd": 2.2333333333333334
+          "price_usd": 2.2333333333333334,
+          "jan": "4573236218076"
         },
         "10g": {
           "name": "BLACK PORGY BLADE 10g",
@@ -748,7 +762,8 @@
             "#005 HAWAIIAN LEMON",
             "#006 DARK COLA"
           ],
-          "price_usd": 2.3383333333333334
+          "price_usd": 2.3383333333333334,
+          "jan": "4573236218137"
         }
       },
       "jan": "4573236218014.0",
@@ -777,7 +792,8 @@
             "#005 AMERICAN CHERRY",
             "#006 TSUBUTSUBU ORANGE"
           ],
-          "price_usd": 2.9907692307692306
+          "price_usd": 2.9907692307692306,
+          "jan": "4573236218199"
         },
         "7g": {
           "name": "BLACK PORGY CANDY 7g",
@@ -789,7 +805,8 @@
             "#005 AMERICAN CHERRY",
             "#006 TSUBUTSUBU ORANGE"
           ],
-          "price_usd": 3.0707692307692303
+          "price_usd": 3.0707692307692303,
+          "jan": "4573236218250"
         },
         "10g": {
           "name": "BLACK PORGY CANDY 10g",
@@ -801,7 +818,8 @@
             "#005 AMERICAN CHERRY",
             "#006 TSUBUTSUBU ORANGE"
           ],
-          "price_usd": 3.1661538461538457
+          "price_usd": 3.1661538461538457,
+          "jan": "4573236218311"
         }
       },
       "jan": "4573236218199.0",
@@ -944,7 +962,8 @@
             "#022 LIVE GHOST BORA",
             "#023 LIVE GHOST KATAKUCHI"
           ],
-          "price_usd": 2.73
+          "price_usd": 2.73,
+          "jan": "4573236290522"
         },
         "5g": {
           "name": "CEANA EELY SHAD 5g",
@@ -963,7 +982,8 @@
             "#022 LIVE GHOST BORA",
             "#023 LIVE GHOST KATAKUCHI"
           ],
-          "price_usd": 2.88
+          "price_usd": 2.88,
+          "jan": "4573236290645"
         },
         "22.3g": {
           "name": "CEANA EELY SHAD 22.3g",
@@ -982,7 +1002,8 @@
             "#022 LIVE GHOST BORA",
             "#023 LIVE GHOST KATAKUCHI"
           ],
-          "price_usd": 2.9899999999999998
+          "price_usd": 2.9899999999999998,
+          "jan": "4573236290768"
         },
         "39.2g": {
           "name": "CEANA EELY SHAD 39.2g",
@@ -1001,7 +1022,8 @@
             "#022 LIVE GHOST BORA",
             "#023 LIVE GHOST KATAKUCHI"
           ],
-          "price_usd": 3.33
+          "price_usd": 3.33,
+          "jan": "4573236290881"
         }
       },
       "jan": "4573236290522.0",
@@ -1046,7 +1068,8 @@
             "#017 GHOST TENNESEE",
             "#021 BLACK SAPPHIRE"
           ],
-          "price_usd": 3.81
+          "price_usd": 3.81,
+          "jan": "4573236291420"
         }
       },
       "jan": "4573236291420.0",
@@ -1203,7 +1226,8 @@
             "#098 DAMAGE KEIMURA KIN IWASHI",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 3.2159999999999993
+          "price_usd": 3.2159999999999993,
+          "jan": "4573236219752"
         },
         "110mm": {
           "name": "CROSSRIDE BLADE 110mm",
@@ -1222,7 +1246,8 @@
             "#098 DAMAGE KEIMURA KIN IWASHI",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 3.326666666666666
+          "price_usd": 3.326666666666666,
+          "jan": "4573236219912"
         }
       },
       "jan": "4573236219752.0",
@@ -1251,7 +1276,8 @@
             "#005 GREEN-WHITE (BLUE GLOW)",
             "#006 RED-BLUE (BLUE GLOW)"
           ],
-          "price_usd": 6.26
+          "price_usd": 6.26,
+          "jan": "4573236188928"
         },
         "15g": {
           "name": "DANGAN SUTTE 15g",
@@ -1263,7 +1289,8 @@
             "#005 GREEN-WHITE (BLUE GLOW)",
             "#006 RED-BLUE (BLUE GLOW)"
           ],
-          "price_usd": 7.41
+          "price_usd": 7.41,
+          "jan": "4573236188980"
         },
         "20g": {
           "name": "DANGAN SUTTE 20g",
@@ -1275,7 +1302,8 @@
             "#005 GREEN-WHITE (BLUE GLOW)",
             "#006 RED-BLUE (BLUE GLOW)"
           ],
-          "price_usd": 8.74
+          "price_usd": 8.74,
+          "jan": "4573236189048"
         }
       },
       "jan": "4573236188928.0",
@@ -1322,7 +1350,8 @@
             "#014 ORANGE GLOW RED ORANGE",
             "#015 BLACK GLOW BLACK"
           ],
-          "price_usd": 3.32
+          "price_usd": 3.32,
+          "jan": "4573236187112"
         },
         "3.0g": {
           "name": "EGIZO BAIT FEATHER ONPA 3.0g",
@@ -1343,7 +1372,8 @@
             "#014 ORANGE GLOW RED ORANGE",
             "#015 BLACK GLOW BLACK"
           ],
-          "price_usd": 3.42
+          "price_usd": 3.42,
+          "jan": "4573236187211"
         },
         "3.5g": {
           "name": "EGIZO BAIT FEATHER ONPA 3.5g",
@@ -1364,7 +1394,8 @@
             "#014 ORANGE GLOW RED ORANGE",
             "#015 BLACK GLOW BLACK"
           ],
-          "price_usd": 3.52
+          "price_usd": 3.52,
+          "jan": "4573236187310"
         }
       },
       "jan": "4573236187112.0",
@@ -1401,7 +1432,8 @@
             "#009 CLEAR BAIT",
             "#010 CLEAR MONOTONE"
           ],
-          "price_usd": 4.28
+          "price_usd": 4.28,
+          "jan": "4573236370712"
         },
         "20g": {
           "name": "EGIZO BAIT FEATHER TIP-RUN 20g",
@@ -1417,7 +1449,8 @@
             "#009 CLEAR BAIT",
             "#010 CLEAR MONOTONE"
           ],
-          "price_usd": 4.277777777777778
+          "price_usd": 4.277777777777778,
+          "jan": "4573236372006"
         },
         "25g": {
           "name": "EGIZO BAIT FEATHER TIP-RUN 25g",
@@ -1433,7 +1466,8 @@
             "#009 CLEAR BAIT",
             "#010 CLEAR MONOTONE"
           ],
-          "price_usd": 4.277777777777778
+          "price_usd": 4.277777777777778,
+          "jan": "4573236372105"
         }
       },
       "jan": "4573236372006.0",
@@ -1470,7 +1504,8 @@
             "#059 RED PINK",
             "#060 PURPLE PURPLE"
           ],
-          "price_usd": 3.05
+          "price_usd": 3.05,
+          "jan": "4573236186511"
         },
         "1.8g": {
           "name": "EGIZO BAIT FEATHER 1.8g",
@@ -1486,7 +1521,8 @@
             "#059 RED PINK",
             "#060 PURPLE PURPLE"
           ],
-          "price_usd": 3.05
+          "price_usd": 3.05,
+          "jan": "4573236186610"
         },
         "2.0g": {
           "name": "EGIZO BAIT FEATHER 2.0g",
@@ -1502,7 +1538,8 @@
             "#059 RED PINK",
             "#060 PURPLE PURPLE"
           ],
-          "price_usd": 3.05
+          "price_usd": 3.05,
+          "jan": "4573236186719"
         },
         "2.5g": {
           "name": "EGIZO BAIT FEATHER 2.5g",
@@ -1523,7 +1560,8 @@
             "#014 ORANGE GLOW RED ORANGE",
             "#015 BLACK GLOW BLACK"
           ],
-          "price_usd": 3.32
+          "price_usd": 3.32,
+          "jan": "4573236186818"
         },
         "3.0g": {
           "name": "EGIZO BAIT FEATHER 3.0g",
@@ -1544,7 +1582,8 @@
             "#014 ORANGE GLOW RED ORANGE",
             "#015 BLACK GLOW BLACK"
           ],
-          "price_usd": 3.42
+          "price_usd": 3.42,
+          "jan": "4573236186917"
         },
         "3.5g": {
           "name": "EGIZO BAIT FEATHER 3.5g",
@@ -1565,7 +1604,8 @@
             "#014 ORANGE GLOW RED ORANGE",
             "#015 BLACK GLOW BLACK"
           ],
-          "price_usd": 4.28
+          "price_usd": 4.28,
+          "jan": "4573236370712"
         }
       },
       "jan": "4573236186511.0",
@@ -1602,7 +1642,8 @@
             "#009 RED GREEN",
             "#010 RED PURPLE"
           ],
-          "price_usd": 4.158571428571429
+          "price_usd": 4.158571428571429,
+          "jan": "4573236298726"
         },
         "3.0g": {
           "name": "EGIZO SHRIMP 3.0g",
@@ -1618,7 +1659,8 @@
             "#009 RED GREEN",
             "#010 RED PURPLE"
           ],
-          "price_usd": 4.247142857142857
+          "price_usd": 4.247142857142857,
+          "jan": "4573236298825"
         },
         "3.5g": {
           "name": "EGIZO SHRIMP 3.5g",
@@ -1634,7 +1676,8 @@
             "#009 RED GREEN",
             "#010 RED PURPLE"
           ],
-          "price_usd": 4.321428571428571
+          "price_usd": 4.321428571428571,
+          "jan": "4573236334424"
         }
       },
       "jan": "4573236298726.0",
@@ -1777,7 +1820,8 @@
             "#030 CLEAR BROWN",
             "#031 CLEAR BAIT"
           ],
-          "price_usd": 4.0200000000000005
+          "price_usd": 4.0200000000000005,
+          "jan": "4573236334882"
         },
         "3.0g": {
           "name": "EGIZO 3.0g",
@@ -1803,7 +1847,8 @@
             "#030 CLEAR BROWN",
             "#031 CLEAR BAIT"
           ],
-          "price_usd": 4.247142857142857
+          "price_usd": 4.247142857142857,
+          "jan": "4573236298825"
         },
         "3.5g": {
           "name": "EGIZO 3.5g",
@@ -1829,7 +1874,8 @@
             "#030 CLEAR BROWN",
             "#031 CLEAR BAIT"
           ],
-          "price_usd": 4.321428571428571
+          "price_usd": 4.321428571428571,
+          "jan": "4573236334424"
         }
       },
       "jan": "4573236185804.0",
@@ -1858,7 +1904,8 @@
             "#110 SOFT SHELL",
             "#111 ISO KANI"
           ],
-          "price_usd": 1.33
+          "price_usd": 1.33,
+          "jan": "4560350786147"
         },
         "2.4\"": {
           "name": "FIGHTING CRAW 2.4\"",
@@ -1870,7 +1917,8 @@
             "#111 ISO KANI",
             "#112 CLEAR HOLO"
           ],
-          "price_usd": 0.85
+          "price_usd": 0.85,
+          "jan": "4560350797983"
         },
         "3.2\"": {
           "name": "FIGHTING CRAW 3.2\"",
@@ -1882,7 +1930,8 @@
             "#111 ISO KANI",
             "#112 CLEAR HOLO"
           ],
-          "price_usd": 0.9500000000000001
+          "price_usd": 0.9500000000000001,
+          "jan": "4560350798041"
         }
       },
       "jan": "4560350786147.0",
@@ -1975,7 +2024,8 @@
             "#016 CM MONOCHROME YAMAME",
             "#017 LIME CHART YAMAME"
           ],
-          "price_usd": 3.5172839506172835
+          "price_usd": 3.5172839506172835,
+          "jan": "4573236300511"
         },
         "50mm": {
           "name": "FINETAIL EDEN 50mm",
@@ -1998,7 +2048,8 @@
             "#016 CM MONOCHROME YAMAME",
             "#017 LIME CHART YAMAME"
           ],
-          "price_usd": 3.4271604938271607
+          "price_usd": 3.4271604938271607,
+          "jan": "4573236301280"
         },
         "60mm": {
           "name": "FINETAIL EDEN 60mm",
@@ -2021,7 +2072,8 @@
             "#016 CM MONOCHROME YAMAME",
             "#017 LIME CHART YAMAME"
           ],
-          "price_usd": 3.696296296296296
+          "price_usd": 3.696296296296296,
+          "jan": "4573236301358"
         }
       },
       "jan": "4573236300511.0",
@@ -2054,7 +2106,8 @@
             "#046 MIRROR SILVER(UV)",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 4.866666666666666
+          "price_usd": 4.866666666666666,
+          "jan": "4573236324036"
         },
         "150g": {
           "name": "FIRST JIG LONG 150g",
@@ -2068,7 +2121,8 @@
             "#046 MIRROR SILVER(UV)",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 5.225333333333333
+          "price_usd": 5.225333333333333,
+          "jan": "4573236324111"
         },
         "180g": {
           "name": "FIRST JIG LONG 180g",
@@ -2082,7 +2136,8 @@
             "#046 MIRROR SILVER(UV)",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 6.0440000000000005
+          "price_usd": 6.0440000000000005,
+          "jan": "4573236324197"
         },
         "200g": {
           "name": "FIRST JIG LONG 200g",
@@ -2096,7 +2151,8 @@
             "#046 MIRROR SILVER(UV)",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 6.308
+          "price_usd": 6.308,
+          "jan": "4573236324272"
         },
         "250g": {
           "name": "FIRST JIG LONG 250g",
@@ -2110,7 +2166,8 @@
             "#046 MIRROR SILVER(UV)",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 7.001333333333332
+          "price_usd": 7.001333333333332,
+          "jan": "4573236324357"
         },
         "300g": {
           "name": "FIRST JIG LONG 300g",
@@ -2124,7 +2181,8 @@
             "#046 MIRROR SILVER(UV)",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 8.068
+          "price_usd": 8.068,
+          "jan": "4573236324432"
         }
       },
       "jan": "4573236324036.0",
@@ -2155,7 +2213,8 @@
             "#056 BLACK ZEBRA",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 5.794666666666667
+          "price_usd": 5.794666666666667,
+          "jan": "4573236323480"
         },
         "150g": {
           "name": "FIRST JIG SLOW 150g",
@@ -2168,7 +2227,8 @@
             "#056 BLACK ZEBRA",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 6.141333333333335
+          "price_usd": 6.141333333333335,
+          "jan": "4573236323558"
         },
         "180g": {
           "name": "FIRST JIG SLOW 180g",
@@ -2181,7 +2241,8 @@
             "#056 BLACK ZEBRA",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 6.958666666666667
+          "price_usd": 6.958666666666667,
+          "jan": "4573236323626"
         },
         "200g": {
           "name": "FIRST JIG SLOW 200g",
@@ -2194,7 +2255,8 @@
             "#056 BLACK ZEBRA",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 7.278666666666666
+          "price_usd": 7.278666666666666,
+          "jan": "4573236323695"
         },
         "250g": {
           "name": "FIRST JIG SLOW 250g",
@@ -2207,7 +2269,8 @@
             "#056 BLACK ZEBRA",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 7.998666666666668
+          "price_usd": 7.998666666666668,
+          "jan": "4573236323763"
         },
         "300g": {
           "name": "FIRST JIG SLOW 300g",
@@ -2220,7 +2283,8 @@
             "#056 BLACK ZEBRA",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 8.512
+          "price_usd": 8.512,
+          "jan": "4573236323831"
         }
       },
       "jan": "4573236323480.0",
@@ -2334,7 +2398,8 @@
             "#029 PINK IWASHI",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 3.4825
+          "price_usd": 3.4825,
+          "jan": "4573236195513"
         },
         "120g": {
           "name": "FIRST JIG 120g",
@@ -2348,7 +2413,8 @@
             "#029 PINK IWASHI",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 3.79375
+          "price_usd": 3.79375,
+          "jan": "4573236195599"
         },
         "150g": {
           "name": "FIRST JIG 150g",
@@ -2362,7 +2428,8 @@
             "#029 PINK IWASHI",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 4.1587499999999995
+          "price_usd": 4.1587499999999995,
+          "jan": "4573236195674"
         },
         "180g": {
           "name": "FIRST JIG 180g",
@@ -2376,7 +2443,8 @@
             "#029 PINK IWASHI",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 4.717499999999999
+          "price_usd": 4.717499999999999,
+          "jan": "4573236195759"
         },
         "200g": {
           "name": "FIRST JIG 200g",
@@ -2390,7 +2458,8 @@
             "#029 PINK IWASHI",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 5.06875
+          "price_usd": 5.06875,
+          "jan": "4573236195834"
         }
       },
       "jan": "4573236195513.0",
@@ -2539,7 +2608,8 @@
             "#020 LIVE IWASHI",
             "#021 LIVE SABA"
           ],
-          "price_usd": 4.144594594594595
+          "price_usd": 4.144594594594595,
+          "jan": "4573236294841"
         },
         "79g": {
           "name": "GIANT KILLING PG SET 79g",
@@ -2549,7 +2619,8 @@
             "#020 LIVE IWASHI",
             "#021 LIVE SABA"
           ],
-          "price_usd": 4.482432432432432
+          "price_usd": 4.482432432432432,
+          "jan": "4573236295244"
         },
         "97g": {
           "name": "GIANT KILLING PG SET 97g",
@@ -2559,7 +2630,8 @@
             "#020 LIVE IWASHI",
             "#021 LIVE SABA"
           ],
-          "price_usd": 4.748648648648649
+          "price_usd": 4.748648648648649,
+          "jan": "4573236295251"
         }
       },
       "jan": "4573236294841.0",
@@ -2668,7 +2740,8 @@
             "#007 RED BELLY HIRAME GOLD",
             "#008 KISU GLOW"
           ],
-          "price_usd": 1.53
+          "price_usd": 1.53,
+          "jan": "4573236214313"
         },
         "28g": {
           "name": "HAMAOH HEAD 28g",
@@ -2682,7 +2755,8 @@
             "#007 RED BELLY HIRAME GOLD",
             "#008 KISU GLOW"
           ],
-          "price_usd": 1.62
+          "price_usd": 1.62,
+          "jan": "4573236214412"
         }
       },
       "jan": "4573236214313.0",
@@ -3109,7 +3183,8 @@
             "#210 Gold",
             "#211 Glow"
           ],
-          "price_usd": 2.318461538461538
+          "price_usd": 2.318461538461538,
+          "jan": "4560350797624"
         },
         "15g": {
           "name": "JIG RUBBER THROUGH 15g",
@@ -3121,7 +3196,8 @@
             "#210 Gold",
             "#211 Glow"
           ],
-          "price_usd": 2.4153846153846152
+          "price_usd": 2.4153846153846152,
+          "jan": "4560350797686"
         },
         "20g": {
           "name": "JIG RUBBER THROUGH 20g",
@@ -3133,7 +3209,8 @@
             "#210 Gold",
             "#211 Glow"
           ],
-          "price_usd": 2.5907692307692307
+          "price_usd": 2.5907692307692307,
+          "jan": "4560350797747"
         },
         "30g": {
           "name": "JIG RUBBER THROUGH 30g",
@@ -3149,7 +3226,8 @@
             "#214 GLOW GREEN",
             "#215 GLOW GOLD"
           ],
-          "price_usd": 2.8461538461538463
+          "price_usd": 2.8461538461538463,
+          "jan": "4560350797808"
         },
         "40g": {
           "name": "JIG RUBBER THROUGH 40g",
@@ -3165,7 +3243,8 @@
             "#214 GLOW GREEN",
             "#215 GLOW GOLD"
           ],
-          "price_usd": 3.0861538461538456
+          "price_usd": 3.0861538461538456,
+          "jan": "4560350797860"
         },
         "60g": {
           "name": "JIG RUBBER THROUGH 60g",
@@ -3181,7 +3260,8 @@
             "#214 GLOW GREEN",
             "#215 GLOW GOLD"
           ],
-          "price_usd": 3.6307692307692303
+          "price_usd": 3.6307692307692303,
+          "jan": "4560350797921"
         }
       },
       "jan": "4560350797624.0",
@@ -3208,7 +3288,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 2.777142857142857
+          "price_usd": 2.777142857142857,
+          "jan": "4573236209104"
         },
         "55mm": {
           "name": "JIGPARA BLADE FW 55mm",
@@ -3219,7 +3300,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 2.8514285714285714
+          "price_usd": 2.8514285714285714,
+          "jan": "4573236209203"
         },
         "75mm": {
           "name": "JIGPARA BLADE FW 75mm",
@@ -3230,7 +3312,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 3.192857142857143
+          "price_usd": 3.192857142857143,
+          "jan": "4573236209258"
         }
       },
       "jan": "4573236209104.0",
@@ -3259,7 +3342,8 @@
             "#005 ZEBRA GLOW",
             "#006 PINK GLOW"
           ],
-          "price_usd": 6.381249999999999
+          "price_usd": 6.381249999999999,
+          "jan": "4573236330372"
         },
         "60g": {
           "name": "JIGPARA ENDER TG 60g",
@@ -3271,7 +3355,8 @@
             "#005 ZEBRA GLOW",
             "#006 PINK GLOW"
           ],
-          "price_usd": 7.525
+          "price_usd": 7.525,
+          "jan": "4573236330433"
         },
         "80g": {
           "name": "JIGPARA ENDER TG 80g",
@@ -3283,7 +3368,8 @@
             "#005 ZEBRA GLOW",
             "#006 PINK GLOW"
           ],
-          "price_usd": 10.124999999999998
+          "price_usd": 10.124999999999998,
+          "jan": "4573236330495"
         },
         "100g": {
           "name": "JIGPARA ENDER TG 100g",
@@ -3295,7 +3381,8 @@
             "#005 ZEBRA GLOW",
             "#006 PINK GLOW"
           ],
-          "price_usd": 11.71125
+          "price_usd": 11.71125,
+          "jan": "4573236330556"
         }
       },
       "jan": "4573236330372.0",
@@ -3322,7 +3409,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 2.12
+          "price_usd": 2.12,
+          "jan": "4573236209494"
         },
         "10g": {
           "name": "JIGPARA MICRO FW 10g",
@@ -3333,7 +3421,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 2.12
+          "price_usd": 2.12,
+          "jan": "4573236209456"
         },
         "15g": {
           "name": "JIGPARA MICRO FW 15g",
@@ -3344,7 +3433,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 2.3146666666666667
+          "price_usd": 2.3146666666666667,
+          "jan": "4573236209500"
         }
       },
       "jan": "4573236209456.0",
@@ -3545,7 +3635,8 @@
             "#018 GLOW PINK",
             "#019 ALLGLOW"
           ],
-          "price_usd": 1.02
+          "price_usd": 1.02,
+          "jan": "4560350785980"
         },
         "3g": {
           "name": "JIGPARA MICRO SLIM 3g",
@@ -3559,7 +3650,8 @@
             "#018 GLOW PINK",
             "#019 ALLGLOW"
           ],
-          "price_usd": 1.02
+          "price_usd": 1.02,
+          "jan": "4560350786963"
         },
         "5g": {
           "name": "JIGPARA MICRO SLIM 5g",
@@ -3573,7 +3665,8 @@
             "#018 GLOW PINK",
             "#019 ALLGLOW"
           ],
-          "price_usd": 1.02
+          "price_usd": 1.02,
+          "jan": "4560350785980"
         },
         "7g": {
           "name": "JIGPARA MICRO SLIM 7g",
@@ -3587,7 +3680,8 @@
             "#018 GLOW PINK",
             "#019 ALLGLOW"
           ],
-          "price_usd": 1.9875
+          "price_usd": 1.9875,
+          "jan": "4560350787564"
         },
         "10g": {
           "name": "JIGPARA MICRO SLIM 10g",
@@ -3601,7 +3695,8 @@
             "#018 GLOW PINK",
             "#019 ALLGLOW"
           ],
-          "price_usd": 1.9875
+          "price_usd": 1.9875,
+          "jan": "4560350787861"
         },
         "15g": {
           "name": "JIGPARA MICRO SLIM 15g",
@@ -3616,7 +3711,8 @@
             "#019 ALL GLOW",
             "#G001 SANDEEL"
           ],
-          "price_usd": 2.2737499999999997
+          "price_usd": 2.2737499999999997,
+          "jan": "4560350785911"
         }
       },
       "jan": "4560350785980.0",
@@ -3649,7 +3745,8 @@
             "#018 GLOW PINK",
             "#019 ALLGLOW"
           ],
-          "price_usd": 1.02
+          "price_usd": 1.02,
+          "jan": "4560350785683"
         },
         "3g": {
           "name": "JIGPARA MICRO 3g",
@@ -3663,7 +3760,8 @@
             "#018 GLOW PINK",
             "#019 ALL GLOW"
           ],
-          "price_usd": 1.9362499999999998
+          "price_usd": 1.9362499999999998,
+          "jan": "4560350785768"
         },
         "5g": {
           "name": "JIGPARA MICRO 5g",
@@ -3680,7 +3778,8 @@
             "#060 PINK GLOW",
             "#064 RED GOLD ZEBRA"
           ],
-          "price_usd": 2.3146666666666667
+          "price_usd": 2.3146666666666667,
+          "jan": "4573236209500"
         },
         "7g": {
           "name": "JIGPARA MICRO 7g",
@@ -3697,7 +3796,8 @@
             "#060 PINK GLOW",
             "#064 RED GOLD ZEBRA"
           ],
-          "price_usd": 2.12
+          "price_usd": 2.12,
+          "jan": "4573236209494"
         },
         "10g": {
           "name": "JIGPARA MICRO 10g",
@@ -3715,7 +3815,8 @@
             "#064 RED GOLD ZEBRA",
             "#G001 SANDEEL"
           ],
-          "price_usd": 2.12
+          "price_usd": 2.12,
+          "jan": "4573236209456"
         },
         "15g": {
           "name": "JIGPARA MICRO 15g",
@@ -3733,7 +3834,8 @@
             "#064 RED GOLD ZEBRA",
             "#G001 SANDEEL"
           ],
-          "price_usd": 2.3146666666666667
+          "price_usd": 2.3146666666666667,
+          "jan": "4573236209500"
         }
       },
       "jan": "4560350785683.0",
@@ -4246,7 +4348,8 @@
             "#060 PINK GLOW",
             "#064 RED GOLD ZEBRA"
           ],
-          "price_usd": 2.1562499999999996
+          "price_usd": 2.1562499999999996,
+          "jan": "4560350786819"
         },
         "15g": {
           "name": "JIGPARA SLOW 15g",
@@ -4263,7 +4366,8 @@
             "#064 RED GOLD ZEBRA",
             "#G001 SANDEEL"
           ],
-          "price_usd": 2.36375
+          "price_usd": 2.36375,
+          "jan": "4560350786888"
         },
         "20g": {
           "name": "JIGPARA SLOW 20g",
@@ -4283,7 +4387,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#G001 SANDEEL"
           ],
-          "price_usd": 2.5725
+          "price_usd": 2.5725,
+          "jan": "4560350795262"
         },
         "30g": {
           "name": "JIGPARA SLOW 30g",
@@ -4303,7 +4408,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#G001 SANDEEL"
           ],
-          "price_usd": 2.8187499999999996
+          "price_usd": 2.8187499999999996,
+          "jan": "4560350795330"
         },
         "40g": {
           "name": "JIGPARA SLOW 40g",
@@ -4323,7 +4429,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#G001 SANDEEL"
           ],
-          "price_usd": 2.832499999999999
+          "price_usd": 2.832499999999999,
+          "jan": "4560350795408"
         },
         "50g": {
           "name": "JIGPARA SLOW 50g",
@@ -4343,7 +4450,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#G001 SANDEEL"
           ],
-          "price_usd": 2.988749999999999
+          "price_usd": 2.988749999999999,
+          "jan": "4560350786543"
         },
         "60g": {
           "name": "JIGPARA SLOW 60g",
@@ -4363,7 +4471,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#G001 SANDEEL"
           ],
-          "price_usd": 3.131249999999999
+          "price_usd": 3.131249999999999,
+          "jan": "4560350786741"
         },
         "80g": {
           "name": "JIGPARA SLOW 80g",
@@ -4376,7 +4485,8 @@
             "#030 ZEBRA IWASHI",
             "#G001 SANDEEL"
           ],
-          "price_usd": 3.4575
+          "price_usd": 3.4575,
+          "jan": "4573236209654"
         },
         "100g": {
           "name": "JIGPARA SLOW 100g",
@@ -4388,7 +4498,8 @@
             "#026 ZEBRA PINK",
             "#030 ZEBRA IWASHI"
           ],
-          "price_usd": 3.8587499999999997
+          "price_usd": 3.8587499999999997,
+          "jan": "4573236212142"
         }
       },
       "jan": "4560350786819.0",
@@ -4415,7 +4526,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 3.2514285714285713
+          "price_usd": 3.2514285714285713,
+          "jan": "4573236190853"
         },
         "12g": {
           "name": "JIGPARA SPIN FW 12g",
@@ -4426,7 +4538,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 3.2514285714285713
+          "price_usd": 3.2514285714285713,
+          "jan": "4573236190815"
         },
         "18g": {
           "name": "JIGPARA SPIN FW 18g",
@@ -4437,7 +4550,8 @@
             "#036 SILVER SHAD",
             "#037 GIZZARD SHAD"
           ],
-          "price_usd": 3.2514285714285713
+          "price_usd": 3.2514285714285713,
+          "jan": "4573236209708"
         }
       },
       "jan": "4573236190815.0",
@@ -4468,7 +4582,8 @@
             "#019 ALL GLOW",
             "#026 ZEBRA PINK"
           ],
-          "price_usd": 1.37
+          "price_usd": 1.37,
+          "jan": "4560350799277"
         },
         "5g": {
           "name": "JIGPARA SPIN 5g",
@@ -4481,7 +4596,8 @@
             "#019 ALL GLOW",
             "#026 ZEBRA PINK"
           ],
-          "price_usd": 1.43
+          "price_usd": 1.43,
+          "jan": "4560350799345"
         },
         "7g": {
           "name": "JIGPARA SPIN 7g",
@@ -4494,7 +4610,8 @@
             "#019 ALL GLOW",
             "#026 ZEBRA PINK"
           ],
-          "price_usd": 3.2514285714285713
+          "price_usd": 3.2514285714285713,
+          "jan": "4573236190853"
         },
         "12g": {
           "name": "JIGPARA SPIN 12g",
@@ -4508,7 +4625,8 @@
             "#026 ZEBRA PINK",
             "#034 COTTON CANDY"
           ],
-          "price_usd": 3.2514285714285713
+          "price_usd": 3.2514285714285713,
+          "jan": "4573236190815"
         },
         "18g": {
           "name": "JIGPARA SPIN 18g",
@@ -4524,7 +4642,8 @@
             "#034 COTTON CANDY",
             "#073 KIBINAGO"
           ],
-          "price_usd": 3.2514285714285713
+          "price_usd": 3.2514285714285713,
+          "jan": "4573236209708"
         },
         "25g": {
           "name": "JIGPARA SPIN 25g",
@@ -4540,7 +4659,8 @@
             "#034 COTTON CANDY",
             "#073 KIBINAGO"
           ],
-          "price_usd": 1.72
+          "price_usd": 1.72,
+          "jan": "4560350797204"
         },
         "30g": {
           "name": "JIGPARA SPIN 30g",
@@ -4556,7 +4676,8 @@
             "#034 COTTON CANDY",
             "#073 KIBINAGO"
           ],
-          "price_usd": 3.2514285714285713
+          "price_usd": 3.2514285714285713,
+          "jan": "4573236190822"
         },
         "40g": {
           "name": "JIGPARA SPIN 40g",
@@ -4572,7 +4693,8 @@
             "#034 COTTON CANDY",
             "#073 KIBINAGO"
           ],
-          "price_usd": 1.9
+          "price_usd": 1.9,
+          "jan": "4560350797327"
         }
       },
       "jan": "4573236190730.0",
@@ -4669,7 +4791,8 @@
             "#121 SEGURO IWASHI (UV)",
             "#122 KISU (UV)"
           ],
-          "price_usd": 3.026470588235294
+          "price_usd": 3.026470588235294,
+          "jan": "4560350799000"
         },
         "35g": {
           "name": "JIGPARA SURF 35g",
@@ -4690,7 +4813,8 @@
             "#121 SEGURO IWASHI (UV)",
             "#122 KISU (UV)"
           ],
-          "price_usd": 3.1794117647058817
+          "price_usd": 3.1794117647058817,
+          "jan": "4560350799093"
         },
         "40g": {
           "name": "JIGPARA SURF 40g",
@@ -4711,7 +4835,8 @@
             "#121 SEGURO IWASHI (UV)",
             "#122 KISU (UV)"
           ],
-          "price_usd": 3.347058823529412
+          "price_usd": 3.347058823529412,
+          "jan": "4560350799185"
         }
       },
       "jan": "4560350799000.0",
@@ -4847,7 +4972,8 @@
             "#016 KEIMURA KATAKUCHI",
             "#017 KEIMURA SHIRASU"
           ],
-          "price_usd": 2.537333333333333
+          "price_usd": 2.537333333333333,
+          "jan": "4573236352558"
         },
         "5g": {
           "name": "JIGPARA TG MICRO 5g",
@@ -4860,7 +4986,8 @@
             "#016 KEIMURA KATAKUCHI",
             "#017 KEIMURA SHIRASU"
           ],
-          "price_usd": 2.813333333333333
+          "price_usd": 2.813333333333333,
+          "jan": "4573236352626"
         },
         "7g": {
           "name": "JIGPARA TG MICRO 7g",
@@ -4873,7 +5000,8 @@
             "#016 KEIMURA KATAKUCHI",
             "#017 KEIMURA SHIRASU"
           ],
-          "price_usd": 3.092
+          "price_usd": 3.092,
+          "jan": "4573236352695"
         }
       },
       "jan": "4573236352558.0",
@@ -4910,7 +5038,8 @@
             "#049 ORANGE GOLD",
             "#G002 CHART IWASHI (UV)"
           ],
-          "price_usd": 3.1962499999999996
+          "price_usd": 3.1962499999999996,
+          "jan": "4560350795798"
         },
         "14g": {
           "name": "JIGPARA TG 14g",
@@ -4926,7 +5055,8 @@
             "#049 ORANGE GOLD",
             "#G002 CHART IWASHI (UV)"
           ],
-          "price_usd": 3.755
+          "price_usd": 3.755,
+          "jan": "4560350795842"
         },
         "18g": {
           "name": "JIGPARA TG 18g",
@@ -4942,7 +5072,8 @@
             "#049 ORANGE GOLD",
             "#G002 CHART IWASHI (UV)"
           ],
-          "price_usd": 4.22375
+          "price_usd": 4.22375,
+          "jan": "4560350795897"
         },
         "24g": {
           "name": "JIGPARA TG 24g",
@@ -4959,7 +5090,8 @@
             "#049 ORANGE GOLD",
             "#G002 CHART IWASHI (UV)"
           ],
-          "price_usd": 5.302499999999999
+          "price_usd": 5.302499999999999,
+          "jan": "4560350795941"
         },
         "32g": {
           "name": "JIGPARA TG 32g",
@@ -4976,7 +5108,8 @@
             "#049 ORANGE  GOLD",
             "#G002 CHART IWASHI (UV)"
           ],
-          "price_usd": 6.2124999999999995
+          "price_usd": 6.2124999999999995,
+          "jan": "4560350795996"
         },
         "40g": {
           "name": "JIGPARA TG 40g",
@@ -4993,7 +5126,8 @@
             "#049 ORANGE GOLD",
             "#G002 CHART IWASHI (UV)"
           ],
-          "price_usd": 7.328235294117647
+          "price_usd": 7.328235294117647,
+          "jan": "4560350787656"
         },
         "50g": {
           "name": "JIGPARA TG 50g",
@@ -5007,7 +5141,8 @@
             "#034 COTTON CANDY",
             "#049 ORANGE GOLD"
           ],
-          "price_usd": 8.930588235294117
+          "price_usd": 8.930588235294117,
+          "jan": "4560350787700"
         },
         "60g": {
           "name": "JIGPARA TG 60g",
@@ -5021,7 +5156,8 @@
             "#034 COTTON CANDY",
             "#049 ORANGE GOLD"
           ],
-          "price_usd": 10.105882352941176
+          "price_usd": 10.105882352941176,
+          "jan": "4560350787755"
         },
         "80g": {
           "name": "JIGPARA TG 80g",
@@ -5035,7 +5171,8 @@
             "#034 COTTON CANDY",
             "#049 ORANGE GOLD"
           ],
-          "price_usd": 10.092941176470589
+          "price_usd": 10.092941176470589,
+          "jan": "4573236204574"
         },
         "100g": {
           "name": "JIGPARA TG 100g",
@@ -5049,7 +5186,8 @@
             "#034 COTTON CANDY",
             "#049 ORANGE GOLD"
           ],
-          "price_usd": 11.903529411764705
+          "price_usd": 11.903529411764705,
+          "jan": "4573236204680"
         },
         "120g": {
           "name": "JIGPARA TG 120g",
@@ -5063,7 +5201,8 @@
             "#034 COTTON CANDY",
             "#049 ORANGE GOLD"
           ],
-          "price_usd": 13.49529411764706
+          "price_usd": 13.49529411764706,
+          "jan": "4573236204796"
         }
       },
       "jan": "4560350795798.0",
@@ -5100,7 +5239,8 @@
             "#075 RED",
             "#076 PINK GOLD"
           ],
-          "price_usd": 2.772
+          "price_usd": 2.772,
+          "jan": "4573236207018"
         },
         "120g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 120g",
@@ -5116,7 +5256,8 @@
             "#075 RED",
             "#076 PINK GOLD"
           ],
-          "price_usd": 3.0213333333333328
+          "price_usd": 3.0213333333333328,
+          "jan": "4573236207100"
         },
         "150g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 150g",
@@ -5132,7 +5273,8 @@
             "#075 RED",
             "#076 PINK GOLD"
           ],
-          "price_usd": 3.3546666666666662
+          "price_usd": 3.3546666666666662,
+          "jan": "4573236207193"
         },
         "180g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 180g",
@@ -5148,7 +5290,8 @@
             "#075 RED",
             "#076 PINK GOLD"
           ],
-          "price_usd": 3.602666666666666
+          "price_usd": 3.602666666666666,
+          "jan": "4573236207285"
         },
         "200g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 200g",
@@ -5172,7 +5315,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#116 RAINBOW (UV)"
           ],
-          "price_usd": 3.978666666666667
+          "price_usd": 3.978666666666667,
+          "jan": "4573236207377"
         },
         "250g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 250g",
@@ -5196,7 +5340,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#116 RAINBOW (UV)"
           ],
-          "price_usd": 4.505333333333334
+          "price_usd": 4.505333333333334,
+          "jan": "4573236207469"
         },
         "300g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 300g",
@@ -5220,7 +5365,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#116 RAINBOW (UV)"
           ],
-          "price_usd": 4.893333333333333
+          "price_usd": 4.893333333333333,
+          "jan": "4573236207551"
         },
         "350g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 350g",
@@ -5244,7 +5390,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#116 RAINBOW (UV)"
           ],
-          "price_usd": 6.030666666666668
+          "price_usd": 6.030666666666668,
+          "jan": "4573236207612"
         },
         "400g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 400g",
@@ -5268,7 +5415,8 @@
             "#115 SUPER GLOW GREEN ZEBRA (UV)",
             "#116 RAINBOW (UV)"
           ],
-          "price_usd": 6.446666666666666
+          "price_usd": 6.446666666666666,
+          "jan": "4573236207674"
         },
         "500g": {
           "name": "JIGPARA VERTICAL LONG-SLOW 500g",
@@ -5285,7 +5433,8 @@
             "#075 RED",
             "#076 PINK GOLD"
           ],
-          "price_usd": 8.470666666666666
+          "price_usd": 8.470666666666666,
+          "jan": "4573236292359"
         }
       },
       "jan": "4573236207018.0",
@@ -5318,7 +5467,8 @@
             "#021 PLAIN SILVER",
             "#022 CRUSH SILVER"
           ],
-          "price_usd": 3.162857142857143
+          "price_usd": 3.162857142857143,
+          "jan": "4573236210261"
         },
         "120g": {
           "name": "JIGPARA VERTICAL LONG 120g",
@@ -5332,7 +5482,8 @@
             "#021 PLAIN SILVER",
             "#022 CRUSH SILVER"
           ],
-          "price_usd": 3.5199999999999996
+          "price_usd": 3.5199999999999996,
+          "jan": "4573236210278"
         },
         "150g": {
           "name": "JIGPARA VERTICAL LONG 150g",
@@ -5346,7 +5497,8 @@
             "#021 PLAIN SILVER",
             "#022 CRUSH SILVER"
           ],
-          "price_usd": 3.815714285714286
+          "price_usd": 3.815714285714286,
+          "jan": "4573236210285"
         },
         "180g": {
           "name": "JIGPARA VERTICAL LONG 180g",
@@ -5360,7 +5512,8 @@
             "#021 PLAIN SILVER",
             "#022 CRUSH SILVER"
           ],
-          "price_usd": 4.01
+          "price_usd": 4.01,
+          "jan": "4560350793381"
         },
         "200g": {
           "name": "JIGPARA VERTICAL LONG 200g",
@@ -5374,7 +5527,8 @@
             "#021 PLAIN SILVER",
             "#022 CRUSH SILVER"
           ],
-          "price_usd": 4.574285714285714
+          "price_usd": 4.574285714285714,
+          "jan": "4560350793541"
         },
         "250g": {
           "name": "JIGPARA VERTICAL LONG 250g",
@@ -5388,7 +5542,8 @@
             "#021 PLAIN SILVER",
             "#022 CRUSH SILVER"
           ],
-          "price_usd": 5.140000000000001
+          "price_usd": 5.140000000000001,
+          "jan": "4560350793466"
         },
         "300g": {
           "name": "JIGPARA VERTICAL LONG 300g",
@@ -5402,7 +5557,8 @@
             "#021 PLAIN SILVER",
             "#022 CRUSH SILVER"
           ],
-          "price_usd": 5.614285714285714
+          "price_usd": 5.614285714285714,
+          "jan": "4560350793626"
         }
       },
       "jan": "4560350792926.0",
@@ -5439,7 +5595,8 @@
             "#009 RAINBOW/UV",
             "#010 JET BLACK"
           ],
-          "price_usd": 3.630666666666666
+          "price_usd": 3.630666666666666,
+          "jan": "4573236331652"
         },
         "200g": {
           "name": "JIGPARA VERTICAL QUELL 200g",
@@ -5455,7 +5612,8 @@
             "#009 RAINBOW/UV",
             "#010 JET BLACK"
           ],
-          "price_usd": 4.214666666666666
+          "price_usd": 4.214666666666666,
+          "jan": "4573236331751"
         },
         "250g": {
           "name": "JIGPARA VERTICAL QUELL 250g",
@@ -5471,7 +5629,8 @@
             "#009 RAINBOW/UV",
             "#010 JET BLACK"
           ],
-          "price_usd": 4.755999999999999
+          "price_usd": 4.755999999999999,
+          "jan": "4573236331850"
         },
         "300g": {
           "name": "JIGPARA VERTICAL QUELL 300g",
@@ -5487,7 +5646,8 @@
             "#009 RAINBOW/UV",
             "#010 JET BLACK"
           ],
-          "price_usd": 5.294666666666666
+          "price_usd": 5.294666666666666,
+          "jan": "4573236331959"
         },
         "350g": {
           "name": "JIGPARA VERTICAL QUELL 350g",
@@ -5503,7 +5663,8 @@
             "#009 RAINBOW/UV",
             "#010 JET BLACK"
           ],
-          "price_usd": 5.933333333333334
+          "price_usd": 5.933333333333334,
+          "jan": "4573236332055"
         },
         "400g": {
           "name": "JIGPARA VERTICAL QUELL 400g",
@@ -5519,7 +5680,8 @@
             "#009 RAINBOW/UV",
             "#010 JET BLACK"
           ],
-          "price_usd": 6.695999999999999
+          "price_usd": 6.695999999999999,
+          "jan": "4573236332154"
         },
         "500g": {
           "name": "JIGPARA VERTICAL QUELL 500g",
@@ -5531,7 +5693,8 @@
             "#008 SG RED SPOT GLOW/UV",
             "#009 RAINBOW/UV"
           ],
-          "price_usd": 8.125333333333334
+          "price_usd": 8.125333333333334,
+          "jan": "4573236332253"
         }
       },
       "jan": "4573236331652.0",
@@ -5684,7 +5847,8 @@
             "#047 SAKURA ZEBRA",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 2.702666666666666
+          "price_usd": 2.702666666666666,
+          "jan": "4560350792124"
         },
         "100g": {
           "name": "JIGPARA VERTICAL SHORT 100g",
@@ -5701,7 +5865,8 @@
             "#047 SAKURA ZEBRA",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 2.952
+          "price_usd": 2.952,
+          "jan": "4560350792285"
         },
         "120g": {
           "name": "JIGPARA VERTICAL SHORT 120g",
@@ -5718,7 +5883,8 @@
             "#047 SAKURA ZEBRA",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 3.2853333333333326
+          "price_usd": 3.2853333333333326,
+          "jan": "4560350792445"
         },
         "150g": {
           "name": "JIGPARA VERTICAL SHORT 150g",
@@ -5735,7 +5901,8 @@
             "#047 SAKURA ZEBRA",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 3.5613333333333332
+          "price_usd": 3.5613333333333332,
+          "jan": "4560350792605"
         },
         "180g": {
           "name": "JIGPARA VERTICAL SHORT 180g",
@@ -5752,7 +5919,8 @@
             "#047 SAKURA ZEBRA",
             "#048 ZEBRA RED GOLD"
           ],
-          "price_usd": 3.7426666666666666
+          "price_usd": 3.7426666666666666,
+          "jan": "4560350792766"
         },
         "200g": {
           "name": "JIGPARA VERTICAL SHORT 200g",
@@ -5764,7 +5932,8 @@
             "#008 SILVER",
             "#015 KEIMURA IWASHI"
           ],
-          "price_usd": 3.936
+          "price_usd": 3.936,
+          "jan": "4573236190617"
         },
         "250g": {
           "name": "JIGPARA VERTICAL SHORT 250g",
@@ -5776,7 +5945,8 @@
             "#008 SILVER",
             "#015 KEIMURA IWASHI"
           ],
-          "price_usd": 4.505333333333334
+          "price_usd": 4.505333333333334,
+          "jan": "4573236190679"
         },
         "300g": {
           "name": "JIGPARA VERTICAL SHORT 300g",
@@ -5788,7 +5958,8 @@
             "#008 SILVER",
             "#015 KEIMURA IWASHI"
           ],
-          "price_usd": 4.893333333333333
+          "price_usd": 4.893333333333333,
+          "jan": "4573236196879"
         }
       },
       "jan": "4560350792124.0",
@@ -5829,7 +6000,8 @@
             "#081 LIVE KIN IWASHI",
             "#083 LIVE KIN AJI"
           ],
-          "price_usd": 6.609523809523809
+          "price_usd": 6.609523809523809,
+          "jan": "4573236196930"
         },
         "60g": {
           "name": "JIGPARA VERTICAL TG 60g",
@@ -5847,7 +6019,8 @@
             "#081 LIVE KIN IWASHI",
             "#083 LIVE KIN AJI"
           ],
-          "price_usd": 7.328571428571428
+          "price_usd": 7.328571428571428,
+          "jan": "4573236197012"
         },
         "80g": {
           "name": "JIGPARA VERTICAL TG 80g",
@@ -5869,7 +6042,8 @@
             "#111 SUN RISE PINK",
             "#112 SUNSET PURPLE"
           ],
-          "price_usd": 9.91547619047619
+          "price_usd": 9.91547619047619,
+          "jan": "4573236197098"
         },
         "100g": {
           "name": "JIGPARA VERTICAL TG 100g",
@@ -5891,7 +6065,8 @@
             "#111 SUN RISE PINK",
             "#112 SUNSET PURPLE"
           ],
-          "price_usd": 11.575
+          "price_usd": 11.575,
+          "jan": "4573236197173"
         },
         "120g": {
           "name": "JIGPARA VERTICAL TG 120g",
@@ -5913,7 +6088,8 @@
             "#111 SUN RISE PINK",
             "#112 SUNSET PURPLE"
           ],
-          "price_usd": 13.197619047619048
+          "price_usd": 13.197619047619048,
+          "jan": "4573236197258"
         },
         "150g": {
           "name": "JIGPARA VERTICAL TG 150g",
@@ -5935,7 +6111,8 @@
             "#111 SUN RISE PINK",
             "#112 SUNSET PURPLE"
           ],
-          "price_usd": 15.85833333333333
+          "price_usd": 15.85833333333333,
+          "jan": "4573236197333"
         },
         "180g": {
           "name": "JIGPARA VERTICAL TG 180g",
@@ -5957,7 +6134,8 @@
             "#111 SUN RISE PINK",
             "#112 SUNSET PURPLE"
           ],
-          "price_usd": 18.916666666666664
+          "price_usd": 18.916666666666664,
+          "jan": "4573236197418"
         }
       },
       "jan": "4573236196930.0",
@@ -6026,7 +6204,8 @@
             "#004 KOU IKA",
             "#005 KENSAKI IKA"
           ],
-          "price_usd": 2.45625
+          "price_usd": 2.45625,
+          "jan": "4573236211268"
         },
         "4\"": {
           "name": "LIVE SQUID 4\"",
@@ -6037,7 +6216,8 @@
             "#004 KOU IKA",
             "#005 KENSAKI IKA"
           ],
-          "price_usd": 2.45625
+          "price_usd": 2.45625,
+          "jan": "4573236214665"
         }
       },
       "jan": "4573236211268.0",
@@ -6090,7 +6270,8 @@
             "#098 DAMAGE GOLD IWASHI(UV)",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 2.9237499999999996
+          "price_usd": 2.9237499999999996,
+          "jan": "4573236190327"
         },
         "40g": {
           "name": "MAKI JIG JET 40g",
@@ -6114,7 +6295,8 @@
             "#098 DAMAGE GOLD IWASHI(UV)",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 3.1187499999999995
+          "price_usd": 3.1187499999999995,
+          "jan": "4573236190419"
         },
         "60g": {
           "name": "MAKI JIG JET 60g",
@@ -6138,7 +6320,8 @@
             "#098 DAMAGE GOLD IWASHI(UV)",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 3.403749999999999
+          "price_usd": 3.403749999999999,
+          "jan": "4573236190501"
         }
       },
       "jan": "4573236190327.0",
@@ -6269,7 +6452,8 @@
             "#098 DAMAGE GOLD IWASHI(UV)",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 3.5479999999999996
+          "price_usd": 3.5479999999999996,
+          "jan": "4573236219028"
         },
         "30g": {
           "name": "MAKI JIG SLOW 30g",
@@ -6296,7 +6480,8 @@
             "#098 DAMAGE GOLD IWASHI(UV)",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 2.9237499999999996
+          "price_usd": 2.9237499999999996,
+          "jan": "4573236194707"
         },
         "40g": {
           "name": "MAKI JIG SLOW 40g",
@@ -6323,7 +6508,8 @@
             "#098 DAMAGE GOLD IWASHI(UV)",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 3.1187499999999995
+          "price_usd": 3.1187499999999995,
+          "jan": "4573236194790"
         },
         "60g": {
           "name": "MAKI JIG SLOW 60g",
@@ -6350,7 +6536,8 @@
             "#098 DAMAGE GOLD IWASHI(UV)",
             "#099 DAMAGE HARA GLOW IWASHI"
           ],
-          "price_usd": 3.403749999999999
+          "price_usd": 3.403749999999999,
+          "jan": "4573236194882"
         }
       },
       "jan": "4573236194615.0",
@@ -6383,7 +6570,8 @@
             "#055 KEIMURA MIRROR",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 3.936
+          "price_usd": 3.936,
+          "jan": "4573236195919"
         },
         "250g": {
           "name": "METAL DRAGON 250g",
@@ -6397,7 +6585,8 @@
             "#055 KEIMURA MIRROR",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 4.505333333333334
+          "price_usd": 4.505333333333334,
+          "jan": "4573236195964"
         },
         "300g": {
           "name": "METAL DRAGON 300g",
@@ -6411,7 +6600,8 @@
             "#055 KEIMURA MIRROR",
             "#057 GLOW HEAD"
           ],
-          "price_usd": 4.893333333333333
+          "price_usd": 4.893333333333333,
+          "jan": "4573236196015"
         }
       },
       "jan": "4573236195919.0",
@@ -6464,7 +6654,8 @@
             "#005 KEIMURA PINK SILVER",
             "#006 GLOW"
           ],
-          "price_usd": 2.1177215189873415
+          "price_usd": 2.1177215189873415,
+          "jan": "4573236215914"
         },
         "2g": {
           "name": "NANO RUBBER 2g",
@@ -6476,7 +6667,8 @@
             "#005 KEIMURA PINK SILVER",
             "#006 GLOW"
           ],
-          "price_usd": 2.1177215189873415
+          "price_usd": 2.1177215189873415,
+          "jan": "4573236215976"
         },
         "3g": {
           "name": "NANO RUBBER 3g",
@@ -6488,7 +6680,8 @@
             "#005 KEIMURA PINK SILVER",
             "#006 GLOW"
           ],
-          "price_usd": 2.1177215189873415
+          "price_usd": 2.1177215189873415,
+          "jan": "4573236216034"
         },
         "5g": {
           "name": "NANO RUBBER 5g",
@@ -6500,7 +6693,8 @@
             "#005 KEIMURA PINK SILVER",
             "#006 GLOW"
           ],
-          "price_usd": 2.1177215189873415
+          "price_usd": 2.1177215189873415,
+          "jan": "4573236215914"
         },
         "7g": {
           "name": "NANO RUBBER 7g",
@@ -6512,7 +6706,8 @@
             "#005 KEIMURA PINK SILVER",
             "#006 GLOW"
           ],
-          "price_usd": 2.3278481012658228
+          "price_usd": 2.3278481012658228,
+          "jan": "4573236216157"
         },
         "10g": {
           "name": "NANO RUBBER 10g",
@@ -6524,7 +6719,8 @@
             "#005 KEIMURA PINK SILVER",
             "#006 GLOW"
           ],
-          "price_usd": 2.513924050632911
+          "price_usd": 2.513924050632911,
+          "jan": "4573236216218"
         }
       },
       "jan": "4573236215914.0",
@@ -6565,7 +6761,8 @@
             "#071 SOLID GREEN",
             "#072 WHITE GLOW"
           ],
-          "price_usd": 1.4693333333333332
+          "price_usd": 1.4693333333333332,
+          "jan": "4573236215631"
         }
       },
       "jan": "4573236215631.0",
@@ -7013,7 +7210,8 @@
             "#016 DARK BLUE",
             "#017 ORANGE TAIL"
           ],
-          "price_usd": 1.8399999999999999
+          "price_usd": 1.8399999999999999,
+          "jan": "4573236336473"
         },
         "4.7\"": {
           "name": "ROCKLIVER DRAGON SCREW 4.7\"",
@@ -7026,7 +7224,8 @@
             "#016 DARK BLUE",
             "#017 ORANGE TAIL"
           ],
-          "price_usd": 2.164383561643836
+          "price_usd": 2.164383561643836,
+          "jan": "4573236336541"
         }
       },
       "jan": "4573236336473.0",
@@ -7095,7 +7294,8 @@
             "#009 MANGO CHART",
             "#010 MIZUNARA GOLD"
           ],
-          "price_usd": 1.8399999999999999
+          "price_usd": 1.8399999999999999,
+          "jan": "4573236331089"
         }
       },
       "jan": "4573236331089.0",
@@ -7130,7 +7330,8 @@
             "#008 CLEAR BLUE BACK",
             "#009 CLEAR ORANGE"
           ],
-          "price_usd": 2.508571428571429
+          "price_usd": 2.508571428571429,
+          "jan": "4573236332482"
         }
       },
       "jan": "4573236332482.0",
@@ -7165,7 +7366,8 @@
             "#008 CLEAR BLUE BACK",
             "#009 CLEAR ORANGE"
           ],
-          "price_usd": 2.508571428571429
+          "price_usd": 2.508571428571429,
+          "jan": "4573236330976"
         }
       },
       "jan": "4573236330976.0",
@@ -7735,7 +7937,8 @@
             "#024 LIVE KIBINAGO",
             "#025 LIVE DOJO"
           ],
-          "price_usd": 2.0891604095563143
+          "price_usd": 2.0891604095563143,
+          "jan": "4573236320236"
         },
         "4\"": {
           "name": "STABI SHAD SLIM 4\"",
@@ -7752,7 +7955,8 @@
             "#024 LIVE KIBINAGO",
             "#025 LIVE DOJO"
           ],
-          "price_usd": 2.0891604095563143
+          "price_usd": 2.0891604095563143,
+          "jan": "4573236320342"
         },
         "5\"": {
           "name": "STABISHAD SLIM 5\"",
@@ -7769,7 +7973,8 @@
             "#024 LIVE KIBINAGO",
             "#025 LIVE DOJO"
           ],
-          "price_usd": 2.0891604095563143
+          "price_usd": 2.0891604095563143,
+          "jan": "4573236320236"
         },
         "6\"": {
           "name": "STABISHAD SLIM 6\"",
@@ -7786,7 +7991,8 @@
             "#024 LIVE KIBINAGO",
             "#025 LIVE DOJO"
           ],
-          "price_usd": 2.12
+          "price_usd": 2.12,
+          "jan": "4573236321233"
         },
         "7\"": {
           "name": "STABISHAD SLIM 7\"",
@@ -7803,7 +8009,8 @@
             "#024 LIVE KIBINAGO",
             "#025 LIVE DOJO"
           ],
-          "price_usd": 2.2
+          "price_usd": 2.2,
+          "jan": "4573236321349"
         }
       },
       "jan": "4573236320236.0",
@@ -8793,7 +9000,8 @@
             "#021 LIVE AJI",
             "#022 LIVE SABA"
           ],
-          "price_usd": 2.0891604095563143
+          "price_usd": 2.0891604095563143,
+          "jan": "4573236320014"
         },
         "4\"": {
           "name": "STABI SHAD 4\"",
@@ -8809,7 +9017,8 @@
             "#021 LIVE AJI",
             "#022 LIVE SABA"
           ],
-          "price_usd": 2.0891604095563143
+          "price_usd": 2.0891604095563143,
+          "jan": "4573236320120"
         },
         "5\"": {
           "name": "STABISHAD 5\"",
@@ -8825,7 +9034,8 @@
             "#021 LIVE AJI",
             "#022 LIVE SABA"
           ],
-          "price_usd": 2.0891604095563143
+          "price_usd": 2.0891604095563143,
+          "jan": "4573236320014"
         },
         "6\"": {
           "name": "STABISHAD 6\"",
@@ -8841,7 +9051,8 @@
             "#021 LIVE AJI",
             "#022 LIVE SABA"
           ],
-          "price_usd": 2.72
+          "price_usd": 2.72,
+          "jan": "4573236320687"
         },
         "7\"": {
           "name": "STABISHAD 7\"",
@@ -8857,7 +9068,8 @@
             "#021 LIVE AJI",
             "#022 LIVE SABA"
           ],
-          "price_usd": 2.63
+          "price_usd": 2.63,
+          "jan": "4573236320793"
         }
       },
       "jan": "4573236320014.0",

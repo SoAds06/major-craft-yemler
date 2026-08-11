@@ -917,10 +917,19 @@
                     const [productId, variant, color] = key.split('|');
                     const product = products.find(p => p.id === productId);
 
-                    // Variant JAN'ını kullan, yoksa product JAN'ını kullan
+                    // Color JAN'ını önce kontrol et, sonra variant, sonra product JAN'ını kullan
                     let jan = product?.jan || '-';
+
                     if (variant !== 'default' && product?.variants && product.variants[variant]) {
-                        jan = product.variants[variant].jan || jan;
+                        const variantData = product.variants[variant];
+
+                        // Color-specific JAN var mı?
+                        if (variantData.color_jans && variantData.color_jans[color]) {
+                            jan = variantData.color_jans[color];
+                        } else if (variantData.jan) {
+                            // Variant JAN'ını kullan
+                            jan = variantData.jan;
+                        }
                     }
 
                     items.push({

@@ -530,6 +530,15 @@
             const end = start + ITEMS_PER_PAGE;
             const pageProducts = products.slice(start, end);
 
+            // Variant seçilmemişse, ilk variant'ı otomatik seç
+            pageProducts.forEach(product => {
+                if (product.variants && Object.keys(product.variants).length > 0) {
+                    if (!currentVariant[product.id]) {
+                        currentVariant[product.id] = Object.keys(product.variants)[0];
+                    }
+                }
+            });
+
             const content = document.getElementById('productsContent');
 
             // Eski cost değerini kaydet

@@ -933,16 +933,19 @@
                     // Color JAN'ını önce kontrol et, sonra variant, sonra product JAN'ını kullan
                     let jan = product?.jan || '-';
 
+                    // Color-specific JAN (variant level)
                     if (variant !== 'default' && product?.variants && product.variants[variant]) {
                         const variantData = product.variants[variant];
 
-                        // Color-specific JAN var mı?
                         if (variantData.color_jans && variantData.color_jans[color]) {
                             jan = variantData.color_jans[color];
                         } else if (variantData.jan) {
-                            // Variant JAN'ını kullan
                             jan = variantData.jan;
                         }
+                    }
+                    // Color-specific JAN (product level - default variant için)
+                    else if (product?.color_jans && product.color_jans[color]) {
+                        jan = product.color_jans[color];
                     }
 
                     items.push({

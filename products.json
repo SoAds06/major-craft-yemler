@@ -226,7 +226,17 @@
       },
       "jan": "4573236193328.0",
       "price_usd": 1.76,
-      "price_eur": 1.8162500000000001
+      "price_eur": 1.8162500000000001,
+      "color_jans": {
+        "#001 IWASHI (UV)": "4573236193328",
+        "#002 MAMEAJI (UV)": "4573236193335",
+        "#003 RED GOLD (UV)": "4573236193342",
+        "#004 GREEN GOLD (UV)": "4573236193359",
+        "#005 BLUE PINK (UV)": "4573236193366",
+        "#006 GLOW CHART": "4573236193373",
+        "#007 GLOW PINK": "4573236193380",
+        "#008 GLOW": "4573236193397"
+      }
     },
     {
       "id": "aji-do-worm-candoll",
@@ -278,7 +288,19 @@
       },
       "jan": "4573236290119.0",
       "price_usd": 1.823076923076923,
-      "price_eur": 1.823076923076923
+      "price_eur": 1.823076923076923,
+      "color_jans": {
+        "#001 IWASHI (DOT GLOW)": "4573236193328",
+        "#002 GLOW PINK": "4573236193335",
+        "#003 GLOW CHART": "4573236193342",
+        "#004 AMI RED (GLOW)": "4573236193359",
+        "#005 CLEAR LAME MASHIMASHI (GLOW)": "4573236193366",
+        "#006 JAKO (GLOW)": "4573236193373",
+        "#007 TWO TONE BLUE GOLD (KEIMURA)": "4573236193380",
+        "#008 SILHOUETTE SPECIAL (KEIMURA)": "4573236193397",
+        "#009 OKIAMI (KEIMURA)": "4573236290195",
+        "#010 GLOW WHITE SILVER LAME": "4573236290201"
+      }
     },
     {
       "id": "aji-do-worm-hachikku",
@@ -330,7 +352,19 @@
       },
       "jan": "4573236290218.0",
       "price_usd": 1.823076923076923,
-      "price_eur": 1.823076923076923
+      "price_eur": 1.823076923076923,
+      "color_jans": {
+        "#001 IWASHI (DOT GLOW)": "4573236193328",
+        "#002 GLOW PINK": "4573236193335",
+        "#003 GLOW CHART": "4573236193342",
+        "#004 AMI RED (GLOW)": "4573236193359",
+        "#005 CLEAR LAME MASHIMASHI (GLOW)": "4573236193366",
+        "#006 JAKO (GLOW)": "4573236193373",
+        "#007 TWO TONE BLUE GOLD (KEIMURA)": "4573236193380",
+        "#008 SILHOUETTE SPECIAL (KEIMURA)": "4573236193397",
+        "#009 OKIAMI (KEIMURA)": "4573236290195",
+        "#010 GLOW WHITE SILVER LAME": "4573236290201"
+      }
     },
     {
       "id": "aji-do-worm-redama",
@@ -382,7 +416,19 @@
       },
       "jan": "4573236290317.0",
       "price_usd": 1.823076923076923,
-      "price_eur": 1.823076923076923
+      "price_eur": 1.823076923076923,
+      "color_jans": {
+        "#001 IWASHI (DOT GLOW)": "4573236193328",
+        "#002 GLOW PINK": "4573236193335",
+        "#003 GLOW CHART": "4573236193342",
+        "#004 AMI RED (GLOW)": "4573236193359",
+        "#005 CLEAR LAME MASHIMASHI (GLOW)": "4573236193366",
+        "#006 JAKO (GLOW)": "4573236193373",
+        "#007 TWO TONE BLUE GOLD (KEIMURA)": "4573236193380",
+        "#008 SILHOUETTE SPECIAL (KEIMURA)": "4573236193397",
+        "#009 OKIAMI (KEIMURA)": "4573236290195",
+        "#010 GLOW WHITE SILVER LAME": "4573236290201"
+      }
     },
     {
       "id": "aji-do-worm-zanby",
@@ -434,7 +480,19 @@
       },
       "jan": "4573236290010.0",
       "price_usd": 1.823076923076923,
-      "price_eur": 1.823076923076923
+      "price_eur": 1.823076923076923,
+      "color_jans": {
+        "#001 IWASHI (DOT GLOW)": "4573236193328",
+        "#002 GLOW PINK": "4573236193335",
+        "#003 GLOW CHART": "4573236193342",
+        "#004 AMI RED (GLOW)": "4573236193359",
+        "#005 CLEAR LAME MASHIMASHI (GLOW)": "4573236193366",
+        "#006 JAKO (GLOW)": "4573236193373",
+        "#007 TWO TONE BLUE GOLD (KEIMURA)": "4573236193380",
+        "#008 SILHOUETTE SPECIAL (KEIMURA)": "4573236193397",
+        "#009 OKIAMI (KEIMURA)": "4573236290195",
+        "#010 GLOW WHITE SILVER LAME": "4573236290201"
+      }
     },
     {
       "id": "big-eye-egi-sutte",
@@ -562,7 +620,29 @@
       },
       "jan": "4573236187518.0",
       "price_usd": 3.0924999999999994,
-      "price_eur": 18.99
+      "price_eur": 18.99,
+      "color_jans": {
+        "#001 GLOW RED GREEN": "4573236193328",
+        "#002 GLOW ORANGE BROWN": "4573236193335",
+        "#003 GLOW APPEAL RED": "4573236193342",
+        "#004 GLOE RED YELLOW": "4573236193359",
+        "#005 BLUE GLOW APPEAL PINK": "4573236193366",
+        "#006 BLUE GLOW BLUE BLUE": "4573236193373",
+        "#007 BLUE GLOW RED HEAD": "4573236193380",
+        "#008 BLUE GLOW PINK RED": "4573236193397",
+        "#009 KEIMURA RED GREEN": "4573236290195",
+        "#010 KEIMURA PURPLE HEAD": "4573236290201",
+        "#011 PURPLE GLOW PURPLE RED": "4573236370224",
+        "#012 PURPLE GLOW PURPLE HEAD": "4573236370231",
+        "#013 RED GLOW RED HEAD": "4573236370248",
+        "#014 ORANGE GLOW ORANGE HEAD": "4573236370255",
+        "#015 BLACK GLOW BLACK HEAD": "4573236370262",
+        "#016 GLOW PURPLE PINK": "4573236371580",
+        "#017 GLOW GREEN GREEN": "4573236371597",
+        "#018 BLUE GLOW PURPLE YELLOW": "4573236371603",
+        "#019 KEIMURA PURPLE": "4573236371610",
+        "#020 RED SILHOUETTE BLACK": "4573236371627"
+      }
     },
     {
       "id": "big-eye-metal",
@@ -819,7 +899,31 @@
       },
       "jan": "4573236187815.0",
       "price_usd": 2.9964705882352938,
-      "price_eur": 20.42
+      "price_eur": 20.42,
+      "color_jans": {
+        "#001 GLOW RED GREEN": "4573236193328",
+        "#002 GLOW RED YELLOW": "4573236193335",
+        "#003 GLOW ORANGE BROWN": "4573236193342",
+        "#004 GLOW APPEAL RED": "4573236193359",
+        "#005 BLUE GLOW RED GREEN": "4573236193366",
+        "#006 BLUE GLOW RED HEAD": "4573236193373",
+        "#007 BLUE GROW PINK RED": "4573236193380",
+        "#008 BLUE GLOW BLUE BLUE": "4573236193397",
+        "#009 KEIMURA RED HEAD": "4573236290195",
+        "#010 KEIMURA INNOCENT": "4573236290201",
+        "#011 PURPLE GLOW PURPLE RED": "4573236370224",
+        "#012 PURPLE GLOW PURPLE HEAD": "4573236370231",
+        "#013 RED GLOW RED HEAD": "4573236370248",
+        "#014 ORANGE GLOW ORANGE HEAD": "4573236370255",
+        "#015 BLACK GLOW BLACK HEAD": "4573236370262",
+        "#013 GLOW RED HEAD": "4573236370248",
+        "#014 GLOW ORANGE HEAD": "4573236370255",
+        "#016 GLOW PURPLE PINK": "4573236371580",
+        "#017 GLOW GREEN GREEN": "4573236371597",
+        "#018 BLUE GLOW PURPLE YELLOW": "4573236371603",
+        "#019 KEIMURA PURPLE": "4573236371610",
+        "#020 RED SILHOUETTE BLACK": "4573236371627"
+      }
     },
     {
       "id": "big-eye-omorig-egi-slow-fall",
@@ -860,7 +964,16 @@
       },
       "jan": "4573236371801.0",
       "price_usd": 3.5479999999999996,
-      "price_eur": 25.16
+      "price_eur": 25.16,
+      "color_jans": {
+        "#001 GLOW RED GREEN": "4573236193328",
+        "#002 GLOW APPEAL RED": "4573236193335",
+        "#003 BLUE GLOW RED GREEN": "4573236193342",
+        "#004 BLUE GLOW PURPLE BLUE": "4573236193359",
+        "#005 BLUE GLOW BLUE YELLOW": "4573236193366",
+        "#006 SILHOUETTE BLACK": "4573236193373",
+        "#007 RED PURPLE": "4573236193380"
+      }
     },
     {
       "id": "big-eye-omorig-egi",
@@ -922,7 +1035,23 @@
       },
       "jan": "4573236187716.0",
       "price_usd": 3.1837499999999994,
-      "price_eur": 18.99
+      "price_eur": 18.99,
+      "color_jans": {
+        "#001 GLOW RED GREEN": "4573236193328",
+        "#002 GLOW ORANGE BROWN": "4573236193335",
+        "#003 GLOW APPEAL RED": "4573236193342",
+        "#004 BLUE GLOW RED GREEN": "4573236193359",
+        "#005 BLUE GLOW PINK RED": "4573236193366",
+        "#006 KEIMURA RED HEAD": "4573236193373",
+        "#007 PURPLE GLOW PURPLE HEAD": "4573236193380",
+        "#008 RED GLOW RED HEAD": "4573236193397",
+        "#009 ORANGE GLOW ORANGE HEAD": "4573236290195",
+        "#010 BLACK GLOW BLACK HEAD": "4573236290201",
+        "#011 GLOW PURPLE PINK": "4573236370224",
+        "#012 GLOW GREEN GREEN": "4573236370231",
+        "#013 BLUE GLOW PURPLE YELLOW": "4573236370248",
+        "#014 RED SIHOUETTE BLACK": "4573236370255"
+      }
     },
     {
       "id": "big-eye-sutte",
@@ -1050,7 +1179,29 @@
       },
       "jan": "4573236188454.0",
       "price_usd": 3.1188235294117646,
-      "price_eur": 20.42
+      "price_eur": 20.42,
+      "color_jans": {
+        "#001 GLOW RED GREEN": "4573236193328",
+        "#002 GLOW ORANGE BROWN": "4573236193335",
+        "#003 GLOW APPEAL RED": "4573236193342",
+        "#004 GLOW RED YELLOW": "4573236193359",
+        "#005 BLUE GLOW RED GREEN": "4573236193366",
+        "#006 BLUE GLOW BLUE BLUE": "4573236193373",
+        "#007 BLUE GLOW RED HEAD": "4573236193380",
+        "#008 BLUE GLOW PINK RED": "4573236193397",
+        "#009 BLUE GLOW APPEAL BROWN": "4573236290195",
+        "#010 KEIMURA INNOCENT": "4573236290201",
+        "#011 PURPLE GLOW PURPLE RED": "4573236370224",
+        "#012 PURPLE GLOW PURPLE HEAD": "4573236370231",
+        "#013 RED GLOW RED HEAD": "4573236370248",
+        "#014 ORANGE GLOW ORANGE HEAD": "4573236370255",
+        "#015 BLACK GLOW BLACK HEAD": "4573236370262",
+        "#016 GLOW PURPLE PINK": "4573236371580",
+        "#017 GLOW GREEN GREEN": "4573236371597",
+        "#018 BLUE GLOW PURPLE YELLOW": "4573236371603",
+        "#019 KEIMURA PURPLE": "4573236371610",
+        "#020 RED SILHOUETTE BLACK": "4573236371627"
+      }
     },
     {
       "id": "biobait-i-tail",
@@ -1106,7 +1257,21 @@
       },
       "jan": "4573236330013.0",
       "price_usd": 2.5392405063291137,
-      "price_eur": 25.16
+      "price_eur": 25.16,
+      "color_jans": {
+        "#001 BACHI": "4573236193328",
+        "#002 AMI-EBI": "4573236193335",
+        "#003 IWASHI": "4573236193342",
+        "#004 PINK": "4573236193359",
+        "#005 CHART LEMON": "4573236193366",
+        "#006 KIWI": "4573236193373",
+        "#007 WANOKU GREEN": "4573236193380",
+        "#008 WHITE SILVER": "4573236193397",
+        "#009 LUCKYOU": "4573236290195",
+        "#010 GULLI": "4573236290201",
+        "#011 RAMUNE": "4573236370224",
+        "#012 BENI-SHOGA": "4573236370231"
+      }
     },
     {
       "id": "black-porgy-blade",
@@ -1190,7 +1355,15 @@
       },
       "jan": "4573236218014.0",
       "price_usd": 2.1466666666666665,
-      "price_eur": 2.2394444444444446
+      "price_eur": 2.2394444444444446,
+      "color_jans": {
+        "#001 FUNKY COLA": "4573236193328",
+        "#002 FUNKY ORANGE": "4573236193335",
+        "#003 KOKUTOU MATCHA": "4573236193342",
+        "#004 LEMON YOGURT": "4573236193359",
+        "#005 HAWAIIAN LEMON": "4573236193366",
+        "#006 DARK COLA": "4573236193373"
+      }
     },
     {
       "id": "black-porgy-candy",
@@ -1274,7 +1447,15 @@
       },
       "jan": "4573236218199.0",
       "price_usd": 2.9907692307692306,
-      "price_eur": 3.0758974358974354
+      "price_eur": 3.0758974358974354,
+      "color_jans": {
+        "#001 FUNKY COLA": "4573236193328",
+        "#002 FUNKY ORANGE": "4573236193335",
+        "#003 KOKUTOU MATCHA": "4573236193342",
+        "#004 LEMON YOGURT": "4573236193359",
+        "#005 AMERICAN CHERRY": "4573236193366",
+        "#006 TSUBUTSUBU ORANGE": "4573236193373"
+      }
     },
     {
       "id": "black-porgy-chinu-claw",
@@ -1327,7 +1508,14 @@
       },
       "jan": "4573236217871.0",
       "price_usd": 1.8707692307692303,
-      "price_eur": 5.22
+      "price_eur": 5.22,
+      "color_jans": {
+        "#001 WATER MELON BLUE": "4573236193328",
+        "#002 GREEN PUMPKIN": "4573236193335",
+        "#003 HARAKIN BLACK": "4573236193342",
+        "#004 CARROT GOLD": "4573236193359",
+        "#005 AMEZARI": "4573236193366"
+      }
     },
     {
       "id": "breakback-120",
@@ -1377,7 +1565,19 @@
       },
       "jan": "4573236341927.0",
       "price_usd": 5.405714285714285,
-      "price_eur": 6.65
+      "price_eur": 6.65,
+      "color_jans": {
+        "#001 IWASHI (UV)": "4573236193328",
+        "#002 BLUE PINK IWASHI (UV)": "4573236193335",
+        "#003 PINK IWASHI (UV)": "4573236193342",
+        "#004 RED GOLD": "4573236193359",
+        "#005 GREEN GOLD": "4573236193366",
+        "#006 CHART LIME CANDY": "4573236193373",
+        "#007 CHARTBACK PEARL": "4573236193380",
+        "#008 MATTE CHART": "4573236193397",
+        "#009 EDGE ORANGE": "4573236290195",
+        "#010 CLEAR PINK HEAD CHART": "4573236290201"
+      }
     },
     {
       "id": "ceana-eely-shad-160mm-strong-hook-version",
@@ -1415,7 +1615,15 @@
       },
       "jan": "4573236289946.0",
       "price_usd": 3.787142857142857,
-      "price_eur": 97.9957142857143
+      "price_eur": 97.9957142857143,
+      "color_jans": {
+        "#002 PEARL WHITE": "4573236193335",
+        "#003 PINK": "4573236193342",
+        "#005 SAND EEL": "4573236193366",
+        "#006 SEXY SHAD": "4573236193373",
+        "#007 WAKASAGI": "4573236193380",
+        "#008 CHARTBACK WHITE": "4573236193397"
+      }
     },
     {
       "id": "ceana-eely-shad",
@@ -1584,7 +1792,22 @@
       },
       "jan": "4573236290522.0",
       "price_usd": 2.73,
-      "price_eur": 2.9825
+      "price_eur": 2.9825,
+      "color_jans": {
+        "#001 SHINY SHAD": "4573236193328",
+        "#002 PEARL WHITE": "4573236193335",
+        "#003 PINK": "4573236193342",
+        "#004 BELONE": "4573236193359",
+        "#005 SAND EEL": "4573236193366",
+        "#006 SEXY SHAD": "4573236193373",
+        "#007 WAKASAGI": "4573236193380",
+        "#008 CHARTBACK WHITE": "4573236193397",
+        "#009 LATTERINO": "4573236290195",
+        "#020 LIVE GHOST IWASHI": "4573236371627",
+        "#021 LIVE GHOST SABA": "4573236290614",
+        "#022 LIVE GHOST BORA": "4573236290621",
+        "#023 LIVE GHOST KATAKUCHI": "4573236290638"
+      }
     },
     {
       "id": "ceana-jerkbait-110-middle",
@@ -1648,7 +1871,23 @@
       },
       "jan": "4573236291420.0",
       "price_usd": 3.81,
-      "price_eur": 3.81
+      "price_eur": 3.81,
+      "color_jans": {
+        "#001 BLUE BACK SILVER": "4573236193328",
+        "#002 GREEN BACK SILVER": "4573236193335",
+        "#004 YELLOW CHEEK PEARL WHITE": "4573236193359",
+        "#006 AYU": "4573236193373",
+        "#008 MAT TIGER": "4573236193397",
+        "#010 CLEAR PERCH": "4573236290201",
+        "#011 OIKAWA": "4573236370224",
+        "#012 CHARTREUSE": "4573236370231",
+        "#013 HOLO CROWN": "4573236370248",
+        "#014 HOLO TENNESSEE": "4573236370255",
+        "#015 GHOST WAKASAGI": "4573236370262",
+        "#016 SEXY SHAD": "4573236371580",
+        "#017 GHOST TENNESEE": "4573236371597",
+        "#021 BLACK SAPPHIRE": "4573236290614"
+      }
     },
     {
       "id": "crosride-jig-heavy-metal",
@@ -1843,7 +2082,23 @@
       },
       "jan": "4573236219202.0",
       "price_usd": 3.1471428571428564,
-      "price_eur": 44.39142857142858
+      "price_eur": 44.39142857142858,
+      "color_jans": {
+        "#001 IWASHI(UV)": "4573236193328",
+        "#002 RED GOLD(UV)": "4573236193335",
+        "#003 GREEN GOLD(UV)": "4573236193342",
+        "#004 BLUE PINK(UV)": "4573236193359",
+        "#005 PINK(UV)": "4573236193366",
+        "#006 SILVER(UV)": "4573236193373",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 ZEBRA RED GOLD": "4573236193397",
+        "#009 ZEBRA BLUE PINK": "4573236290195",
+        "#010 GOLW HEAD SILVER": "4573236290201",
+        "#011 COTTON CANDY(UV)": "4573236370224",
+        "#012 PINK GLOW": "4573236370231",
+        "#013 EDGE BLUE GLOW": "4573236370248",
+        "#010 GLOW HEAD SILVER": "4573236290201"
+      }
     },
     {
       "id": "crossride-blade",
@@ -1940,7 +2195,22 @@
       },
       "jan": "4573236219752.0",
       "price_usd": 3.2159999999999993,
-      "price_eur": 3.2713333333333328
+      "price_eur": 3.2713333333333328,
+      "color_jans": {
+        "#003 KEIMURA RED GOLD": "4573236193342",
+        "#015 KEIMURA IWASHI": "4573236370262",
+        "#029 KEIMURA PINK IWASHI": "4573236219776",
+        "#033 YELLOW COTTON": "4573236219783",
+        "#046 KEIMURA MIRROR SILVER": "4573236219790",
+        "#078 KEIMURA BLUE PINK IWASHI": "4573236219806",
+        "#080 LIVE KEIMURA IWASHI": "4573236219813",
+        "#083 LIVE KEIMURA KIN AJI": "4573236219820",
+        "#085 LIVE KEIMURA KIN SABA": "4573236219837",
+        "#087 LIVE HARA GLOW KIBINAGO": "4573236219844",
+        "#097 DAMAGE KEIMURA IWASHI": "4573236219851",
+        "#098 DAMAGE KEIMURA KIN IWASHI": "4573236219868",
+        "#099 DAMAGE HARA GLOW IWASHI": "4573236219875"
+      }
     },
     {
       "id": "dangan-sutte",
@@ -2024,7 +2294,15 @@
       },
       "jan": "4573236188928.0",
       "price_usd": 6.26,
-      "price_eur": 7.47
+      "price_eur": 7.47,
+      "color_jans": {
+        "#001 RED-WHITE (GLOW)": "4573236193328",
+        "#002 RED-GREEN (GLOW)": "4573236193335",
+        "#003 RED-CHART (GLOW)": "4573236193342",
+        "#004 WHITE-PINK (GLOW)": "4573236193359",
+        "#005 GREEN-WHITE (BLUE GLOW)": "4573236193366",
+        "#006 RED-BLUE (BLUE GLOW)": "4573236193373"
+      }
     },
     {
       "id": "egizo-bait-feather-onpa",
@@ -2171,7 +2449,24 @@
       },
       "jan": "4573236187112.0",
       "price_usd": 3.32,
-      "price_eur": 3.42
+      "price_eur": 3.42,
+      "color_jans": {
+        "#001 GLOW APPEAL ORANGE": "4573236193328",
+        "#002 GLOW APPEAL RED": "4573236193335",
+        "#003 GLOW ORANGE CHARTREUSE": "4573236193342",
+        "#004 GLOW RED GREEN": "4573236193359",
+        "#005 BLUE GLOW APPEAL PINK": "4573236193366",
+        "#006 BLUE GLOW MARBLE ORANGE": "4573236193373",
+        "#007 BLUE GLOW SILVER PURPLE": "4573236193380",
+        "#008 KEIMURA GOLD BROWN": "4573236193397",
+        "#009 KEIMURA PURPLE": "4573236290195",
+        "#010 CLEAR ORANGE": "4573236290201",
+        "#011 PURPLE GLOW RED PURPLE": "4573236370224",
+        "#012 PURPLE GLOW ORANGE": "4573236370231",
+        "#013 RED GLOW PINK": "4573236370248",
+        "#014 ORANGE GLOW RED ORANGE": "4573236370255",
+        "#015 BLACK GLOW BLACK": "4573236370262"
+      }
     },
     {
       "id": "egizo-bait-feather-tip-run",
@@ -2283,7 +2578,21 @@
       },
       "jan": "4573236372006.0",
       "price_usd": 4.277777777777778,
-      "price_eur": 4.278518518518518
+      "price_eur": 4.278518518518518,
+      "color_jans": {
+        "#001 PURPLE PURPLE": "4573236193328",
+        "#002 GLOW GOLD ORANGE": "4573236193335",
+        "#003 BLUE GLOW MARBLE BLUE": "4573236193342",
+        "#004 BLUE GLOW GOLD ORANGE": "4573236193359",
+        "#005 KEIMURA ORANGE": "4573236193366",
+        "#006 KEIMURA PURPLE": "4573236193373",
+        "#007 KEIMURA RED PURPLE": "4573236193380",
+        "#008 CLEAR APPEAL RED": "4573236193397",
+        "#009 CLEAR BAIT": "4573236290195",
+        "#010 CLEAR MONOTONE": "4573236290201",
+        "#003 BLUE LUMINOUS MARBLE BLUE": "4573236193342",
+        "#004 BLUE LUMINOUS GOLD BROWN": "4573236193359"
+      }
     },
     {
       "id": "egizo-bait-feather",
@@ -2515,7 +2824,35 @@
       },
       "jan": "4573236186511.0",
       "price_usd": 3.05,
-      "price_eur": 3.3616666666666664
+      "price_eur": 3.3616666666666664,
+      "color_jans": {
+        "#051 GLOW APPEAL ORANGE": "4573236186511",
+        "#052 GLOW GOLD BROWN": "4573236186528",
+        "#053 GLOW ORANGE CHART": "4573236186535",
+        "#054 BLUE GLOW APPEAL RED": "4573236186542",
+        "#055 BLUE GLOW APPEAL PINK": "4573236186559",
+        "#056 BLUE GLOW RED ORANGE": "4573236186566",
+        "#057 BLUE GLOW BLUE": "4573236186573",
+        "#058 MARBLE GREEN": "4573236186580",
+        "#059 RED PINK": "4573236186597",
+        "#060 PURPLE PURPLE": "4573236186603",
+        "#056 BLUE GLOW APPEAL ORANGE": "4573236186566",
+        "#001 GLOW MARBLE ORANGE": "4573236193328",
+        "#002 BLUE GLOW GOLD BLUE": "4573236193335",
+        "#003 BLUE GLOW GOLD GREEN": "4573236193342",
+        "#004 KEIMURA RED PINK": "4573236193359",
+        "#005 KEIMURA RED BROWN": "4573236193366",
+        "#006 KEIMURA ORANGE": "4573236193373",
+        "#007 CLEAR APPEAL RED": "4573236193380",
+        "#008 CLEAR BAIT": "4573236193397",
+        "#009 CLEAR BROWN": "4573236290195",
+        "#010 CLEAR MONOTONE": "4573236290201",
+        "#011 PURPLE GLOW RED PURPLE": "4573236370224",
+        "#012 PURPLE GLOW ORANGE": "4573236370231",
+        "#013 RED GLOW PINK": "4573236370248",
+        "#014 ORANGE GLOW RED ORANGE": "4573236370255",
+        "#015 BLACK GLOW BLACK": "4573236370262"
+      }
     },
     {
       "id": "egizo-shrimp",
@@ -2627,7 +2964,23 @@
       },
       "jan": "4573236298726.0",
       "price_usd": 4.158571428571429,
-      "price_eur": 4.242380952380953
+      "price_eur": 4.242380952380953,
+      "color_jans": {
+        "#001 GLOW ORANGE": "4573236193328",
+        "#002 BLUE GLOW BLUE": "4573236193335",
+        "#003 UV PINK": "4573236193342",
+        "#004 UV ORANGE": "4573236193359",
+        "#005 UV PURPLE": "4573236193366",
+        "#006 UV LIME": "4573236193373",
+        "#007 CLEAR APPEAL RED": "4573236193380",
+        "#008 CLEAR PINK": "4573236193397",
+        "#009 RED GREEN": "4573236290195",
+        "#010 RED PURPLE": "4573236290201",
+        "#003 KEIMURA PINK": "4573236193342",
+        "#004 KEIMURA ORANGE": "4573236193359",
+        "#005 KEIMURA PURPLE": "4573236193366",
+        "#006 KEIMURA LIME": "4573236193373"
+      }
     },
     {
       "id": "egizo-tr-smart-fit",
@@ -2768,7 +3121,24 @@
       },
       "jan": "4573236335636.0",
       "price_usd": 4.13013698630137,
-      "price_eur": 24.689999999999998
+      "price_eur": 24.689999999999998,
+      "color_jans": {
+        "#001 PURPLE PURPLE": "4573236193328",
+        "#002 PURPLE NAVY": "4573236193335",
+        "#003 RED PURPLE": "4573236193342",
+        "#004 RED GREEN": "4573236193359",
+        "#005 GOLD ORANGE": "4573236193366",
+        "#006 GLOW PURPLE": "4573236193373",
+        "#007 KEIMURA PINK PURPLE": "4573236193380",
+        "#008 KEIMURA OLIVE": "4573236193397",
+        "#009 CLEAR APPEAL RED": "4573236290195",
+        "#010 PURPLE DEEP PURPLE": "4573236290201",
+        "#011 GREEN GREEN": "4573236370224",
+        "#012 ORANGE ORANGE": "4573236370231",
+        "#013 PINK PURPLE": "4573236370248",
+        "#014 BLUE GLOW APPEAL PINK": "4573236370255",
+        "#015 KEIMURA PURPLE": "4573236370262"
+      }
     },
     {
       "id": "egizo",
@@ -2950,7 +3320,29 @@
       },
       "jan": "4573236185804.0",
       "price_usd": 3.23,
-      "price_eur": 4.196190476190476
+      "price_eur": 4.196190476190476,
+      "color_jans": {
+        "#012 GLOW GOLD ORANGE": "4573236370231",
+        "#013 GLOW APEAL ORANGE": "4573236370248",
+        "#014 BLUE GLOW MARBLE PINK": "4573236370255",
+        "#015 BLUE GLOW APEAL RED": "4573236370262",
+        "#016 BLUE GLOW BLUE": "4573236371580",
+        "#017 KEIMURA MARBLE ORANGE": "4573236371597",
+        "#018 KEIMURA PINK": "4573236371603",
+        "#019 KEIMURA GOLD BROWN": "4573236371610",
+        "#020 KEIMURA PURPLE": "4573236371627",
+        "#021 GOLD BROWN": "4573236290614",
+        "#022 GOLD GREEN": "4573236290621",
+        "#023 RED PURPLE": "4573236290638",
+        "#024 KEIMURA RED PURPLE": "4573236291987",
+        "#025 KEIMURA ORANGE BROWN": "4573236291994",
+        "#026 KEIMURA OLIVE": "4573236185941",
+        "#027 GLOW PINK": "4573236185958",
+        "#028 CLEAR ORANGE": "4573236185965",
+        "#029 CLEAR APPEAL SUNSET": "4573236219776",
+        "#030 CLEAR BROWN": "4573236185989",
+        "#031 CLEAR BAIT": "4573236185996"
+      }
     },
     {
       "id": "fighting-craw",
@@ -3034,7 +3426,16 @@
       },
       "jan": "4560350786147.0",
       "price_usd": 1.33,
-      "price_eur": 1.0433333333333332
+      "price_eur": 1.0433333333333332,
+      "color_jans": {
+        "#101 GLOW": "4560350786147",
+        "#107 KEIMURA RED": "4560350786154",
+        "#108 KEIMURA ORANGE": "4560350786161",
+        "#109 KEIMURA PINK": "4560350786178",
+        "#110 SOFT SHELL": "4560350786185",
+        "#111 ISO KANI": "4560350786192",
+        "#112 CLEAR HOLO": "4560350798034"
+      }
     },
     {
       "id": "finetail-eden-sw-custom-color",
@@ -3097,7 +3498,16 @@
       },
       "jan": "4573236301280.0",
       "price_usd": 3.4271604938271607,
-      "price_eur": 60.31777777777779
+      "price_eur": 60.31777777777779,
+      "color_jans": {
+        "#001 CHARTBACK": "4573236193328",
+        "#002 IWASHI": "4573236193335",
+        "#003 PEARL WHITE": "4573236193342",
+        "#004 ZEBRA GLOW": "4573236193359",
+        "#005 KATAKUCHI": "4573236193366",
+        "#006 SHIRASU": "4573236193373",
+        "#007 GHOST BORA": "4573236193380"
+      }
     },
     {
       "id": "finetail-eden",
@@ -3258,7 +3668,26 @@
       },
       "jan": "4573236300511.0",
       "price_usd": 3.5172839506172835,
-      "price_eur": 3.5469135802469136
+      "price_eur": 3.5469135802469136,
+      "color_jans": {
+        "#001 PEARL YAMAME": "4573236193328",
+        "#002 LASER YAMAME": "4573236193335",
+        "#003 CHART MARKER YAMAME": "4573236193342",
+        "#004 LASER CHART YAMAME": "4573236193359",
+        "#005 LASER PINK YAMAME": "4573236193366",
+        "#006 TENNESSEE SHAD": "4573236193373",
+        "#007 MEKKI AYU": "4573236193380",
+        "#008 CHART MARKER AYU": "4573236193397",
+        "#009 GOLDEN AYU": "4573236290195",
+        "#010 RED GOLD YAMAME": "4573236290201",
+        "#011 GREEN GOLD YAMAME": "4573236370224",
+        "#012 CHART YAMAME": "4573236370231",
+        "#013 GOLD CHART YAMAME": "4573236370248",
+        "#014 PEARL CHART YAMAME": "4573236370255",
+        "#015 CM LASER RED GOLD": "4573236370262",
+        "#016 CM MONOCHROME YAMAME": "4573236371580",
+        "#017 LIME CHART YAMAME": "4573236371597"
+      }
     },
     {
       "id": "first-jig-long",
@@ -3434,7 +3863,17 @@
       },
       "jan": "4573236324036.0",
       "price_usd": 4.866666666666666,
-      "price_eur": 6.252222222222223
+      "price_eur": 6.252222222222223,
+      "color_jans": {
+        "#003 RED GOLD (UV)": "4573236193342",
+        "#004 BLUE PINK (UV)": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER (UV)": "4573236193397",
+        "#011 GREEN GOLD (UV)": "4573236370224",
+        "#012 PINK SILVER (UV)": "4573236370231",
+        "#046 MIRROR SILVER(UV)": "4573236219790",
+        "#057 GLOW HEAD": "4573236186573"
+      }
     },
     {
       "id": "first-jig-slow",
@@ -3597,7 +4036,16 @@
       },
       "jan": "4573236323480.0",
       "price_usd": 5.794666666666667,
-      "price_eur": 7.114000000000001
+      "price_eur": 7.114000000000001,
+      "color_jans": {
+        "#003 RED GOLD (UV)": "4573236193342",
+        "#004 BLUE PINK (UV)": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#011 GREEN GOLD (UV)": "4573236370224",
+        "#048 ZEBRA RED GOLD": "4573236195582",
+        "#056 BLACK ZEBRA": "4573236186566",
+        "#057 GLOW HEAD": "4573236186573"
+      }
     },
     {
       "id": "first-jig-tachiuo",
@@ -3731,7 +4179,19 @@
       },
       "jan": "4573236323015.0",
       "price_usd": 4.436,
-      "price_eur": 9.492857142857144
+      "price_eur": 9.492857142857144,
+      "color_jans": {
+        "#003 RED GOLD(UV)": "4573236193342",
+        "#004 ZEBRA RED GOLD": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 RED ZEBRA ORANGE GOLD": "4573236193397",
+        "#023 PURPLE(UV)": "4573236290638",
+        "#034 COTTON CANDY GLOW": "4573236322919",
+        "#041 PINK PURPLE ZEBRA": "4573236211312",
+        "#042 PINK PURPLE(UV)": "4573236323053",
+        "#045 SUPER PINK": "4573236323060",
+        "#046 MIRROR SILVER(UV)": "4573236219790"
+      }
     },
     {
       "id": "first-jig",
@@ -3881,7 +4341,17 @@
       },
       "jan": "4573236195513.0",
       "price_usd": 3.4825,
-      "price_eur": 4.244249999999999
+      "price_eur": 4.244249999999999,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#011 GREEN GOLD": "4573236370224",
+        "#029 PINK IWASHI": "4573236219776",
+        "#048 ZEBRA RED GOLD": "4573236195582"
+      }
     },
     {
       "id": "giant-killin-bomber-spin",
@@ -4084,7 +4554,21 @@
       },
       "jan": "4573236294551.0",
       "price_usd": 2.315714285714286,
-      "price_eur": 9.492857142857144
+      "price_eur": 9.492857142857144,
+      "color_jans": {
+        "#001 IWASHI (UV)": "4573236193328",
+        "#002 PINK IWASHI (UV)": "4573236193335",
+        "#003 RED GOLD (UV)": "4573236193342",
+        "#004 GREEN GOLD (UV)": "4573236193359",
+        "#005 SILVER (UV)": "4573236193366",
+        "#006 CHART IWASHI (UV)": "4573236193373",
+        "#007 ALL GLOW": "4573236193380",
+        "#008 PINK GLOW": "4573236193397",
+        "#009 ZEBRA GLOW": "4573236290195",
+        "#010 BLUE PINK (UV)": "4573236290201",
+        "#012 PINK CANDY (UV)": "4573236370231",
+        "#011 PINK CANDY (UV)": "4573236370224"
+      }
     },
     {
       "id": "giant-killing-pg-set",
@@ -4165,7 +4649,13 @@
       },
       "jan": "4573236294841.0",
       "price_usd": 4.144594594594595,
-      "price_eur": 4.4585585585585585
+      "price_eur": 4.4585585585585585,
+      "color_jans": {
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE SABA": "4573236290614",
+        "# PINK": "4573236295251",
+        "#008 KISU GLOW": "4573236193397"
+      }
     },
     {
       "id": "ginryu-shore-tachiuo-tenya",
@@ -4290,7 +4780,14 @@
       },
       "jan": "4573236217468.0",
       "price_usd": 2.777142857142857,
-      "price_eur": 36.28
+      "price_eur": 36.28,
+      "color_jans": {
+        "#001 SUPER GLOW": "4573236193328",
+        "#002 PURPLE GLOW(UV)": "4573236193335",
+        "#003 RED GOLD GLOW(UV)": "4573236193342",
+        "#004 PINK SILVER GLOW(UV)": "4573236193359",
+        "#005 IWASHI(UV)": "4573236193366"
+      }
     },
     {
       "id": "hamaoh-head",
@@ -4362,7 +4859,17 @@
       },
       "jan": "4573236214313.0",
       "price_usd": 1.53,
-      "price_eur": 1.5750000000000002
+      "price_eur": 1.5750000000000002,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 BLUE PINK IWASHI": "4573236193335",
+        "#003 PINK IWASHI": "4573236193342",
+        "#004 PINK GOLD IWASHI": "4573236193359",
+        "#005 ORANGE GOLD IWASHI": "4573236193366",
+        "#006 RED GOLD": "4573236193373",
+        "#007 RED BELLY HIRAME GOLD": "4573236193380",
+        "#008 KISU GLOW": "4573236193397"
+      }
     },
     {
       "id": "hamaoh-set14",
@@ -4427,7 +4934,24 @@
       },
       "jan": "4573236213705.0",
       "price_usd": 2.883749999999999,
-      "price_eur": 8.407142857142858
+      "price_eur": 8.407142857142858,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 BLUE PINK IWASHI": "4573236193335",
+        "#003 PINK IWASHI": "4573236193342",
+        "#004 PINK GOLD IWASHI": "4573236193359",
+        "#005 ORANGE GOLD IWASHI": "4573236193366",
+        "#006 RED GOLD": "4573236193373",
+        "#007 RED BELLY HIRAME GOLD": "4573236193380",
+        "#008 KISU GLOW": "4573236193397",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE SABA": "4573236290614",
+        "#022 LIVE KIBINAGO": "4573236290621",
+        "#023 LIVE KISU": "4573236290638",
+        "#030 GLOW CHART": "4573236185989",
+        "#031 GLOW ORANGE": "4573236185996",
+        "#032 GLOW PINK": "4573236213811"
+      }
     },
     {
       "id": "hamaoh-set18",
@@ -4492,7 +5016,24 @@
       },
       "jan": "4573236211794.0",
       "price_usd": 2.9374999999999996,
-      "price_eur": 8.407142857142858
+      "price_eur": 8.407142857142858,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 BLUE PINK IWASHI": "4573236193335",
+        "#003 PINK IWASHI": "4573236193342",
+        "#004 PINK GOLD IWASHI": "4573236193359",
+        "#005 ORANGE GOLD IWASHI": "4573236193366",
+        "#006 RED GOLD": "4573236193373",
+        "#007 RED BELLY HIRAME GOLD": "4573236193380",
+        "#008 KISU GLOW": "4573236193397",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE SABA": "4573236290614",
+        "#022 LIVE KIBINAGO": "4573236290621",
+        "#023 LIVE KISU": "4573236290638",
+        "#030 GLOW CHART": "4573236185989",
+        "#031 GLOW ORANGE": "4573236185996",
+        "#032 GLOW PINK": "4573236213811"
+      }
     },
     {
       "id": "hamaoh-set21",
@@ -4575,7 +5116,30 @@
       },
       "jan": "4573236214016.0",
       "price_usd": 3.1187499999999995,
-      "price_eur": 8.407142857142858
+      "price_eur": 8.407142857142858,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 BLUE PINK IWASHI": "4573236193335",
+        "#003 PINK IWASHI": "4573236193342",
+        "#004 PINK GOLD IWASHI": "4573236193359",
+        "#005 ORANGE GOLD IWASHI": "4573236193366",
+        "#006 RED GOLD": "4573236193373",
+        "#007 RED BELLY HIRAME GOLD": "4573236193380",
+        "#008 KISU GLOW": "4573236193397",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE SABA": "4573236290614",
+        "#022 LIVE KIBINAGO": "4573236290621",
+        "#023 LIVE KISU": "4573236290638",
+        "#030 GLOW CHART": "4573236185989",
+        "#031 GLOW ORANGE": "4573236185996",
+        "#032 GLOW PINK": "4573236213811",
+        "#033 GLOW PEARL PINK": "4573236219783",
+        "#034 GLOW PEARL CHART": "4573236322919",
+        "#035 FULL LIME GREEN": "4573236330327",
+        "#036 PINK GOLD STRIPE": "4573236336411",
+        "#037 ORANGE GOLD STRIPE": "4573236336428",
+        "#038 CHART CANDY": "4573236336435"
+      }
     },
     {
       "id": "hamaoh-set28",
@@ -4658,7 +5222,30 @@
       },
       "jan": "4573236214115.0",
       "price_usd": 3.2487499999999994,
-      "price_eur": 9.78857142857143
+      "price_eur": 9.78857142857143,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 BLUE PINK IWASHI": "4573236193335",
+        "#003 PINK IWASHI": "4573236193342",
+        "#004 PINK GOLD IWASHI": "4573236193359",
+        "#005 ORANGE GOLD IWASHI": "4573236193366",
+        "#006 RED GOLD": "4573236193373",
+        "#007 RED BELLY HIRAME GOLD": "4573236193380",
+        "#008 KISU GLOW": "4573236193397",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE SABA": "4573236290614",
+        "#022 LIVE KIBINAGO": "4573236290621",
+        "#023 LIVE KISU": "4573236290638",
+        "#030 GLOW CHART": "4573236185989",
+        "#031 GLOW ORANGE": "4573236185996",
+        "#032 GLOW PINK": "4573236213811",
+        "#033 GLOW PEARL PINK": "4573236219783",
+        "#034 GLOW PEARL CHART": "4573236322919",
+        "#035 FULL LIME GREEN": "4573236330327",
+        "#036 PINK GOLD STRIPE": "4573236336411",
+        "#037 ORANGE GOLD STRIPE": "4573236336428",
+        "#038 CHART CANDY": "4573236336435"
+      }
     },
     {
       "id": "hamaoh-set32",
@@ -4708,7 +5295,19 @@
       },
       "jan": "4573236332574.0",
       "price_usd": 3.2487499999999994,
-      "price_eur": 9.78857142857143
+      "price_eur": 9.78857142857143,
+      "color_jans": {
+        "#002 BLUE PINK IWASHI": "4573236193335",
+        "#003 PINK IWASHI": "4573236193342",
+        "#006 RED GOLD": "4573236193373",
+        "#007 RED BELLY HIRAME GOLD": "4573236193380",
+        "#008 KISU GLOW": "4573236193397",
+        "#030 GLOW CHART": "4573236185989",
+        "#032 GLOW PINK": "4573236213811",
+        "#033 GLOW PEARL PINK": "4573236219783",
+        "#034 GLOW PEARL CHART": "4573236322919",
+        "#035 FULL LIME GREEN": "4573236330327"
+      }
     },
     {
       "id": "hamaoh-shad3-5",
@@ -4773,7 +5372,24 @@
       },
       "jan": "4573236215754.0",
       "price_usd": 1.49375,
-      "price_eur": 9.78857142857143
+      "price_eur": 9.78857142857143,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 BLUE PINK IWASHI": "4573236193335",
+        "#003 PINK IWASHI": "4573236193342",
+        "#004 PINK GOLD IWASHI": "4573236193359",
+        "#005 ORANGE GOLD IWASHI": "4573236193366",
+        "#006 RED GOLD": "4573236193373",
+        "#007 RED BELLY HIRAME GOLD": "4573236193380",
+        "#008 KISU GLOW": "4573236193397",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE SABA": "4573236290614",
+        "#022 LIVE KIBINAGO": "4573236290621",
+        "#023 LIVE KISU": "4573236290638",
+        "#030 GLOW CHART": "4573236185989",
+        "#031 GLOW ORANGE": "4573236185996",
+        "#032 GLOW PINK": "4573236213811"
+      }
     },
     {
       "id": "hamaoh-shad4",
@@ -4847,7 +5463,27 @@
       },
       "jan": "4573236214511.0",
       "price_usd": 1.5062499999999996,
-      "price_eur": 11.185714285714287
+      "price_eur": 11.185714285714287,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 BLUE PINK IWASHI": "4573236193335",
+        "#003 PINK IWASHI": "4573236193342",
+        "#004 PINK GOLD IWASHI": "4573236193359",
+        "#005 ORANGE GOLD IWASHI": "4573236193366",
+        "#006 RED GOLD": "4573236193373",
+        "#007 RED BELLY HIRAME GOLD": "4573236193380",
+        "#008 KISU GLOW": "4573236193397",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE SABA": "4573236290614",
+        "#022 LIVE KIBINAGO": "4573236290621",
+        "#023 LIVE KISU": "4573236290638",
+        "#030 GLOW CHART": "4573236185989",
+        "#031 GLOW ORANGE": "4573236185996",
+        "#032 GLOW PINK": "4573236213811",
+        "#033 GLOW PEARL PINK": "4573236219783",
+        "#034 GLOW PEARL CHART": "4573236322919",
+        "#035 FULL LIME GREEN": "4573236330327"
+      }
     },
     {
       "id": "jig-rubber-through-offset",
@@ -4885,7 +5521,15 @@
       },
       "jan": "4573236224114.0",
       "price_usd": 2.107142857142857,
-      "price_eur": 11.185714285714287
+      "price_eur": 11.185714285714287,
+      "color_jans": {
+        "#205 Red": "4560350797624",
+        "#207 Orange": "4560350797631",
+        "#208 Silver": "4560350797648",
+        "#209 Green": "4560350797655",
+        "#210 Gold": "4560350797662",
+        "#211 Glow": "4560350797679"
+      }
     },
     {
       "id": "jig-rubber-through-tie",
@@ -4923,7 +5567,15 @@
       },
       "jan": "4573236224015.0",
       "price_usd": 2.126153846153846,
-      "price_eur": 11.185714285714287
+      "price_eur": 11.185714285714287,
+      "color_jans": {
+        "#205 RED": "4560350797624",
+        "#207 ORANGE": "4560350797631",
+        "#208 Silver": "4560350797648",
+        "#209 Green": "4560350797655",
+        "#210 Gold": "4560350797662",
+        "#211 Glow": "4560350797679"
+      }
     },
     {
       "id": "jig-rubber-through",
@@ -5097,7 +5749,19 @@
       },
       "jan": "4560350797624.0",
       "price_usd": 2.318461538461538,
-      "price_eur": 2.8146153846153843
+      "price_eur": 2.8146153846153843,
+      "color_jans": {
+        "#205 Red": "4560350797624",
+        "#207 Orange": "4560350797631",
+        "#208 Silver": "4560350797648",
+        "#209 Green": "4560350797655",
+        "#210 Gold": "4560350797662",
+        "#211 Glow": "4560350797679",
+        "#212 GLOW RED": "4560350788653",
+        "#213 GLOW ORANGE": "4560350788660",
+        "#214 GLOW GREEN": "4560350788677",
+        "#215 GLOW GOLD": "4560350788684"
+      }
     },
     {
       "id": "jigpara-blade-fw",
@@ -5174,7 +5838,14 @@
       },
       "jan": "4573236209104.0",
       "price_usd": 2.777142857142857,
-      "price_eur": 2.9404761904761902
+      "price_eur": 2.9404761904761902,
+      "color_jans": {
+        "#001 OIKAWA": "4573236193328",
+        "#030 G-SHAD": "4573236185989",
+        "#035 SEXY SHAD": "4573236330327",
+        "#036 SILVER SHAD": "4573236336411",
+        "#037 GIZZARD SHAD": "4573236336428"
+      }
     },
     {
       "id": "jigpara-ender-tg",
@@ -5280,7 +5951,15 @@
       },
       "jan": "4573236330372.0",
       "price_usd": 6.381249999999999,
-      "price_eur": 8.935625
+      "price_eur": 8.935625,
+      "color_jans": {
+        "#001 IWASHI (UV)": "4573236193328",
+        "#002 BLUE PINK (UV)": "4573236193335",
+        "#003 PINK CANDY (UV)": "4573236193342",
+        "#004 RED GOLD": "4573236193359",
+        "#005 ZEBRA GLOW": "4573236193366",
+        "#006 PINK GLOW": "4573236193373"
+      }
     },
     {
       "id": "jigpara-micro-fw",
@@ -5357,7 +6036,14 @@
       },
       "jan": "4573236209456.0",
       "price_usd": 2.12,
-      "price_eur": 2.184888888888889
+      "price_eur": 2.184888888888889,
+      "color_jans": {
+        "#001 OIKAWA": "4573236193328",
+        "#030 G-SHAD": "4573236185989",
+        "#035 SEXY SHAD": "4573236330327",
+        "#036 SILVER SHAD": "4573236336411",
+        "#037 GIZZARD SHAD": "4573236336428"
+      }
     },
     {
       "id": "jigpara-micro-livebait",
@@ -5497,7 +6183,17 @@
       },
       "jan": "4573236198651.0",
       "price_usd": 2.1175,
-      "price_eur": 13.415714285714284
+      "price_eur": 13.415714285714284,
+      "color_jans": {
+        "#080 LIVE IWASHI (UV)": "4573236219813",
+        "#081 LIVE KIN IWASHI (UV)": "4573236198668",
+        "#082 LIVE AJI (UV)": "4573236198675",
+        "#083 LIVE KIN AJI (UV)": "4573236219820",
+        "#084 LIVE SABA (UV)": "4573236198699",
+        "#085 LIVE KIN SABA (UV)": "4573236219837",
+        "#086 LIVE KIBINAGO (UV)": "4573236198088",
+        "#087 LIVE HARA GLOW KIBINAGO (UV)": "4573236219844"
+      }
     },
     {
       "id": "jigpara-micro-slim-livebait",
@@ -5637,7 +6333,17 @@
       },
       "jan": "4573236198286.0",
       "price_usd": 1.14,
-      "price_eur": 2.837142857142857
+      "price_eur": 2.837142857142857,
+      "color_jans": {
+        "#080 LIVE IWASHI (UV)": "4573236219813",
+        "#081 LIVE KIN IWASHI (UV)": "4573236198668",
+        "#082 LIVE AJI (UV)": "4573236198675",
+        "#083 LIVE KIN AJI (UV)": "4573236219820",
+        "#084 LIVE SABA (UV)": "4573236198699",
+        "#085 LIVE KIN SABA (UV)": "4573236219837",
+        "#086 LIVE KIBINAGO (UV)": "4573236198088",
+        "#087 LIVE HARA GLOW KIBINAGO (UV)": "4573236219844"
+      }
     },
     {
       "id": "jigpara-micro-slim",
@@ -5815,7 +6521,19 @@
       },
       "jan": "4560350785980.0",
       "price_usd": 1.02,
-      "price_eur": 1.5514583333333334
+      "price_eur": 1.5514583333333334,
+      "color_jans": {
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#015 KEIMURA IWASHI": "4573236370262",
+        "#016 KEIMURA KATAKUCHI": "4573236371580",
+        "#017 KEIMURA SHIRASU": "4573236371597",
+        "#018 GLOW PINK": "4573236371603",
+        "#019 ALLGLOW": "4573236371610",
+        "#019 ALL GLOW": "4573236371610",
+        "#G001 SANDEEL": "4573236204550"
+      }
     },
     {
       "id": "jigpara-micro",
@@ -6019,7 +6737,22 @@
       },
       "jan": "4560350785683.0",
       "price_usd": 1.02,
-      "price_eur": 1.9709305555555556
+      "price_eur": 1.9709305555555556,
+      "color_jans": {
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#015 KEIMURA IWASHI": "4573236370262",
+        "#016 KEIMURA KATAKUCHI": "4573236371580",
+        "#017 KEIMURA SHIRASU": "4573236371597",
+        "#018 GLOW PINK": "4573236371603",
+        "#019 ALLGLOW": "4573236371610",
+        "#019 ALL GLOW": "4573236371610",
+        "#011 GREEN GOLD": "4573236370224",
+        "#060 PINK GLOW": "4573236186603",
+        "#064 RED GOLD ZEBRA": "4573236211343",
+        "#G001 SANDEEL": "4573236204550"
+      }
     },
     {
       "id": "jigpara-short-livebait",
@@ -6246,7 +6979,23 @@
       },
       "jan": "4573236199016.0",
       "price_usd": 2.5862499999999997,
-      "price_eur": 2.837142857142857
+      "price_eur": 2.837142857142857,
+      "color_jans": {
+        "#080 LIVE IWASHI": "4573236219813",
+        "#081 LIVE KIN IWASHI": "4573236198668",
+        "#082 LIVE AJI": "4573236198675",
+        "#083 LIVE KIN AJI": "4573236219820",
+        "#084 LIVE SABA": "4573236198699",
+        "#085 LIVE KIN SABA": "4573236219837",
+        "#086 LIVE KIBINAGO": "4573236198088",
+        "#087 LIVE HARA GLOW KIBINAGO": "4573236219844",
+        "#088 LIVE KONOSHIRO": "4573236195094",
+        "#089 LIVE HARA GLOW KONOSHIRO": "4573236195100",
+        "#097 DAMAGE KEIMURA IWASHI": "4573236219851",
+        "#098 DAMAGE KEIMURA KIN IWASHI": "4573236219868",
+        "#099 DAMAGE HARA GLOW IWASHI": "4573236219875",
+        "#085 LIVE KIN SABA]": "4573236219837"
+      }
     },
     {
       "id": "jigpara-short",
@@ -6653,7 +7402,45 @@
       },
       "jan": "4560350784327.0",
       "price_usd": 2.4425,
-      "price_eur": 2.837142857142857
+      "price_eur": 2.837142857142857,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 PINK": "4573236193335",
+        "#003 REDGOLD": "4573236193342",
+        "#004 BLUEPINK": "4573236193359",
+        "#005 KATAKUCHI": "4573236193366",
+        "#006 BLUE SILVER": "4573236193373",
+        "#007 ZEBRAGLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#009 YELLOWCHART": "4573236290195",
+        "#010 GREEN BACK": "4573236290201",
+        "#011 GREENGOLD": "4573236370224",
+        "#019 ALLGLOW": "4573236371610",
+        "#020 SAKURA SILVER": "4573236371627",
+        "#023 PURPLE": "4573236290638",
+        "#024 ZEBRA PURPLE": "4573236291987",
+        "#025 2TONE PURPLE": "4573236291994",
+        "#026 ZEBRA PINK": "4573236185941",
+        "#027 BLUE IWASHI": "4573236185958",
+        "#028 CANDY IWASHI": "4573236185965",
+        "#029 PINK IWASHI": "4573236219776",
+        "#030 ZEBRA IWASHI": "4573236185989",
+        "#031 REAL IWASHI": "4573236185996",
+        "#038 CHART CANDY": "4573236336435",
+        "#039 DARK NIGHT": "4573236340333",
+        "#059 EDGE BLACK SILVER": "4573236186597",
+        "#060 PINK GLOW": "4573236186603",
+        "#061 GREEN GLOW": "4573236340036",
+        "#062 2TONE DEEP PURPLE": "4573236211329",
+        "#063 2TONE IWASHI ZEBRA": "4573236211336",
+        "#064 2TONE RED GOLD ZEBRA": "4573236211343",
+        "#070 EDGE ORANGE SILVER": "4573236211404",
+        "#071 EDGE PINK SILVER": "4573236211411",
+        "#G001 SANDEEL": "4573236204550",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380"
+      }
     },
     {
       "id": "jigpara-slow-livebait",
@@ -6843,7 +7630,19 @@
       },
       "jan": "4573236199375.0",
       "price_usd": 2.2737499999999997,
-      "price_eur": 9.862352941176471
+      "price_eur": 9.862352941176471,
+      "color_jans": {
+        "#080 LIVE IWASHI (UV)": "4573236219813",
+        "#081 LIVE KIN IWASHI (UV)": "4573236198668",
+        "#082 LIVE AJI (UV)": "4573236198675",
+        "#083 LIVE KIN AJI (UV)": "4573236219820",
+        "#084 LIVE SABA (UV)": "4573236198699",
+        "#085 LIVE KIN SABA (UV)": "4573236219837",
+        "#080 LIVE IWASHI": "4573236219813",
+        "#082 LIVE AJI": "4573236198675",
+        "#084 LIVE SABA": "4573236198699",
+        "#087 LIVE HARA GLOW KIBINAGO": "4573236219844"
+      }
     },
     {
       "id": "jigpara-slow",
@@ -7163,7 +7962,23 @@
       },
       "jan": "4560350786819.0",
       "price_usd": 2.1562499999999996,
-      "price_eur": 2.9088888888888884
+      "price_eur": 2.9088888888888884,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#018 GLOW PINK": "4573236371603",
+        "#026 ZEBRA PINK": "4573236185941",
+        "#030 ZEBRA IWASHI": "4573236185989",
+        "#040 CHART GOLD ZEBRA": "4573236340852",
+        "#043 PINK GOLD": "4573236206448",
+        "#060 PINK GLOW": "4573236186603",
+        "#064 RED GOLD ZEBRA": "4573236211343",
+        "#G001 SANDEEL": "4573236204550",
+        "#113 SUPER GLOW BLUE ZEBRA (UV)": "4573236331386",
+        "#114 SUPER GLOW ORANGE ZEBRA (UV)": "4573236331393",
+        "#115 SUPER GLOW GREEN ZEBRA (UV)": "4573236331409"
+      }
     },
     {
       "id": "jigpara-spin-fw",
@@ -7240,7 +8055,14 @@
       },
       "jan": "4573236190815.0",
       "price_usd": 3.2514285714285713,
-      "price_eur": 3.2514285714285713
+      "price_eur": 3.2514285714285713,
+      "color_jans": {
+        "#001 OIKAWA": "4573236193328",
+        "#030 G-SHAD": "4573236185989",
+        "#035 SEXY SHAD": "4573236330327",
+        "#036 SILVER SHAD": "4573236336411",
+        "#037 GIZZARD SHAD": "4573236336428"
+      }
     },
     {
       "id": "jigpara-spin",
@@ -7477,7 +8299,22 @@
       },
       "jan": "4573236190730.0",
       "price_usd": 3.2514285714285713,
-      "price_eur": 2.4282142857142857
+      "price_eur": 2.4282142857142857,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#017 KEIMURA SHIRASU": "4573236371597",
+        "#019 ALL GLOW": "4573236371610",
+        "#026 ZEBRA PINK": "4573236185941",
+        "#034 COTTON CANDY": "4573236322919",
+        "#005 KATAKUCHI": "4573236193366",
+        "#009 YELLOW CHART": "4573236290195",
+        "#024 ZEBRA PURPLE": "4573236291987",
+        "#029 PINK IWASHI": "4573236219776",
+        "#073 KIBINAGO": "4560350795095"
+      }
     },
     {
       "id": "jigpara-surf-livebait",
@@ -7555,7 +8392,15 @@
       },
       "jan": "4573236194011.0",
       "price_usd": 3.1941176470588233,
-      "price_eur": 7.941176470588235
+      "price_eur": 7.941176470588235,
+      "color_jans": {
+        "#080 LIVE IWASHI(UV)": "4573236219813",
+        "#081 LIVE KIN IWASHI(UV)": "4573236198668",
+        "#082 LIVE AJI(UV)": "4573236198675",
+        "#083 LIVE KIN AJI(UV)": "4573236219820",
+        "#084 LIVE SABA(UV)": "4573236198699",
+        "#085 LIVE KIN SABA(UV)": "4573236219837"
+      }
     },
     {
       "id": "jigpara-surf",
@@ -7702,7 +8547,24 @@
       },
       "jan": "4560350799000.0",
       "price_usd": 3.026470588235294,
-      "price_eur": 3.184313725490196
+      "price_eur": 3.184313725490196,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#009 FULL PINK HARA GLOW": "4573236290195",
+        "#010 MATTE PINK": "4573236290201",
+        "#011 MATTE CHART": "4573236370224",
+        "#049 ORANGE GOLD": "4560350799031",
+        "#050 HIRAME GOLD": "4560350799048",
+        "#051 BLUE CANDY": "4573236186511",
+        "#052 PINK CANDY": "4573236186528",
+        "#053 CLEAR PINK": "4573236186535",
+        "#054 SHIROGISU": "4573236186542",
+        "#120 PINK HEAD GOLD (UV)": "4573236330211",
+        "#121 SEGURO IWASHI (UV)": "4573236330228",
+        "#122 KISU (UV)": "4573236330235"
+      }
     },
     {
       "id": "jigpara-tg-livebait",
@@ -7878,7 +8740,18 @@
       },
       "jan": "4573236194219.0",
       "price_usd": 5.641249999999999,
-      "price_eur": 7.941176470588235
+      "price_eur": 7.941176470588235,
+      "color_jans": {
+        "#080 LIVE IWASHI(UV)": "4573236219813",
+        "#081 LIVE KIN IWASHI(UV)": "4573236198668",
+        "#082 LIVE AJI(UV)": "4573236198675",
+        "#083 LIVE KIN AJI(UV)": "4573236219820",
+        "#084 LIVE SABA(UV)": "4573236198699",
+        "#085 LIVE KIN SABA(UV)": "4573236219837",
+        "#086 LIVE KIBINAGO": "4573236198088",
+        "#087 LIVE HARA GLOW KIBINAGO": "4573236219844",
+        "#081 LIVE KIN IWASHI": "4573236198668"
+      }
     },
     {
       "id": "jigpara-tg-micro",
@@ -7969,7 +8842,16 @@
       },
       "jan": "4573236352558.0",
       "price_usd": 2.537333333333333,
-      "price_eur": 2.814222222222222
+      "price_eur": 2.814222222222222,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 PINK": "4573236193335",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#016 KEIMURA KATAKUCHI": "4573236371580",
+        "#017 KEIMURA SHIRASU": "4573236371597"
+      }
     },
     {
       "id": "jigpara-tg",
@@ -8307,7 +9189,22 @@
       },
       "jan": "4560350795798.0",
       "price_usd": 3.1962499999999996,
-      "price_eur": 7.6860427807486635
+      "price_eur": 7.6860427807486635,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#002 PINK": "4573236193335",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#016 KEIMURA KATAKUCHI": "4573236371580",
+        "#017 KEIMURA SHIRASU": "4573236371597",
+        "#034 COTTON CANDY": "4573236322919",
+        "#049 ORANGE GOLD": "4560350799031",
+        "#G002 CHART IWASHI (UV)": "4573236352435",
+        "#011 GREEN GOLD": "4573236370224",
+        "#016 KEIMURA IWASHI": "4573236371580",
+        "#049 ORANGE  GOLD": "4560350799031"
+      }
     },
     {
       "id": "jigpara-vertical-long-slow",
@@ -8711,7 +9608,27 @@
       },
       "jan": "4573236207018.0",
       "price_usd": 2.772,
-      "price_eur": 4.7076
+      "price_eur": 4.7076,
+      "color_jans": {
+        "#001 IWASHI": "4573236193328",
+        "#003 RED GOLD": "4573236193342",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#053 KEIMURA SILVER": "4573236186535",
+        "#055 KEIMURA MIRROR": "4573236186559",
+        "#056 BLACK ZEBRA": "4573236186566",
+        "#057 GLOW HEAD": "4573236186573",
+        "#075 RED": "4573236207056",
+        "#076 PINK GOLD": "4573236207063",
+        "#065 MATTE BLACK": "4573236211350",
+        "#066 MATTE ZEBRA CHART ORANGE": "4573236211367",
+        "#067 MATTE ZEBRA CHART YELLOW": "4573236211374",
+        "#068 MATTE ZEBRA CHART PINK": "4573236211381",
+        "#113 SUPER GLOW BLUE ZEBRA (UV)": "4573236331386",
+        "#114 SUPER GLOW ORANGE ZEBRA (UV)": "4573236331393",
+        "#115 SUPER GLOW GREEN ZEBRA (UV)": "4573236331409",
+        "#116 RAINBOW (UV)": "4573236331218"
+      }
     },
     {
       "id": "jigpara-vertical-long",
@@ -8913,7 +9830,17 @@
       },
       "jan": "4560350792926.0",
       "price_usd": 3.162857142857143,
-      "price_eur": 4.262448979591837
+      "price_eur": 4.262448979591837,
+      "color_jans": {
+        "#002 PINK": "4573236193335",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#006 BLUE SILVER": "4573236193373",
+        "#021 PLAIN SILVER": "4573236290614",
+        "#022 CRUSH SILVER": "4573236290621"
+      }
     },
     {
       "id": "jigpara-vertical-quell",
@@ -9137,7 +10064,19 @@
       },
       "jan": "4573236331652.0",
       "price_usd": 3.630666666666666,
-      "price_eur": 5.521523809523809
+      "price_eur": 5.521523809523809,
+      "color_jans": {
+        "#001 SILVER/UV": "4573236193328",
+        "#002 BLACK BACK CHROME/UV": "4573236193335",
+        "#003 RED GOLD/UV": "4573236193342",
+        "#004 MOJITO/UV": "4573236193359",
+        "#005 PASSION/UV": "4573236193366",
+        "#006 SG ZEBRA GLOW/UV": "4573236193373",
+        "#007 SG PINK GLOW/UV": "4573236193380",
+        "#008 SG RED SPOT GLOW/UV": "4573236193397",
+        "#009 RAINBOW/UV": "4573236290195",
+        "#010 JET BLACK": "4573236290201"
+      }
     },
     {
       "id": "jigpara-vertical-short-livebait",
@@ -9332,7 +10271,22 @@
       },
       "jan": "4573236195018.0",
       "price_usd": 3.1466666666666665,
-      "price_eur": 10.254117647058823
+      "price_eur": 10.254117647058823,
+      "color_jans": {
+        "#080 LIVE IWASHI(UV)": "4573236219813",
+        "#081 LIVE KIN IWASHI(UV)": "4573236198668",
+        "#082 LIVE AJI(UV)": "4573236198675",
+        "#083 LIVE KIN AJI(UV)": "4573236219820",
+        "#084 LIVE SABA(UV)": "4573236198699",
+        "#085 LIVE KIN SABA(UV)": "4573236219837",
+        "#086 LIVE KIBINAGO (UV)": "4573236198088",
+        "#087 LIVE HARA GLOW KIBINAGO (UV)": "4573236219844",
+        "#088 LIVE KONOSHIRO (UV)": "4573236195094",
+        "#089 LIVE HARA GLOW KONOSHIRO (UV)": "4573236195100",
+        "#097 DAMAGE IWASHI(UV)": "4573236219851",
+        "#098 DAMAGE GOLD IWASHI(UV)": "4573236219868",
+        "#099 DAMAGE HARA GLOW IWASHI": "4573236219875"
+      }
     },
     {
       "id": "jigpara-vertical-short",
@@ -9581,7 +10535,20 @@
       },
       "jan": "4560350792124.0",
       "price_usd": 2.702666666666666,
-      "price_eur": 3.697333333333333
+      "price_eur": 3.697333333333333,
+      "color_jans": {
+        "#002 PINK": "4573236193335",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#015 KEIMURA IWASHI": "4573236370262",
+        "#023 PURPLE": "4573236290638",
+        "#024 ZEBRA PURPLE": "4573236291987",
+        "#025 2 TONE PURPLE": "4573236291994",
+        "#047 SAKURA ZEBRA": "4560350796719",
+        "#048 ZEBRA RED GOLD": "4573236195582"
+      }
     },
     {
       "id": "jigpara-vertical-tg",
@@ -9883,7 +10850,25 @@
       },
       "jan": "4573236196930.0",
       "price_usd": 6.609523809523809,
-      "price_eur": 11.914455782312924
+      "price_eur": 11.914455782312924,
+      "color_jans": {
+        "#002 PINK": "4573236193335",
+        "#003 RED GOLD": "4573236193342",
+        "#004 BLUE PINK (UV)": "4573236193359",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#011 GREEN GOLD": "4573236370224",
+        "#015 KEIMURA IWASHI": "4573236370262",
+        "#016 KEIMURA KATAKUCHI": "4573236371580",
+        "#057 GLOW HEAD": "4573236186573",
+        "#077 ZEBRA RED GOLD": "4573236206431",
+        "#081 LIVE KIN IWASHI": "4573236198668",
+        "#083 LIVE KIN AJI": "4573236219820",
+        "#042 PINK PURPLE": "4573236323053",
+        "#110 SUN RISE RED": "4560350786185",
+        "#111 SUN RISE PINK": "4560350786192",
+        "#112 SUNSET PURPLE": "4560350798034"
+      }
     },
     {
       "id": "jigpara-wind-slim-head",
@@ -9991,7 +10976,15 @@
       },
       "jan": "4573236211268.0",
       "price_usd": 2.45625,
-      "price_eur": 2.45625
+      "price_eur": 2.45625,
+      "color_jans": {
+        "#002 NAMA IKA": "4573236193335",
+        "#002 SURUME IKA": "4573236193335",
+        "#003 YARI IKA": "4573236193342",
+        "#004 KOU IKA": "4573236193359",
+        "#005 KENSAKI IKA": "4573236193366",
+        "#001 NAMA IKA": "4573236193328"
+      }
     },
     {
       "id": "maki-jig-jet",
@@ -10159,7 +11152,27 @@
       },
       "jan": "4573236190327.0",
       "price_usd": 2.9237499999999996,
-      "price_eur": 3.1487499999999997
+      "price_eur": 3.1487499999999997,
+      "color_jans": {
+        "#003 RED GOLD": "4573236193342",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#015 KEIMURA IWASHI": "4573236370262",
+        "#019 SUPER GLOW": "4573236371610",
+        "#029 PINK IWASHI (UV)": "4573236219776",
+        "#077 ZEBRA RED GOLD": "4573236206431",
+        "#078 BLUE PINK IWASHI (UV)": "4573236219806",
+        "#079 GREEN GOLD AJI (UV)": "4573236190402",
+        "#080 LIVE IWASHI (UV)": "4573236219813",
+        "#081 LIVE KIN IWASHI (UV)": "4573236198668",
+        "#084 LIVE SABA (UV)": "4573236198699",
+        "#085 LIVE KIN SABA (UV)": "4573236219837",
+        "#086 LIVE KIBINAGO (UV)": "4573236198088",
+        "#087 LIVE HARA GLOW KIBINAGO (UV)": "4573236219844",
+        "#097 DAMAGE IWASHI(UV)": "4573236219851",
+        "#098 DAMAGE GOLD IWASHI(UV)": "4573236219868",
+        "#099 DAMAGE HARA GLOW IWASHI": "4573236219875"
+      }
     },
     {
       "id": "maki-jig-micro",
@@ -10277,7 +11290,15 @@
       },
       "jan": "4573236196572.0",
       "price_usd": 1.9,
-      "price_eur": 9.090588235294117
+      "price_eur": 9.090588235294117,
+      "color_jans": {
+        "#003 RED GOLD (UV)": "4573236193342",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#015 IWASHI (UV)": "4573236370262",
+        "#019 SUPER GLOW": "4573236371610",
+        "#029 PINK IWASHI (UV)": "4573236219776",
+        "#078 BLUE PINK IWASHI (UV)": "4573236219806"
+      }
     },
     {
       "id": "maki-jig-slow",
@@ -10518,7 +11539,30 @@
       },
       "jan": "4573236194615.0",
       "price_usd": 2.6899999999999995,
-      "price_eur": 3.2485624999999994
+      "price_eur": 3.2485624999999994,
+      "color_jans": {
+        "#003 RED GOLD": "4573236193342",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#015 KEIMURA IWASHI": "4573236370262",
+        "#019 SUPER GLOW": "4573236371610",
+        "#029 PINK IWASHI (UV)": "4573236219776",
+        "#034 PINK COTTON CANDY": "4573236322919",
+        "#060 PINK GLOW": "4573236186603",
+        "#063 2 TONE IWASHI ZEBRA": "4573236211336",
+        "#077 ZEBRA RED GOLD": "4573236206431",
+        "#078 BLUE PINK IWASHI (UV)": "4573236219806",
+        "#079 GREEN GOLD AJI (UV)": "4573236190402",
+        "#080 LIVE IWASHI (UV)": "4573236219813",
+        "#081 LIVE KIN IWASHI (UV)": "4573236198668",
+        "#084 LIVE SABA (UV)": "4573236198699",
+        "#085 LIVE KIN SABA (UV)": "4573236219837",
+        "#086 LIVE KIBINAGO (UV)": "4573236198088",
+        "#087 LIVE HARA GLOW KIBINAGO (UV)": "4573236219844",
+        "#097 DAMAGE IWASHI(UV)": "4573236219851",
+        "#098 DAMAGE GOLD IWASHI(UV)": "4573236219868",
+        "#099 DAMAGE HARA GLOW IWASHI": "4573236219875"
+      }
     },
     {
       "id": "metal-dragon",
@@ -10616,7 +11660,17 @@
       },
       "jan": "4573236195919.0",
       "price_usd": 3.936,
-      "price_eur": 4.444888888888889
+      "price_eur": 4.444888888888889,
+      "color_jans": {
+        "#006 BLUE SILVER": "4573236193373",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#008 SILVER": "4573236193397",
+        "#046 MILLOR SILVER": "4573236219790",
+        "#047 GLOW SILVER": "4560350796719",
+        "#053 KEIMURA SILVER": "4573236186535",
+        "#055 KEIMURA MIRROR": "4573236186559",
+        "#057 GLOW HEAD": "4573236186573"
+      }
     },
     {
       "id": "nano-rubber-tie",
@@ -10648,7 +11702,13 @@
       },
       "jan": "4573236216270.0",
       "price_usd": 1.3683544303797468,
-      "price_eur": 7.941176470588235
+      "price_eur": 7.941176470588235,
+      "color_jans": {
+        "#002 ORANGE GOLD": "4573236193335",
+        "#003 RED GOLD": "4573236193342",
+        "#004 GREEN SILVER": "4573236193359",
+        "#005 PINK RED": "4573236193366"
+      }
     },
     {
       "id": "nano-rubber",
@@ -10798,7 +11858,15 @@
       },
       "jan": "4573236215914.0",
       "price_usd": 2.1177215189873415,
-      "price_eur": 2.218776371308017
+      "price_eur": 2.218776371308017,
+      "color_jans": {
+        "#001 KEIMURA GOLD": "4573236193328",
+        "#002 KEIMURA RED GOLD": "4573236193335",
+        "#003 KEIMURA ORANGE GOLD": "4573236193342",
+        "#004 KEIMURA GREEN GOLD": "4573236193359",
+        "#005 KEIMURA PINK SILVER": "4573236193366",
+        "#006 GLOW": "4573236193373"
+      }
     },
     {
       "id": "paraworm-fall-ika",
@@ -10856,7 +11924,21 @@
       },
       "jan": "4573236215631.0",
       "price_usd": 1.4693333333333332,
-      "price_eur": 1.4693333333333332
+      "price_eur": 1.4693333333333332,
+      "color_jans": {
+        "#041 KEIMURA CLEAR": "4573236211312",
+        "#062 KEIMURA CLEAR SILVER": "4573236211329",
+        "#063 KEIMURA CLEAR LEMON": "4573236211336",
+        "#064 CLEAR MIKAN": "4573236211343",
+        "#065 CLEAR PINK": "4573236211350",
+        "#066 CLEAR MELON": "4573236211367",
+        "#067 CLEAR RED LAME FLAKE": "4573236211374",
+        "#068 CLEAR KABURA GREEN": "4573236211381",
+        "#069 SOLID LEMON": "4573236211398",
+        "#070 SOLID MIKAN": "4573236211404",
+        "#071 SOLID GREEN": "4573236211411",
+        "#072 WHITE GLOW": "4573236211428"
+      }
     },
     {
       "id": "paraworm-fall-mushi",
@@ -10912,7 +11994,21 @@
       },
       "jan": "4573236211312.0",
       "price_usd": 1.6138461538461537,
-      "price_eur": 6.655294117647059
+      "price_eur": 6.655294117647059,
+      "color_jans": {
+        "#041 KEIMURACLEAR": "4573236211312",
+        "#062 KEIMURACLEAR  SILVER": "4573236211329",
+        "#063 KEIMURACLEAR LEMON": "4573236211336",
+        "#064 CLEAR MIKAN": "4573236211343",
+        "#065 CLEAR  PINK": "4573236211350",
+        "#066 CLEAR  MELON": "4573236211367",
+        "#067 CLEAR RED LAME": "4573236211374",
+        "#068 CLEAR KABURA GREEN": "4573236211381",
+        "#069 LEMON": "4573236211398",
+        "#070 MIKAN": "4573236211404",
+        "#071 GREEN": "4573236211411",
+        "#072 WHITE GLOW": "4573236211428"
+      }
     },
     {
       "id": "paraworm-puri-puri-tail",
@@ -11032,7 +12128,22 @@
       },
       "jan": "4573236214719.0",
       "price_usd": 1.4685714285714286,
-      "price_eur": 5.4941176470588236
+      "price_eur": 5.4941176470588236,
+      "color_jans": {
+        "#041 KEIMURA CLEAR": "4573236211312",
+        "#062 KEIMURA SILVER": "4573236211329",
+        "#063 Keimura Clear Lemon": "4573236211336",
+        "#064 Clear Orange": "4573236211343",
+        "#065 Clear Pink": "4573236211350",
+        "#066 Clear Melon": "4573236211367",
+        "#067 Clear Red Flake": "4573236211374",
+        "#068 Clear Green": "4573236211381",
+        "#069 Solid Lemon": "4573236211398",
+        "#070 Solid Orange": "4573236211404",
+        "#071 Solid Green": "4573236211411",
+        "#072 White Glow": "4573236211428",
+        "#062 KEIMURA CLEAR SILVER": "4573236211329"
+      }
     },
     {
       "id": "paraworm-stick",
@@ -11120,7 +12231,21 @@
       },
       "jan": "4573236211510.0",
       "price_usd": 1.5184615384615385,
-      "price_eur": 6.655294117647059
+      "price_eur": 6.655294117647059,
+      "color_jans": {
+        "#041 KEIMURA CLEAR": "4573236211312",
+        "#062 KEIMURA CLEAR SILVER": "4573236211329",
+        "#063 KEIMURA CLEAR LEMON": "4573236211336",
+        "#064 CLEAR MIKAN": "4573236211343",
+        "#065 CLEAR PINK": "4573236211350",
+        "#066 CLEAR MELON": "4573236211367",
+        "#067 CLEAR RED LAME": "4573236211374",
+        "#068 CLEAR KABURA GREEN": "4573236211381",
+        "#069 LEMON": "4573236211398",
+        "#070 MIKAN": "4573236211404",
+        "#071 GREEN": "4573236211411",
+        "#072 WHITE GLOW": "4573236211428"
+      }
     },
     {
       "id": "puri-puri-claw",
@@ -11161,7 +12286,16 @@
       },
       "jan": "4573236215457.0",
       "price_usd": 1.9585714285714286,
-      "price_eur": 5.4941176470588236
+      "price_eur": 5.4941176470588236,
+      "color_jans": {
+        "#001 RED": "4573236193328",
+        "#002 ORANGE": "4573236193335",
+        "#003 YELLOW": "4573236193342",
+        "#004 GLOW": "4573236193359",
+        "#005 GREEN": "4573236193366",
+        "#006 PINK": "4573236193373",
+        "#007 PEARL WHITE": "4573236193380"
+      }
     },
     {
       "id": "puri-puri-taco-crab-worm",
@@ -11199,7 +12333,15 @@
       },
       "jan": "4573236215396.0",
       "price_usd": 2.107142857142857,
-      "price_eur": 7.4270588235294115
+      "price_eur": 7.4270588235294115,
+      "color_jans": {
+        "#001 KEIMURA RED": "4573236193328",
+        "#002 KEIMURA ORANGE": "4573236193335",
+        "#003 KEIMURA YELLOW": "4573236193342",
+        "#004 KEIMURA PINK": "4573236193359",
+        "#005 GLOW": "4573236193366",
+        "#010 KEIMURA GREEN": "4573236290201"
+      }
     },
     {
       "id": "puri-puri-taco-crab",
@@ -11243,7 +12385,17 @@
       },
       "jan": "4573236215310.0",
       "price_usd": 4.41,
-      "price_eur": 6.655294117647059
+      "price_eur": 6.655294117647059,
+      "color_jans": {
+        "#001 AKA EBI (GLOW)": "4573236193328",
+        "#002 MIKAN EBI (GLOW)": "4573236193335",
+        "#003 YELLOW TIGER (GLOW)": "4573236193342",
+        "#004 PINK EBI (GLOW)": "4573236193359",
+        "#005 GLOW EBI (GLOW)": "4573236193366",
+        "#006 AKAKIN EBI": "4573236193373",
+        "#007 KIN MIKAN EBI": "4573236193380",
+        "#010 MIDORI EBI (GLOW)": "4573236290201"
+      }
     },
     {
       "id": "puri-puri-taco-ebi",
@@ -11305,7 +12457,23 @@
       },
       "jan": "4573236215228.0",
       "price_usd": 3.8337499999999993,
-      "price_eur": 5.4941176470588236
+      "price_eur": 5.4941176470588236,
+      "color_jans": {
+        "#001 AKA EBI": "4573236193328",
+        "#002 MIKAN EBI": "4573236193335",
+        "#003 YELLOW TIGER EBI": "4573236193342",
+        "#004 PINK EBI": "4573236193359",
+        "#005 GLOW EBI": "4573236193366",
+        "#006 KIN AKA EBI": "4573236193373",
+        "#007 KIN MIKAN EBI": "4573236193380",
+        "#008 KURUMAEBI": "4573236193397",
+        "#009 BLACK TIGER": "4573236290195",
+        "#010 KUROKAGE": "4573236290201",
+        "#011 SHIROKAGE": "4573236370224",
+        "#012 AOKAGE (UV)": "4573236370231",
+        "#013 MIDORIKAGE": "4573236370248",
+        "#014 AKAKAGE (UV)": "4573236370255"
+      }
     },
     {
       "id": "redback-custom-hook",
@@ -11360,7 +12528,15 @@
       },
       "jan": "4573236361611.0",
       "price_usd": 3.074285714285714,
-      "price_eur": 6.655294117647059
+      "price_eur": 6.655294117647059,
+      "color_jans": {
+        "#001 ORANGE (GOLDEN GLITTER)": "4573236193328",
+        "#002 RED (GOLDEN GLITTER)": "4573236193335",
+        "#005 ORANGE ZEBRA": "4573236193366",
+        "#006 RED ZEBRA": "4573236193373",
+        "#011 GOLDEN ORANGE": "4573236370224",
+        "#012 GOLDEN RED": "4573236370231"
+      }
     },
     {
       "id": "redback-custom-tie",
@@ -11422,7 +12598,23 @@
       },
       "jan": "4573236183879.0",
       "price_usd": 1.9585714285714286,
-      "price_eur": 5.4941176470588236
+      "price_eur": 5.4941176470588236,
+      "color_jans": {
+        "#001 ORANGE(GOLD GLITTER)": "4573236193328",
+        "#002 RED(GOLD GLITTER)": "4573236193335",
+        "#003 GOLD": "4573236193342",
+        "#004 COLA": "4573236193359",
+        "#005 ORANGE ZEBRA": "4573236193366",
+        "#006 RED ZEBRA": "4573236193373",
+        "#007 KEIMURA": "4573236193380",
+        "#008 MAZIORA": "4573236193397",
+        "#009 YELLOW TIGER": "4573236290195",
+        "#010 GOLDEN BLACK": "4573236290201",
+        "#011 GOLDEN ORANGE": "4573236370224",
+        "#012 GOLDEN RED": "4573236370231",
+        "#020 GOLDEN SQUID RED": "4573236371627",
+        "#021 GOLDEN CRAB BLACK": "4573236290614"
+      }
     },
     {
       "id": "redback-kemu-kemu-curly-worm",
@@ -11457,7 +12649,14 @@
       },
       "jan": "4573236223650.0",
       "price_usd": 2.405714285714286,
-      "price_eur": 9.090588235294117
+      "price_eur": 9.090588235294117,
+      "color_jans": {
+        "#001 ORANGE": "4573236193328",
+        "#002 RED": "4573236193335",
+        "#003 NORI": "4573236193342",
+        "#004 ORANGE GTILLER": "4573236193359",
+        "#005 RED GLITTER": "4573236193366"
+      }
     },
     {
       "id": "rockliver-dragon-screw",
@@ -11524,7 +12723,16 @@
       },
       "jan": "4573236336473.0",
       "price_usd": 1.8399999999999999,
-      "price_eur": 2.002191780821918
+      "price_eur": 2.002191780821918,
+      "color_jans": {
+        "#001 SAIKYO ORANGE": "4573236193328",
+        "#002 WEED PUMPKIN": "4573236193335",
+        "#003 WISKY GOLD": "4573236193342",
+        "#014 KEIMURA BOURBON (UV)": "4573236370255",
+        "#015 KEIMURA SAKURA (UV)": "4573236370262",
+        "#016 DARK BLUE": "4573236371580",
+        "#017 ORANGE TAIL": "4573236371597"
+      }
     },
     {
       "id": "rockliver-lucky-craw",
@@ -11575,7 +12783,19 @@
       },
       "jan": "4573236330686.0",
       "price_usd": 1.8557142857142856,
-      "price_eur": 6.655294117647059
+      "price_eur": 6.655294117647059,
+      "color_jans": {
+        "#011 WINE RED": "4573236370224",
+        "#012 UV HIGHBALL": "4573236370231",
+        "#013 UV VIOLET": "4573236370248",
+        "#001 SAIKYO ORANGE": "4573236193328",
+        "#002 WEED PUMPKIN": "4573236193335",
+        "#003 WISKY GOLD": "4573236193342",
+        "#004 GREEN PUMPKIN CHART": "4573236193359",
+        "#005 AKAKIN": "4573236193366",
+        "#006 AURORA (UV)": "4573236193373",
+        "#007 SILHOUETTE BLACK": "4573236193380"
+      }
     },
     {
       "id": "rockliver-magic-shad",
@@ -11628,7 +12848,19 @@
       },
       "jan": "4573236331089.0",
       "price_usd": 1.8399999999999999,
-      "price_eur": 1.8399999999999999
+      "price_eur": 1.8399999999999999,
+      "color_jans": {
+        "#011 WINE RED": "4573236370224",
+        "#012 UV HIGHBALL": "4573236370231",
+        "#013 UV VIOLET": "4573236370248",
+        "#001 SAIKYO ORANGE": "4573236193328",
+        "#002 WEED PUMPKIN": "4573236193335",
+        "#003 WISKY GOLD": "4573236193342",
+        "#006 AURORA (UV)": "4573236193373",
+        "#008 MIDOKIN": "4573236193397",
+        "#009 MANGO CHART": "4573236290195",
+        "#010 MIZUNARA GOLD": "4573236290201"
+      }
     },
     {
       "id": "rockliver-still-pencil",
@@ -11677,7 +12909,18 @@
       },
       "jan": "4573236332482.0",
       "price_usd": 2.508571428571429,
-      "price_eur": 2.508571428571429
+      "price_eur": 2.508571428571429,
+      "color_jans": {
+        "#001 CLEAR LAME": "4573236193328",
+        "#002 CLEAR PINK HEAD (GLOW)": "4573236193335",
+        "#003 CLEAR CHART HEAD (DOT GLOW)": "4573236193342",
+        "#004 IKA (DOT GLOW)": "4573236193359",
+        "#005 MATTE CHART": "4573236193366",
+        "#006 CLEAR CANDY": "4573236193373",
+        "#007 CLEAR PINK BACK": "4573236193380",
+        "#008 CLEAR BLUE BACK": "4573236193397",
+        "#009 CLEAR ORANGE": "4573236290195"
+      }
     },
     {
       "id": "rockliver-still-shad",
@@ -11726,7 +12969,18 @@
       },
       "jan": "4573236330976.0",
       "price_usd": 2.508571428571429,
-      "price_eur": 2.508571428571429
+      "price_eur": 2.508571428571429,
+      "color_jans": {
+        "#001 CLEAR LAME": "4573236193328",
+        "#002 CLEAR PINK HEAD (GLOW)": "4573236193335",
+        "#003 CLEAR CHART HEAD (DOT GLOW)": "4573236193342",
+        "#004 IKA (DOT GLOW)": "4573236193359",
+        "#005 MATTE CHART": "4573236193366",
+        "#006 CLEAR CANDY": "4573236193373",
+        "#007 CLEAR PINK BACK": "4573236193380",
+        "#008 CLEAR BLUE BACK": "4573236193397",
+        "#009 CLEAR ORANGE": "4573236290195"
+      }
     },
     {
       "id": "stabi-shad-bulk-box-fat-type-8-10",
@@ -11794,7 +13048,17 @@
       },
       "jan": "4573236325187.0",
       "price_usd": 24.698529411764707,
-      "price_eur": 6.655294117647059
+      "price_eur": 6.655294117647059,
+      "color_jans": {
+        "#006 CLEAR": "4573236193373",
+        "#F001 AYU": "4573236321660",
+        "#F002 GOLDEN PERCH": "4573236321677",
+        "#F003 BABY MINNOW": "4573236321684",
+        "#F004 MAT TIGER": "4573236321691",
+        "#F005 RED TIGER": "4573236321707",
+        "#F020 LIVE PERCH": "4573236321714",
+        "#F024 LIVE ROACH": "4573236321752"
+      }
     },
     {
       "id": "stabi-shad-bulk-box-fat-type-fresh-water-version",
@@ -11956,7 +13220,19 @@
       },
       "jan": "4573236326115.0",
       "price_usd": 43.99957656475969,
-      "price_eur": 5.77529411764706
+      "price_eur": 5.77529411764706,
+      "color_jans": {
+        "#F001 AYU": "4573236321660",
+        "#F002 GOLDEN PERCH": "4573236321677",
+        "#F003 BABY MINNOW": "4573236321684",
+        "#F004 MAT TIGER": "4573236321691",
+        "#F005 RED TIGER": "4573236321707",
+        "#F020 LIVE PERCH": "4573236321714",
+        "#F021 LIVE RAINBOW TROUT": "4573236321721",
+        "#F022 LIVE BABY PIKE": "4573236321738",
+        "#F023 LIVE ZANDER": "4573236321745",
+        "#F024 LIVE ROACH": "4573236321752"
+      }
     },
     {
       "id": "stabi-shad-bulk-box-slim-type-fresh-water-version",
@@ -12118,7 +13394,19 @@
       },
       "jan": "4573236326818.0",
       "price_usd": 42.31957342657343,
-      "price_eur": 7.745882352941177
+      "price_eur": 7.745882352941177,
+      "color_jans": {
+        "#F001 AYU": "4573236321660",
+        "#F002 GOLDEN PERCH": "4573236321677",
+        "#F003 BABY MINNOW": "4573236321684",
+        "#F004 MAT TIGER": "4573236321691",
+        "#F005 RED TIGER": "4573236321707",
+        "#F020 LIVE PERCH": "4573236321714",
+        "#F021 LIVE RAINBOW TROUT": "4573236321721",
+        "#F022 LIVE BABY PIKE": "4573236321738",
+        "#F023 LIVE ZANDER": "4573236321745",
+        "#F024 LIVE ROACH": "4573236321752"
+      }
     },
     {
       "id": "stabi-shad-fresh-water",
@@ -12280,7 +13568,19 @@
       },
       "jan": "4573236321660.0",
       "price_usd": 2.52,
-      "price_eur": 5.77529411764706
+      "price_eur": 5.77529411764706,
+      "color_jans": {
+        "#F001 AYU": "4573236321660",
+        "#F002 GOLDEN PERCH": "4573236321677",
+        "#F003 BABY MINNOW": "4573236321684",
+        "#F004 MAT TIGER": "4573236321691",
+        "#F005 RED TIGER": "4573236321707",
+        "#F020 LIVE PERCH": "4573236321714",
+        "#F021 LIVE RAINBOW TROUT": "4573236321721",
+        "#F022 LIVE BABY PIKE": "4573236321738",
+        "#F023 LIVE ZANDER": "4573236321745",
+        "#F024 LIVE ROACH": "4573236321752"
+      }
     },
     {
       "id": "stabi-shad-slim-fresh-water",
@@ -12442,7 +13742,19 @@
       },
       "jan": "4573236322360.0",
       "price_usd": 2.36,
-      "price_eur": 5.77529411764706
+      "price_eur": 5.77529411764706,
+      "color_jans": {
+        "#F001 AYU": "4573236321660",
+        "#F002 GOLDEN PERCH": "4573236321677",
+        "#F003 BABY MINNOW": "4573236321684",
+        "#F004 MAT TIGER": "4573236321691",
+        "#F005 RED TIGER": "4573236321707",
+        "#F020 LIVE PERCH": "4573236321714",
+        "#F021 LIVE RAINBOW TROUT": "4573236321721",
+        "#F022 LIVE BABY PIKE": "4573236321738",
+        "#F023 LIVE ZANDER": "4573236321745",
+        "#F024 LIVE ROACH": "4573236321752"
+      }
     },
     {
       "id": "stabi-shad-slim-type-sw-color-bulk-box",
@@ -12615,7 +13927,20 @@
       },
       "jan": "4573236325354.0",
       "price_usd": 20.4295652173913,
-      "price_eur": 6.7541176470588224
+      "price_eur": 6.7541176470588224,
+      "color_jans": {
+        "#001 RED GOLD": "4573236193328",
+        "#002 BLUE SILVER": "4573236193335",
+        "#003 ORANGE GOLD": "4573236193342",
+        "#004 BLACK GOLD": "4573236193359",
+        "#005 CHART SILVER": "4573236193366",
+        "#006 CLEAR": "4573236193373",
+        "#007 GLOW": "4573236193380",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#022 LIVE SABA": "4573236290621",
+        "#024 LIVE KIBINAGO": "4573236291987",
+        "#025 LIVE DOJO": "4573236291994"
+      }
     },
     {
       "id": "stabi-shad-slim",
@@ -12798,7 +14123,21 @@
       },
       "jan": "4573236320236.0",
       "price_usd": 2.0891604095563143,
-      "price_eur": 2.117496245733789
+      "price_eur": 2.117496245733789,
+      "color_jans": {
+        "#001 RED GOLD": "4573236193328",
+        "#002 BLUE SILVER": "4573236193335",
+        "#003 ORANGE GOLD": "4573236193342",
+        "#004 BLACK GOLD": "4573236193359",
+        "#005 CHART SILVER": "4573236193366",
+        "#006 CLEAR": "4573236193373",
+        "#007 GLOW": "4573236193380",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#022 LIVE SABA": "4573236290621",
+        "#024 LIVE KIBINAGO": "4573236291987",
+        "#025 LIVE DOJO": "4573236291994",
+        "#004 004 BLACK GOLD": "4573236193359"
+      }
     },
     {
       "id": "stabi-shad-sw-color-fat-type-bulk-box",
@@ -14552,7 +15891,196 @@
       },
       "jan": "4573236324586.0",
       "price_usd": 23.9795624267111,
-      "price_eur": 6.7541176470588224
+      "price_eur": 6.7541176470588224,
+      "color_jans": {
+        "#001 AKA EBI": "4573236193328",
+        "#001 BLUE PINK (UV)": "4573236193328",
+        "#001 BLUE SILVER (UV)": "4573236193328",
+        "#001 IKANAGO GOLD": "4573236193328",
+        "#001 KEIMURA IKANAGO GOLD": "4573236193328",
+        "#001 ORANGE-RED": "4573236193328",
+        "#002 KEIMURA RED GOLD": "4573236193335",
+        "#002 MIKAN EBI": "4573236193335",
+        "#002 ORANGE-GOLD": "4573236193335",
+        "#002 RED": "4573236193335",
+        "#002 RED GOLD": "4573236193335",
+        "#002 RED GOLD (UV)": "4573236193335",
+        "#003 GREEN GOLD": "4573236193342",
+        "#003 KEIMURA PINK": "4573236193342",
+        "#003 LIME GREEN GOLD (UV)": "4573236193342",
+        "#003 ORANGE-COLA": "4573236193342",
+        "#003 YELLOW TIGER": "4573236193342",
+        "#004 ORANGE GOLD (UV)": "4573236193359",
+        "#004 ORANGE-HOLO": "4573236193359",
+        "#004 PINK EBI": "4573236193359",
+        "#004 PINK GOLD IWASHI": "4573236193359",
+        "#005 GLOW": "4573236193366",
+        "#005 GLOW EBI": "4573236193366",
+        "#005 KEIMURA ORANGE": "4573236193366",
+        "#005 NATURAL KISU (UV)": "4573236193366",
+        "#005 RED-GOLD": "4573236193366",
+        "#006 GLOW PEARL PINK": "4573236193373",
+        "#006 GREEN-GOLD": "4573236193373",
+        "#006 KEIMURA GREEN": "4573236193373",
+        "#006 PEARL PINK": "4573236193373",
+        "#007 COLA": "4573236193380",
+        "#007 FULL GLOW CHART": "4573236193380",
+        "#007 GOLD-HOLO": "4573236193380",
+        "#007 LIME GREEN": "4573236193380",
+        "#008 GREEN PUMPKIN": "4573236193397",
+        "#008 PINK SILVER (UV)": "4573236193397",
+        "#009 HOLO": "4573236290195",
+        "#010 BLACK": "4573236290201",
+        "#010 BLACK-ORANGE ZEBRA": "4573236290201",
+        "#011 RED BLACK ZEBRA": "4573236370224",
+        "#011 RED-GOLD ORANGE ZEBRA": "4573236370224",
+        "#012 AOKAGE (UV)": "4573236370231",
+        "#012 ORANGE BLACK ZEBRA": "4573236370231",
+        "#012 ORANGE-RED ZEBRA": "4573236370231",
+        "#013 MIDORIKAGE": "4573236370248",
+        "#013 ZEBRA GLOW": "4573236370248",
+        "#001 GLOW PUPLE PINK": "4573236193328",
+        "#002 GLOW RED YELLOW": "4573236193335",
+        "#003 BLUE GLOW RED GREEN": "4573236193342",
+        "#004 BLUE GLOW BLUE BLUE": "4573236193359",
+        "#005 BLUE GLOW APPEAL": "4573236193366",
+        "#006 ORANGE GLOW LIME ORANGE": "4573236193373",
+        "#007 KEIMURA PURPLE": "4573236193380",
+        "#008 KEIMURA APPEAL PINK": "4573236193397",
+        "#009 GLOW ZEBRA BLACK ORANGE": "4573236290195",
+        "#010 BLUE GLOW ZEBRA RED YELLOW": "4573236290201",
+        "#001 GLOW PURPLE PINK": "4573236193328",
+        "#002 BLUE GLOW RED GREEN": "4573236193335",
+        "#003 ORANGE GLOW LIME ORANGE": "4573236193342",
+        "#004 KEIMURA PURPLE PURPLE": "4573236193359",
+        "#005 GLOW ZEBRA BLACK ORANGE": "4573236193366",
+        "#006 BLUE GLOW ZEBRA RED YELLOW": "4573236193373",
+        "#007 MATTE GLOW PINK": "4573236193380",
+        "#008 MATTE GLOW ORANGE": "4573236193397",
+        "#009 MATTE CHART GLOW": "4573236290195",
+        "#001 RED GOLD": "4573236193328",
+        "#002 BLUE SILVER": "4573236193335",
+        "#003 ORANGE GOLD": "4573236193342",
+        "#004 BLACK GOLD": "4573236193359",
+        "#005 CHART SILVER": "4573236193366",
+        "#006 CLEAR": "4573236193373",
+        "#007 GLOW": "4573236193380",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE AJI": "4573236290614",
+        "#022 LIVE SABA": "4573236290621",
+        "#001 KEIMURA RED GOLD": "4573236193328",
+        "#002 KEIMURA ORANGE GOLD": "4573236193335",
+        "#003 KEIMURA GRENN GOLD": "4573236193342",
+        "#004 KEIMURA RED": "4573236193359",
+        "#006 SUPER GLOW": "4573236193373",
+        "#007 FUJIYAMA": "4573236193380",
+        "#008 GLOW MASCUT GREEN": "4573236193397",
+        "#009 FUJIYAMA GLOW ORANGE": "4573236290195",
+        "#010 KEIMURA VIOLET": "4573236290201",
+        "#011 MATTE BLACK": "4573236370224",
+        "#003 KEIMURA GREEN GOLD": "4573236193342",
+        "#001 KEIMURA IWASHI": "4573236193328",
+        "#002 MATT CHART": "4573236193335",
+        "#003 RED GOLD": "4573236193342",
+        "#004 KEIMURA BORA": "4573236193359",
+        "#005 KEIMURA CHART CANDY": "4573236193366",
+        "#006 GREEN GOLD": "4573236193373",
+        "#007 KEIMURA SHIRASU": "4573236193380",
+        "#008 RED HEAD": "4573236193397",
+        "#009 CHART BACK CLEAR": "4573236290195",
+        "#010 KATAKUCHI IWASHI CLEAR": "4573236290201",
+        "#005 BLUE GLOW APPEAL RED": "4573236193366",
+        "#007 KEIMURA PURPLE PURPLE": "4573236193380",
+        "#009 RED GREEN": "4573236290195",
+        "#010 RED YELLOW": "4573236290201",
+        "#001 GOLDEN KING": "4573236193328",
+        "#002 GREEN MONSTER": "4573236193335",
+        "#003 MURAPIN (PURPLE)": "4573236193342",
+        "#004 SUNFLOWER": "4573236193359",
+        "#005 SHELL WHITE (GLOW)": "4573236193366",
+        "#006 BLACK THUNDER": "4573236193373",
+        "#011 VERY PINK": "4573236370224",
+        "#012 YELLOW TIGER": "4573236370231",
+        "#013 SUNSET ORANGE": "4573236370248",
+        "#014 ITALIAN NIMO": "4573236370255",
+        "#001 SUPER GLOW": "4573236193328",
+        "#002 PURPLE": "4573236193335",
+        "#003 ZEBRA PURPLE": "4573236193342",
+        "#004 RED": "4573236193359",
+        "#005 ZEBRA RED": "4573236193366",
+        "#006 ZEBRA YELLOW": "4573236193373",
+        "#007 GLOW ORANGE": "4573236193380",
+        "#008 KEIMURA IWASHI": "4573236193397",
+        "#009 KEIMURA PINK IWASHI": "4573236290195",
+        "#010 MATT BLACK": "4573236290201",
+        "#011 ZEBRA GOLD": "4573236370224",
+        "#012 GOLD PINK (UV)": "4573236370231",
+        "#001 IWASHI": "4573236193328",
+        "#004 BLUE PINK": "4573236193359",
+        "#020 GLOW PINK": "4573236371627",
+        "#021 KATAKUCHI (UV)": "4573236290614",
+        "#022 SHIRASU (UV)": "4573236290621",
+        "#023 ZEBRA GLOW": "4573236290638",
+        "#001 ORANGE-ORANGE": "4573236193328",
+        "#002 ORANGE-RED": "4573236193335",
+        "#003 SILVER-PINK": "4573236193342",
+        "#004 GOLD-RED": "4573236193359",
+        "#005 GOLD-ORANGE": "4573236193366",
+        "#006 GOLD-GREEN": "4573236193373",
+        "#007 RED-RED": "4573236193380",
+        "#00 CLEAR": "4573236180786",
+        "#008 RED-ORANGE": "4573236193397",
+        "#009 RED-BLACK": "4573236290195",
+        "#014 METAL GOLD": "4573236370255",
+        "#015 METAL ORANGE GOLD": "4573236370262",
+        "#016 METAL GOLD RED": "4573236371580",
+        "#040 GLOW CHART": "4573236340852",
+        "#041 GLOW PINK": "4573236211312",
+        "#050 ORANGE RED DOT GLOW": "4560350799048",
+        "#051 GOLD RED DOT GLOW": "4573236186511",
+        "#101 BEE YAMAME": "4560350786147",
+        "#102 GOLDEN TURQUIOISE YAMAME": "4573236301433",
+        "#001 IWASHI (UV)": "4573236193328",
+        "#003 GREEN GOLD (UV)": "4573236193342",
+        "#004 BLUE PINK (UV)": "4573236193359",
+        "#005 PINK IWASHI (UV)": "4573236193366",
+        "#006 CHART CANDY (UV)": "4573236193373",
+        "#007 BORA KONOSHIRO (UV)": "4573236193380",
+        "#002 ORAGE-RED": "4573236193335",
+        "#001 ZEBRA GLOW": "4573236193328",
+        "#002 ZEBRA PINK": "4573236193335",
+        "#004 ZEBRA RED GOLD": "4573236193359",
+        "#005 PURPLE": "4573236193366",
+        "#006 SILVER": "4573236193373",
+        "#007 PINK": "4573236193380",
+        "#008 RED GOLD": "4573236193397",
+        "#G001 SANDEEL": "4573236204550",
+        "#003 SILVER- PINK": "4573236193342",
+        "#001 PINKHEAD GLOW": "4573236193328",
+        "#001 REDHEAD CHART GLOW": "4573236193328",
+        "#001 REDHEAD GLOW": "4573236193328",
+        "#004 SUPER GLOW": "4573236193359",
+        "#005 BLUE GLOW ZEBRA": "4573236193366",
+        "#006 PINK GLOW ZEBRA": "4573236193373",
+        "#001 KIN IWASHI-UV": "4573236193328",
+        "#002 APPEAL PINK-UV": "4573236193335",
+        "#003 PURPLE MAGIC-UV": "4573236193342",
+        "#004 CHARTBACK SILVER-UV": "4573236193359",
+        "#005 GOLD LIME CHART-UV": "4573236193366",
+        "#006 CHARTBACK PEARL ORANGE BELLY-UV": "4573236193373",
+        "#007 MATT CHART": "4573236193380",
+        "#008 CHARTBACK CANDY-UV": "4573236193397",
+        "#009 CHROME-UV": "4573236290195",
+        "#010 HAJIRAI SHIRASU-UV": "4573236290201",
+        "#002 PINK": "4573236193335",
+        "#007 ZEBRA GLOW": "4573236193380",
+        "#015 KEIMURA IWASHI (UV)": "4573236370262",
+        "#016 KEIMURA KATAKUCHI (UV)": "4573236371580",
+        "#042 PINK PURPLE": "4573236323053",
+        "#075 RED": "4573236207056",
+        "#081 LIVE KIN IWASHI (UV)": "4573236198668",
+        "#083 LIVE KIN AJI (UV)": "4573236219820"
+      }
     },
     {
       "id": "stabi-shad",
@@ -14724,7 +16252,20 @@
       },
       "jan": "4573236320014.0",
       "price_usd": 2.0891604095563143,
-      "price_eur": 2.3234962457337884
+      "price_eur": 2.3234962457337884,
+      "color_jans": {
+        "#001 RED GOLD": "4573236193328",
+        "#002 BLUE SILVER": "4573236193335",
+        "#003 ORANGE GOLD": "4573236193342",
+        "#004 BLACK GOLD": "4573236193359",
+        "#005 CHART SILVER": "4573236193366",
+        "#006 CLERA": "4573236193373",
+        "#007 GLOW": "4573236193380",
+        "#020 LIVE IWASHI": "4573236371627",
+        "#021 LIVE AJI": "4573236290614",
+        "#022 LIVE SABA": "4573236290621",
+        "#006 CLEAR": "4573236193373"
+      }
     }
   ]
 }

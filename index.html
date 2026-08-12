@@ -852,7 +852,7 @@
                     items.push({
                         productId,
                         productName: product?.name || productId,
-                        variant: variant !== 'default' ? variant : null,
+                        variant: variant,
                         color,
                         quantity: value
                     });
@@ -887,17 +887,24 @@
                 reader.onload = (event) => {
                     try {
                         const data = JSON.parse(event.target.result);
-                        
+
                         // Temizle ve yeni verileri yükle
                         orderData = {};
+                        currentVariant = {};
                         data.items.forEach(item => {
-                            const key = `${item.productId}|${item.variant || 'default'}|${item.color}`;
+                            const variant = item.variant || 'default';
+                            const key = `${item.productId}|${variant}|${item.color}`;
                             orderData[key] = item.quantity;
+
+                            // Variant seçimini restore et
+                            if (variant !== 'default') {
+                                currentVariant[item.productId] = variant;
+                            }
                         });
-                        
+
                         // localStorage'a kaydet
                         localStorage.setItem('majorCraftOrderData', JSON.stringify(orderData));
-                        
+
                         // Sayfayı yenile
                         currentPage = 1;
                         renderCurrentPage();

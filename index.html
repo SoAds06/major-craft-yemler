@@ -1010,7 +1010,11 @@
             // CSV oluştur (Excel açabilir)
             let csv = 'Ürün Adı,Seçenek,Renk,Adet,JAN Kodu\n';
             items.forEach(item => {
-                csv += `"${item['Ürün Adı']}","${item['Seçenek']}","${item['Renk']}",${item['Adet']},"${item['JAN Kodu']}"\n`;
+                const secenek = (item['Seçenek'] || '-').replace(/"/g, '""');
+                const urunAdi = (item['Ürün Adı'] || '').replace(/"/g, '""');
+                const renk = (item['Renk'] || '').replace(/"/g, '""');
+                const jan = (item['JAN Kodu'] || '-').replace(/"/g, '""');
+                csv += `"${urunAdi}","${secenek}","${renk}",${item['Adet']},"${jan}"\n`;
             });
 
             const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });

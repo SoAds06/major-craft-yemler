@@ -486,7 +486,7 @@
         let products = [];
         let currentPage = 1;
         let currentVariant = {};
-        
+
         // GLOBAL STATE - TÜM AĞ İŞ BURADA
         let orderData = {};
 
@@ -511,6 +511,13 @@
                     try {
                         orderData = JSON.parse(saved);
                         console.log('📂 Kaydedilmiş sipariş yüklendi:', Object.keys(orderData).length, 'adet');
+                        // orderData'dan variant seçimlerini çıkar
+                        Object.keys(orderData).forEach(key => {
+                            const [productId, variant] = key.split('|');
+                            if (variant && variant !== 'default') {
+                                currentVariant[productId] = variant;
+                            }
+                        });
                     } catch (e) {
                         console.log('Yeni sipariş başlanıyor...');
                         orderData = {};
@@ -930,13 +937,11 @@
                     console.log('Parsed:', { productId, variant, color });
                     const product = products.find(p => p.id === productId);
 
-                    // Color JAN'ını önce kontrol et, sonra variant, sonra product JAN'ını kullan
                     let jan = product?.jan || '-';
 
                     // Color-specific JAN (variant level)
                     if (variant !== 'default' && product?.variants && product.variants[variant]) {
                         const variantData = product.variants[variant];
-
                         if (variantData.color_jans && variantData.color_jans[color]) {
                             jan = variantData.color_jans[color];
                         } else if (variantData.jan) {

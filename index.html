@@ -912,9 +912,13 @@
 
         function downloadExcel() {
             const items = [];
+            console.log('🔍 orderData keys:', Object.keys(orderData));
+            console.log('orderData:', orderData);
             Object.entries(orderData).forEach(([key, value]) => {
+                console.log('Processing key:', key, 'value:', value);
                 if (value > 0) {
                     const [productId, variant, color] = key.split('|');
+                    console.log('Parsed:', { productId, variant, color });
                     const product = products.find(p => p.id === productId);
 
                     // Color JAN'ını önce kontrol et, sonra variant, sonra product JAN'ını kullan

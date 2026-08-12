@@ -511,6 +511,10 @@
                     try {
                         orderData = JSON.parse(saved);
                         console.log('📂 Kaydedilmiş sipariş yüklendi:', Object.keys(orderData).length, 'adet');
+
+                        // Eski 'default' variant'ları ilk variant'a migrate et
+                        migrateDefaultVariants();
+
                         // orderData'dan variant seçimlerini çıkar
                         Object.keys(orderData).forEach(key => {
                             const [productId, variant] = key.split('|');
@@ -529,6 +533,34 @@
             } catch (error) {
                 console.error('Ürünler yüklenemedi:', error);
                 showStatus('Ürünler yüklenirken hata oluştu!', 'error');
+            }
+        }
+
+        function migrateDefaultVariants() {
+            const keysToMigrate = [];
+            Object.keys(orderData).forEach(key => {
+                const [productId, variant, color] = key.split('|');
+                if (variant === 'default') {
+                    keysToMigrate.push({ key, productId, color });
+                }
+            });
+
+            keysToMigrate.forEach(({ key, productId, color }) => {
+                const product = products.find(p => p.id === productId);
+                if (product && product.variants) {
+                    const firstVariant = Object.keys(product.variants)[0];
+                    if (firstVariant) {
+                        const newKey = `${productId}|${firstVariant}|${color}`;
+                        orderData[newKey] = orderData[key];
+                        delete orderData[key];
+                        console.log(`✅ Migrated: ${key} → ${newKey}`);
+                    }
+                }
+            });
+
+            if (keysToMigrate.length > 0) {
+                localStorage.setItem('majorCraftOrderData', JSON.stringify(orderData));
+                console.log(`🔄 Eski ${keysToMigrate.length} siparişler update edildi`);
             }
         }
 

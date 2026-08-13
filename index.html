@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sipariş Paneli - Major Craft Yemler</title>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@latest/dist/xlsx.full.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -470,7 +471,8 @@
                 <div class="header-buttons">
                     <button class="btn-save" onclick="saveAllOrder()">💾 Kaydet</button>
                     <button class="btn-download" onclick="downloadOrder()">⬇️ JSON</button>
-                    <button class="btn-download" onclick="downloadExcel()" style="background: rgba(76,175,80,0.3); border: 2px solid rgba(76,175,80,0.5);">📊 Excel</button>
+                    <button class="btn-download" onclick="downloadCSV()" style="background: rgba(33,150,243,0.3); border: 2px solid rgba(33,150,243,0.5);">📋 CSV</button>
+                    <button class="btn-download" onclick="downloadExcelFile()" style="background: rgba(76,175,80,0.3); border: 2px solid rgba(76,175,80,0.5);">📊 Excel</button>
                     <button class="btn-download" onclick="loadOrderFile()">📂 Yükle</button>
                     <button class="btn-clear" onclick="clearAllOrder()">🗑️ Temizle</button>
                 </div>
@@ -648,7 +650,7 @@
                         <div class="icon-buttons">
                             <button class="icon-btn save" onclick="saveAllOrder()" title="Kaydet">💾</button>
                             <button class="icon-btn download" onclick="downloadOrder()" title="JSON İndir">⬇️</button>
-                            <button class="icon-btn download" onclick="downloadExcel()" title="Excel İndir">📊</button>
+                            <button class="icon-btn download" onclick="downloadExcelFile()" title="Excel İndir">📊</button>
                             <button class="icon-btn download" onclick="loadOrderFile()" title="Yükle">📂</button>
                             <button class="icon-btn clear" onclick="clearAllOrder()" title="Temizle">🗑️</button>
                             <div style="flex: 1;"></div>
@@ -965,7 +967,7 @@
             }
         }
 
-        function downloadExcel() {
+        function downloadCSV() {
             const items = [];
             console.log('🔍 orderData keys:', Object.keys(orderData));
             console.log('orderData:', orderData);
@@ -1029,7 +1031,65 @@
             link.click();
             document.body.removeChild(link);
 
-            showStatus('📊 Excel (CSV) indirildi!', 'success');
+            showStatus('📊 CSV indirildi!', 'success');
+        }
+
+        function downloadExcelFile() {
+            const items = [];
+            Object.entries(orderData).forEach(([key, value]) => {
+                if (value > 0) {
+                    const [productId, variant, color] = key.split('|');
+                    const product = products.find(p => p.id === productId);
+
+                    let jan = product?.jan || '-';
+
+                    // Color-specific JAN (variant level)
+                    if (variant !== 'default' && product?.variants && product.variants[variant]) {
+                        const variantData = product.variants[variant];
+                        if (variantData.color_jans && variantData.color_jans[color]) {
+                            jan = variantData.color_jans[color];
+                        } else if (variantData.jan) {
+                            jan = variantData.jan;
+                        }
+                    }
+                    // Color-specific JAN (product level - default variant için)
+                    else if (product?.color_jans && product.color_jans[color]) {
+                        jan = product.color_jans[color];
+                    }
+
+                    items.push({
+                        'Ürün Adı': product?.name || productId,
+                        'Seçenek': variant !== 'default' ? variant : '-',
+                        'Renk': color,
+                        'Adet': value,
+                        'JAN Kodu': jan,
+                        'Açıklama': `LURES, ${(product?.name || productId).toUpperCase()}, ${(variant !== 'default' ? variant : '-').toUpperCase()}, ${color.toUpperCase()}`
+                    });
+                }
+            });
+
+            if (items.length === 0) {
+                showStatus('❌ Sipariş yok!', 'error');
+                return;
+            }
+
+            // Excel (XLSX) oluştur
+            const worksheet = XLSX.utils.json_to_sheet(items);
+            const workbook = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(workbook, worksheet, "Sipariş");
+
+            // Column widths
+            worksheet['!cols'] = [
+                { wch: 20 },  // Ürün Adı
+                { wch: 12 },  // Seçenek
+                { wch: 25 },  // Renk
+                { wch: 8 },   // Adet
+                { wch: 15 },  // JAN Kodu
+                { wch: 50 }   // Açıklama
+            ];
+
+            XLSX.writeFile(workbook, `siparis-${new Date().toISOString().split('T')[0]}.xlsx`);
+            showStatus('📊 Excel (XLSX) indirildi!', 'success');
         }
 
         // Sayfa yüklendiğinde

@@ -998,7 +998,7 @@
                         'Renk': color,
                         'Adet': value,
                         'JAN Kodu': jan,
-                        'Açıklama': `LURES, ${product?.name || productId}, ${variant !== 'default' ? variant : '-'}, ${color}`
+                        'Açıklama': `LURES, ${(product?.name || productId).toUpperCase()}, ${(variant !== 'default' ? variant : '-').toUpperCase()}, ${color.toUpperCase()}`
                     });
                 }
             });

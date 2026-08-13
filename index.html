@@ -997,7 +997,8 @@
                         'Seçenek': variant !== 'default' ? variant : '-',
                         'Renk': color,
                         'Adet': value,
-                        'JAN Kodu': jan
+                        'JAN Kodu': jan,
+                        'Açıklama': `LURES, ${product?.name || productId}, ${variant !== 'default' ? variant : '-'}, ${color}`
                     });
                 }
             });
@@ -1008,13 +1009,14 @@
             }
 
             // CSV oluştur (Excel açabilir)
-            let csv = 'Ürün Adı,Seçenek,Renk,Adet,JAN Kodu\n';
+            let csv = 'Ürün Adı,Seçenek,Renk,Adet,JAN Kodu,Açıklama\n';
             items.forEach(item => {
                 const secenek = (item['Seçenek'] || '-').replace(/"/g, '""');
                 const urunAdi = (item['Ürün Adı'] || '').replace(/"/g, '""');
                 const renk = (item['Renk'] || '').replace(/"/g, '""');
                 const jan = (item['JAN Kodu'] || '-').replace(/"/g, '""');
-                csv += `"${urunAdi}","${secenek}","${renk}",${item['Adet']},"${jan}"\n`;
+                const aciklama = (item['Açıklama'] || '').replace(/"/g, '""');
+                csv += `"${urunAdi}","${secenek}","${renk}",${item['Adet']},"${jan}","${aciklama}"\n`;
             });
 
             const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
